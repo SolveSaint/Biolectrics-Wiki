@@ -1,7 +1,7 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/27/2025 2:30 PM
+updated: 10/27/2025 3:40 PM
 tags:
   - Therapeutics
   - Excitotoxicity
@@ -46,8 +46,6 @@ tags:
   - AdrenergicSignaling
   - CalciumOverload
 ---
-
-# Therapeutic Pathways and Mechanistic Targets
 
 This note compiles therapeutic mechanisms that mitigate excitotoxicity, oxidative stress, and bioelectric dysregulation. Each section outlines how a specific molecular target restores balance within the stress–glutamate–ROS cascade or supports cellular recovery through antioxidant or autophagic means.
 

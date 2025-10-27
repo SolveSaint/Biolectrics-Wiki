@@ -1,7 +1,7 @@
 ---
 title: NFAT and CREB in Glutamate Receptor Expression
 created: 10/20/2025 7:46 PM
-updated: 10/27/2025 2:29 PM
+updated: 10/27/2025 3:41 PM
 tags:
   - Biolectrics
   - NFAT
@@ -12,8 +12,6 @@ tags:
   - calcium
   - transcription
 ---
-
-# NFAT and CREB in Glutamate Receptor Expression
 
 ## Summary
 NFAT and CREB are the two major transcriptional systems that convert **neuronal activity** into **lasting receptor density changes** at excitatory synapses. They act as bridges between **electrical signaling** and **gene expression**, translating calcium entry through NMDA receptors and cAMP signaling into transcription of glutamate receptor subunits, scaffolding proteins, and receptor trafficking machinery. This process is what solidifies excitatory plasticity after stress and MR activation, turning transient firing into long-term receptor upregulation.

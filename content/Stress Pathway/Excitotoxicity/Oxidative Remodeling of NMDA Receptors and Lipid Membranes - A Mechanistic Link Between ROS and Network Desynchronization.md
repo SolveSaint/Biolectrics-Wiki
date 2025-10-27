@@ -1,7 +1,7 @@
 ---
 title: Oxidative Remodeling of NMDA Receptors and Lipid Membranes - A Mechanistic Link Between ROS and Network Desynchronization
 created: 2025-10-26 1:35 PM
-updated: 10/26/2025 9:34 PM
+updated: 10/27/2025 3:40 PM
 tags:
   - Excitotoxicity
   - ROS
@@ -16,8 +16,6 @@ tags:
   - Gamma
   - Mitochondria
 ---
-
-# Oxidative Remodeling of NMDA Receptors and Lipid Membranes — A Mechanistic Link Between ROS and Network Desynchronization
 
 ### Summary
 

@@ -1,7 +1,7 @@
 ---
 title: Baseline Receptor Expression - GRIN and GRIA Genes — Developmental Baseline of NMDA and AMPA Receptor Expression
 created: 10/20/2025 7:42 PM
-updated: 10/27/2025 2:28 PM
+updated: 10/27/2025 3:41 PM
 tags:
   - GRIN
   - GRIA
@@ -15,8 +15,6 @@ tags:
   - Stress
   - Excitotoxicity
 ---
-
-# GRIN and GRIA Genes — Developmental Baseline of NMDA and AMPA Receptor Expression
 
 ## Summary
 The GRIN (NMDA) and GRIA (AMPA) gene families establish the **foundational excitatory tone** of the nervous system from birth. They set receptor subunit composition, density, and calcium permeability before environmental stress or learning begins to modify these levels. Later in life, stress hormones, calcium-driven transcription factors (NFAT, CREB), and hormonal receptors (MR, GR) dynamically adjust this baseline, amplifying excitatory throughput. This makes GRIN and GRIA expression the *ground floor* upon which all stress-induced excitotoxic processes build.
