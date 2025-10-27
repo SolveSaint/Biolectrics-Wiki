@@ -1,7 +1,7 @@
 ---
 title: Research Paper Database
 created: 10/27/2025 12:19 AM
-updated: 10/27/2025 12:22 AM
+updated: 10/27/2025 4:47 PM
 tags:
   - Biolectrics
 ---
@@ -32,6 +32,7 @@ tags:
 | [Antioxidant responses and cellular adjustments to oxidative stress](https://doi.org/10.1016/j.redox.2015.07.008) | Espinosa-Diez et al. | 2015 |
 | [Antiseizure Effects of Mirtazapine in a Rat Model of Status Epilepticus Via Cannabinoid Receptor Modulation](https://doi.org/10.1007/s11064-025-04584-8) | Vafaei et al. | 2025 |
 | [Antiseizure Medication-Induced Alopecia: A Literature Review](https://doi.org/10.3390/medicines10060035) | Pitton Rissardo et al. | 2023 |
+| [Anxiety induced by systemic inflammation involves microglial engulfing of nucleus accumbens inputs and diminished excitability of dopamine D1 receptor neurons](https://doi.org/10.1016/j.bbi.2025.106154) | Nakajima et al. | 2025 |
 | [Arabidopsis GLR3.5-modulated seed germination involves GA and ROS signaling](https://doi.org/10.1080/15592324.2020.1729537) | Ju et al. | 2020 |
 | [An Artificial Intelligence Olfactory-Based Diagnostic Model for Parkinson’s Disease Using Volatile Organic Compounds from Ear Canal Secretions](https://doi.org/10.1021/acs.analchem.5c00908) | Chen et al. | 2025 |
 | [Assessment of the relationship between synaptic density and metabotropic glutamate receptors in early Alzheimer’s disease: a multi-tracer PET study](https://doi.org/10.1101/2024.09.21.614277) | Salardini et al. | 2024 |
@@ -173,6 +174,7 @@ tags:
 | [FRIENDLY is required for efficient dark-induced mitophagy and controlled senescence in Arabidopsis](https://doi.org/10.1016/j.freeradbiomed.2023.04.007) | Kacprzak & Van Aken | 2023 |
 | [Friendly mediates membrane depolarization-induced mitophagy in Arabidopsis](https://doi.org/10.1016/j.cub.2021.02.034) | Ma et al. | 2021 |
 | [From intracellular sensors to systemic resilience: Reframing the biology of stress](https://doi.org/10.1016/j.ynstr.2025.100755) | Hartmann | 2025 |
+| [From Reward to Anhedonia-Dopamine Function in the Global Mental Health Context](https://doi.org/10.3390/biomedicines11092469) | Dresp-Langley | 2023 |
 | [From trauma to resilience: psychological and epigenetic adaptations in the third generation of holocaust survivors](https://doi.org/10.1038/s41598-025-12085-5) | Oren et al. | 2025 |
 | [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
 | [Genes to treat excitotoxicity ameliorate the symptoms of the disease in mice models of multiple system atrophy](https://doi.org/10.1007/s00702-020-02158-2) | Glat et al. | 2020 |
@@ -277,6 +279,7 @@ tags:
 | [Midbrain circuits that set locomotor speed and gait selection](https://doi.org/10.1038/nature25448) | Caggiano et al. | 2018 |
 | [Mineralocorticoid receptor-mediated changes in membrane properties of rat CA1 pyramidal neurons in vitro.](https://doi.org/10.1073/pnas.87.12.4495) | Joëls & de Kloet | 1990 |
 | [Mineralocorticoid receptors are indispensable for nongenomic modulation of hippocampal glutamate transmission by corticosterone](https://doi.org/10.1073/pnas.0507572102) | Karst et al. | 2005 |
+| [Mitochondria-associated endoplasmic reticulum membrane (MAM)-associated calpains system in preeclampsia](https://doi.org/10.1186/s12884-025-08244-1) | Zhang et al. | 2025 |
 | [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
 | [Mitochondrial dysfunction, reactive oxygen species, and diabetes mellitus – A triangular relationship: A review](https://doi.org/10.17305/bb.2025.13145) | Manojlovic et al. | 2025 |
 | [Mitophagy: A Mechanism for Plant Growth and Survival](https://doi.org/10.1016/j.tplants.2018.02.010) | Broda et al. | 2018 |
@@ -293,6 +296,7 @@ tags:
 | [Neuroinflammation across neurological diseases](https://doi.org/10.1126/science.adx0043) | Shi & Yong | 2025 |
 | [Neuroinflammation links the neurogenic and neurodegenerative phenotypes of Nrmt1-/- mice](https://doi.org/10.1101/2025.09.02.673860) | Catlin et al. | 2025 |
 | [Neuroinflammatory Stress Preferentially Impacts Synaptic MAPK Signaling and Mitochondria in Excitatory Neurons](https://doi.org/10.1101/2025.10.03.680087) | Espinosa-Garcia et al. | 2025 |
+| [Neuroleptics and operant behavior: The anhedonia hypothesis](https://doi.org/10.1017/S0140525X00010372) | Wise | 1982 |
 | [Neurophysiology of the pedunculopontine tegmental nucleus](https://doi.org/10.1016/j.nbd.2018.03.004) | Vitale et al. | 2019 |
 | [Neuroplasticity-Based Approaches to Sensory Processing Alterations in Autism Spectrum Disorder](https://doi.org/10.3390/ijms26157102) | Suprunowicz et al. | 2025 |
 | [Neurotoxic lesions of the dorsolateral pontomesencephalic tegmentum-cholinergic cell area in the cat. I. Effects upon the cholinergic innervation of the brain](https://doi.org/10.1016/0006-8993%2888%2990745-7) | Jones & Webster | 1988 |
@@ -300,6 +304,7 @@ tags:
 | [New Insight Into the Pathophysiology of Hair Loss Trigger a Paradigm Shift in the Treatment Approach](https://pubmed.ncbi.nlm.nih.gov/29141068/) | Sadick et al. | 2017 |
 | [Nigral GABAergic inhibition upon cholinergic neurons in the rat pedunculopontine tegmental nucleus](https://doi.org/10.1046/j.1460-9568.2003.02825.x) | Saitoh et al. | 2003 |
 | [Nociceptors are functionally male or female: from mouse to monkey to man](https://doi.org/10.1093/brain/awae179) | Stratton et al. | 2024 |
+| [Non-redundant role of the a3 isoform of Na,K-ATPase in neuronal excitability and spiking dynamics](https://doi.org/10.1101/2025.10.24.684230) | Reshetnikov et al. | 2025 |
 | [Novel tau filament fold in corticobasal degeneration](https://doi.org/10.1038/s41586-020-2043-0) | Zhang et al. | 2020 |
 | [NR3C1/GLMN-Mediated FKBP12.6 Ubiquitination Disrupts Calcium Homeostasis and Impairs Mitochondrial Quality Control in Stress-Induced Myocardial Damage](https://doi.org/10.3390/ijms26178245) | Cong et al. | 2025 |
 | [Olfactory dysfunction and amyloid-positivity in Parkinson’s disease—longitudinal analysis of cognitive decline and cerebrospinal fluid markers](https://doi.org/10.1371/journal.pone.0325560) | Larsson et al. | 2025 |
@@ -414,4 +419,5 @@ tags:
 | [Unwanted Consensual Sex Among College Students: What Makes an Individual More Likely to Consent to Sex They Do Not Want?](https://doi.org/10.3390/bs15070981) | Barnhart et al. | 2025 |
 | [Vagal gut-brain signaling mediates amygdaloid plasticity, affect, and pain in a functional dyspepsia model](https://doi.org/10.1172/jci.insight.144046) | Cordner et al. | 2021 |
 | [Variations in Plasma Metabolome Shed Light on the Associations Between Lipid Metabolism and Oxidative Stress in Goats Supplemented With Condensed Tannin](https://doi.org/10.1111/asj.70126) | Tian et al. | 2025 |
+| [What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?](https://doi.org/10.1016/s0165-0173%2898%2900019-8) | Berridge & Robinson | 1998 |
 | [Whole nervous system expression of glutamate receptors reveals distinct receptor roles in sensorimotor circuits](https://doi.org/10.1523/ENEURO.0306-24.2024) | Borba et al. | 2024 |
