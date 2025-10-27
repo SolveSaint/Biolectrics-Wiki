@@ -1,7 +1,7 @@
 ---
 title: Dopamine, Motivation, and the Transition from Reward to Anhedonia
 created: 10/27/2025 12:25 PM
-updated: 10/27/2025 1:36 PM
+updated: 10/27/2025 2:11 PM
 tags:
   - Biolectrics
   - Dopamine
@@ -16,13 +16,6 @@ tags:
   - ROS
   - Mitochondria
 ---
-
-| Title | Authors | Year | Zotero |
-|---|---|---|:--:|
-| [Anxiety induced by systemic inflammation involves microglial engulfing of nucleus accumbens inputs and diminished excitability of dopamine D1 receptor neurons](https://doi.org/10.1016/j.bbi.2025.106154) | Nakajima et al. | 2025 | [Zotero](zotero://select/library/items/QRJ2HVXM) |
-| [From Reward to Anhedonia-Dopamine Function in the Global Mental Health Context](https://doi.org/10.3390/biomedicines11092469) | Dresp-Langley | 2023 | [Zotero](zotero://select/library/items/X5XNCWGY) |
-| [Neuroleptics and operant behavior: The anhedonia hypothesis](https://doi.org/10.1017/S0140525X00010372) | Wise | 1982 | [Zotero](zotero://select/library/items/DP5J4IEV) |
-| [What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?](https://doi.org/10.1016/s0165-0173%2898%2900019-8)  | Berridge & Robinson | 1998 | [Zotero](zotero://select/library/items/YUSY9V7Q) |
 
 This note describes how dopamine driven motivation operates under the stress glutamate ROS model. It explains how stress and inflammation shift the system from healthy reward and curiosity toward amotivation and anhedonia through excitotoxic feedback and microglial compensation.
 
@@ -122,3 +115,10 @@ Stress and inflammation transform the dopamine reward system through glutamate d
 - **Berridge and Robinson 1998**. Incentive salience framework distinguishes wanting from liking and explains how dopamine loss removes the desire to act even when hedonic appraisal remains conceptually intact [(Berridge & Robinson, 1998)](https://doi.org/10.1016/S0165-0173(98)00019-8).  
 - **Dresp Langley 2023**. Chronic stress and inflammation converge on dopaminergic suppression and anti reward dynamics that mirror the stress glutamate ROS pathway [(Dresp-Langley, 2023)](https://doi.org/10.3390/biomedicines11092469).  
 - **Nakajima et al. 2025**. Inflammation triggers microglial engulfment of vGLUT1 terminals in the nucleus accumbens, disconnecting cortical input from dopamine D1 neurons and flattening motivational throughput [(Nakajima et al., 2025)](https://doi.org/10.1016/j.bbi.2025.106154).
+
+| Title | Authors | Year | Zotero |
+|---|---|---|:--:|
+| [Anxiety induced by systemic inflammation involves microglial engulfing of nucleus accumbens inputs and diminished excitability of dopamine D1 receptor neurons](https://doi.org/10.1016/j.bbi.2025.106154) | Nakajima et al. | 2025 | [Zotero](zotero://select/library/items/QRJ2HVXM) |
+| [From Reward to Anhedonia-Dopamine Function in the Global Mental Health Context](https://doi.org/10.3390/biomedicines11092469) | Dresp-Langley | 2023 | [Zotero](zotero://select/library/items/X5XNCWGY) |
+| [Neuroleptics and operant behavior: The anhedonia hypothesis](https://doi.org/10.1017/S0140525X00010372) | Wise | 1982 | [Zotero](zotero://select/library/items/DP5J4IEV) |
+| [What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?](https://doi.org/10.1016/s0165-0173%2898%2900019-8)  | Berridge & Robinson | 1998 | [Zotero](zotero://select/library/items/YUSY9V7Q) |
