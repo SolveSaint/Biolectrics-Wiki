@@ -1,7 +1,7 @@
 ---
 title: ROS Pathways
 created: 10/19/2025 5:10 PM
-updated: 10/26/2025 9:34 AM
+updated: 10/27/2025 2:30 PM
 tags:
   - Bioelectrics
   - Stress
@@ -18,7 +18,6 @@ tags:
   - ferroptosis
 ---
 
-[ChatGPT](https://chatgpt.com/c/68f53070-84f4-832c-aa28-e3e6411cf1f6)
 ### ROS Fate Summary
 Reactive oxygen species (ROS) determine the cell’s death pathway based on **iron availability**.  
 If **iron is scarce**, ROS oxidizes mitochondrial membranes, releasing **cytochrome c** and triggering **apoptosis**.  

@@ -1,7 +1,7 @@
 ---
 title: Ferroptosis–ROS Convergence in Cardiovascular Disease
 created: 10/20/2025 9:48 PM
-updated: 10/26/2025 9:25 AM
+updated: 10/27/2025 2:31 PM
 tags:
   - Biolectrics
   - CVD
@@ -13,8 +13,6 @@ tags:
   - Stress
   - Glutamate
 ---
-
-[ChatGPT](https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/68f6ced0-8ef8-8323-88e7-39d2cd0f9f1d)
 
 ### Summary
 Cardiovascular disease (CVD) is the global leading cause of death and expresses the same oxidative terminal mechanism observed in neurodegenerative disease. The convergence of **iron overload** and **reactive oxygen species (ROS)** results in lipid peroxidation and **ferroptotic cell death** within cardiomyocytes and vascular endothelium. This process mirrors the **stress–glutamate–ROS cascade** seen in ALS and Alzheimer’s disease, establishing a unified model of excitotoxicity-driven degeneration across the brain and heart.

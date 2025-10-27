@@ -1,7 +1,7 @@
 ---
 title: Mitochondrial CB1 Receptors - Protective Brake Turned Energetic Failure
 created: 10/25/2025 5:22 PM
-updated: 10/26/2025 9:34 PM
+updated: 10/27/2025 2:29 PM
 tags:
   - Mitochondria
   - CB1
@@ -17,8 +17,6 @@ tags:
 | Title | Authors | Year |
 |---|---|:--:|
 | [Implications of the mitochondrial CB1 receptor in the brain: from mitochondrial dysfunction to neuroprotection](zotero://select/library/items/ZRQM7UXG) | Martínez-Torres et al. | 2025 |
-
-[ChatGPT](https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/68fd28ba-bf0c-832d-88aa-0450b3124aa9)
 
 ## Summary
 The mitochondrial cannabinoid receptor (mtCB₁R) functions as a regulator of oxidative phosphorylation, calcium uptake, and ROS balance.  During acute stress it provides transient protection by lowering electron transport activity and limiting ROS output.  During chronic activation, it suppresses mitochondrial throughput too long, leading to ATP depletion, calcium dysregulation, and a rise in ROS escapage from the electron transport chain that overwhelms antioxidant defenses.  Once the escapage rate passes a critical threshold, the system transitions from protection to self-destruction.

@@ -1,7 +1,7 @@
 ---
 title: Idiopathic Neurodegeneration and Ferroptosis — Evidence Summary
 created: 10/19/2025 5:40 PM
-updated: 10/26/2025 9:30 AM
+updated: 10/27/2025 2:30 PM
 tags:
   - Neurodegeneration
   - Ferroptosis
@@ -12,8 +12,6 @@ tags:
   - GPX4
   - LipidPeroxidation
 ---
-
-[ChatGPT](https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e/c/68f53070-84f4-832c-aa28-e3e6411cf1f6)
 
 ### Overview
 Many idiopathic neurodegenerative diseases show the core biochemical signs of **ferroptosis**. These include iron accumulation, loss of GPX4 and glutathione, and extensive lipid peroxidation. Early stress triggers apoptotic death, but as mitochondrial ROS and iron increase, the system transitions into ferroptosis. Chronic excitotoxicity and HO-1 upregulation link directly to this shift.

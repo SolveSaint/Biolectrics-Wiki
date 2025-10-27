@@ -1,7 +1,7 @@
 ---
 title: NFAT and CREB in Glutamate Receptor Expression
 created: 10/20/2025 7:46 PM
-updated: 10/26/2025 9:36 AM
+updated: 10/27/2025 2:29 PM
 tags:
   - Biolectrics
   - NFAT
@@ -12,8 +12,6 @@ tags:
   - calcium
   - transcription
 ---
-
-[ChatGPT](https://chatgpt.com/c/68e02de1-7954-8323-b1f5-52448d1b62e7)
 
 # NFAT and CREB in Glutamate Receptor Expression
 

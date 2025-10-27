@@ -1,7 +1,7 @@
 ---
 title: LRRC8A and the Chloride Brake on NMDA Activity - Stress, Osmotic Load, and Excitotoxic Gain
 created: 2025-10-25
-updated: 10/26/2025 9:34 PM
+updated: 10/27/2025 2:30 PM
 tags:
   - LRRC8A
   - Chloride
@@ -19,8 +19,6 @@ tags:
 | Title | Authors | Year |
 |---|---|:--:|
 | [LRRC8A constitutively inhibits pain hypersensitivity in rodent models by restraining NMDA receptor activity at spinal cord synapses](zotero://select/library/items/9R32A23H) | Deng et al. | 2025 |
-
-[ChatGPT](https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/68fd2f78-76d0-832d-87a5-cfb99a99f45a)
 
 ## Overview
 

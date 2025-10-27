@@ -1,7 +1,7 @@
 ---
 title: Obesity - GRIN GRIA Upregulation, Energy Demand, and Obesity Risk
 created: 10/20/2025 10:43 PM
-updated: 10/26/2025 9:34 PM
+updated: 10/27/2025 2:29 PM
 tags:
   - Cortisol
   - GRIN
@@ -15,8 +15,6 @@ tags:
   - Excitotoxicity
   - Bioenergetics
 ---
-
-[ChatGPT](https://chatgpt.com/c/68f6f64d-5f2c-832e-8493-771dab0e0d3a)
 
 ### Summary
 Chronic or congenital upregulation of GRIN (NMDA) and GRIA (AMPA) receptors raises baseline glutamatergic tone, increasing neuronal calcium flux and mitochondrial ATP demand. This persistent excitatory state drives compensatory feeding behavior as the system attempts to maintain energetic homeostasis. Individuals born with elevated receptor expression or exposed to repeated cortisol surges under chronic stress may experience a continual sense of metabolic deficit, predisposing them to overeating and obesity.

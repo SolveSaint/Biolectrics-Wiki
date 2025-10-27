@@ -1,7 +1,7 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/26/2025 2:50 PM
+updated: 10/27/2025 2:30 PM
 tags:
   - Therapeutics
   - Excitotoxicity
@@ -58,7 +58,6 @@ This note compiles therapeutic mechanisms that mitigate excitotoxicity, oxidativ
 | Title | Authors | Year |
 |---|---|:--:|
 | [RND3 Inhibits Endometriosis Progression by Regulating Autophagy and Oxidative Stress Through PLEKHG5](zotero://select/library/items/NLI8JUSZ) | Li & Chai | 2025 |
-[ChatGPT](https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/68fe390c-1754-832b-af8d-f4b90460ddf6)
 
 RND3 upregulation decreases oxidative stress and enhances autophagy through activation of the PLEKHG5–NRF2–NQO1/HO-1 pathway. This provides a dual-protective mechanism: increasing antioxidant defenses while accelerating clearance of damaged mitochondria and proteins.
 
