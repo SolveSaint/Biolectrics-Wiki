@@ -1,7 +1,7 @@
 ---
 title: LRRC8A and the Chloride Brake on NMDA Activity - Stress, Osmotic Load, and Excitotoxic Gain
 created: 2025-10-25
-updated: 10/27/2025 2:30 PM
+updated: 10/27/2025 3:27 PM
 tags:
   - LRRC8A
   - Chloride
@@ -44,7 +44,7 @@ In dorsal horn and dorsal root ganglion neurons, LRRC8A downregulation led to pa
 
 ## Integration into the Stress–Glutamate–ROS Model
 
-In your model, LRRC8A represents the ionic leg of excitotoxic vulnerability. Cortisol upregulates receptor density (via NR3C1) and presynaptic glutamate release, while HSD11B2 and FKBP5 methylation sustain cortisol tone. Meanwhile, LRRC8A loss removes the neuron’s ability to discharge chloride and osmolytes, locking the system in a depolarized, energy-intensive state. The neuron’s mitochondria respond to repeated calcium loading with elevated ROS production. Over time, this overwhelms antioxidant defenses and drives the neurodegenerative process.
+In our model, LRRC8A represents the ionic leg of excitotoxic vulnerability. Cortisol upregulates receptor density (via NR3C1) and presynaptic glutamate release, while HSD11B2 and FKBP5 methylation sustain cortisol tone. Meanwhile, LRRC8A loss removes the neuron’s ability to discharge chloride and osmolytes, locking the system in a depolarized, energy-intensive state. The neuron’s mitochondria respond to repeated calcium loading with elevated ROS production. Over time, this overwhelms antioxidant defenses and drives the neurodegenerative process.
 
 Stress therefore operates on three axes:
 1. **Receptor amplification** — more NMDA and AMPA receptors, higher conductance.
