@@ -1,7 +1,7 @@
 ---
 title: Diabetes - Mitochondrial Overload — Cortisol–Glutamate Convergence
 created: 2025-10-25
-updated: 10/27/2025 2:29 PM
+updated: 10/27/2025 4:21 PM
 tags:
   - Mitochondria
   - ROS
@@ -18,7 +18,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [Mitochondrial dysfunction, reactive oxygen species, and diabetes mellitus – A triangular relationship: A review](zotero://select/library/items/YA7VF4FN) | Manojlovic et al. | 2025 |
+| [Mitochondrial dysfunction, reactive oxygen species, and diabetes mellitus – A triangular relationship: A review](https://doi.org/10.17305/bb.2025.13145) | Manojlovic et al. | 2025 |
 
 ## Overview  
 The review *“Mitochondrial dysfunction, reactive oxygen species, and diabetes mellitus – A triangular relationship”* (Manojlovic et al., 2025) characterizes diabetes as a mitochondrial redox disorder driven by substrate overload and oxidative stress.  

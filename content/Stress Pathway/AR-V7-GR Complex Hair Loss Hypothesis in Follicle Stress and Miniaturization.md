@@ -1,7 +1,7 @@
 ---
 title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 created: 2025-10-25
-updated: 10/27/2025 2:28 PM
+updated: 10/27/2025 4:20 PM
 tags:
   - HairLoss
   - ARV7
@@ -16,7 +16,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [Abstract A037: Coordinated activity between AR-V7 and glucocorticoid receptor drives resistance to androgen receptor signaling inhibition](zotero://select/library/items/C9MIV8JG) | Zhang et al. | 2025 |
+| [Abstract A037: Coordinated activity between AR-V7 and glucocorticoid receptor drives resistance to androgen receptor signaling inhibition](https://doi.org/10.1158/1535-7163.TARG-25-A037) | Zhang et al. | 2025 |
 
 ## Summary
 Although no current peer-reviewed studies demonstrate the AR-V7–GR (glucocorticoid receptor) complex in hair or skin tissue, mechanistic parallels suggest this complex could exist under conditions of **chronic stress and androgen deprivation**.  

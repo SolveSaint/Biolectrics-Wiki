@@ -1,7 +1,7 @@
 ---
 title: LRRK2 - H₂O₂ Clearance and Kinase Control of Excitatory–Inhibitory Balance
 created: 2025-10-25
-updated: 10/27/2025 2:29 PM
+updated: 10/27/2025 4:22 PM
 tags:
   - LRRK2
   - Parkinsons
@@ -18,7 +18,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [LRRK2 G2019S disrupts GABAergic signaling and shifts excitatory/inhibitory balance in the striatum](zotero://select/library/items/9PA27PVU) | Iacovo et al. | 2025 |
+| [LRRK2 G2019S disrupts GABAergic signaling and shifts excitatory/inhibitory balance in the striatum](https://doi.org/10.1101/2025.10.23.684189) | Iacovo et al. | 2025 |
 
 # 🧠 Overview
 

@@ -1,7 +1,7 @@
 ---
 title: Therapeutics - CGRP Receptor Inhibition Restores Lipid Metabolism Through HDAC11-LXRβ–ABCA1 Axis
 created: 2025-10-25
-updated: 10/27/2025 2:30 PM
+updated: 10/27/2025 4:19 PM
 tags:
   - Alzheimer
   - CGRP
@@ -18,7 +18,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [Inhibition of CGRP receptor ameliorates AD pathology by reprogramming lipid metabolism through HDAC11/LXRβ/ABCA1 signaling](zotero://select/library/items/9T9ZFIG5) | Fan et al. | 2025 |
+| [Inhibition of CGRP receptor ameliorates AD pathology by reprogramming lipid metabolism through HDAC11/LXRβ/ABCA1 signaling](https://doi.org/10.1101/2025.10.17.683079) | Fan et al. | 2025 |
 
 ## Overview  
 

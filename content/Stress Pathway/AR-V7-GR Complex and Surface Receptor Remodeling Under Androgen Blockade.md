@@ -1,7 +1,7 @@
 ---
 title: AR-V7-GR Complex and Surface Receptor Remodeling Under Androgen Blockade
 created: 2025-10-25
-updated: 10/27/2025 2:28 PM
+updated: 10/27/2025 4:20 PM
 tags:
   - NR3C1
   - AndrogenReceptor
@@ -17,7 +17,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [Abstract A037: Coordinated activity between AR-V7 and glucocorticoid receptor drives resistance to androgen receptor signaling inhibition](zotero://select/library/items/C9MIV8JG) | Zhang et al. | 2025 |
+| [Abstract A037: Coordinated activity between AR-V7 and glucocorticoid receptor drives resistance to androgen receptor signaling inhibition](https://doi.org/10.1158/1535-7163.TARG-25-A037) | Zhang et al. | 2025 |
 
 ## Summary
 Androgen blockade triggers a systemic stress response that elevates cortisol and drives glucocorticoid receptor (NR3C1) overactivation. In prostate cells, the androgen receptor splice variant AR-V7, which lacks a ligand-binding domain, heterodimerizes with NR3C1 to reconstitute a hybrid transcriptional program. This AR-V7–GR complex binds GRE/ARE hybrid DNA elements, reinstating transcription of growth and survival genes even in the absence of androgen signaling.

@@ -1,7 +1,7 @@
 ---
 title: Cancer - TRPV6 Knockdown and Mitochondrial Calcium Deficiency — Evidence for Biphasic ROS Control in Breast Cancer
 created: 2025-10-25 8:00 PM
-updated: 10/27/2025 2:28 PM
+updated: 10/27/2025 4:21 PM
 tags:
   - Mitochondria
   - Calcium
@@ -15,7 +15,7 @@ tags:
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [How Does TRPV6 Mediate Calcium Influx in Regulating Mitochondrial Homeostasis in Cancer Cells?](zotero://select/library/items/RDNDFQHC) | Peng | 2025 |
+| [How Does TRPV6 Mediate Calcium Influx in Regulating Mitochondrial Homeostasis in Cancer Cells?](https://doi.org/10.54254/2753-8818/2025.AU28312) | Peng | 2025 |
 
 The 2025 Peng study on TRPV6-mediated calcium influx in MCF7 breast cancer cells offers strong support for the existence of a biphasic relationship between calcium input and oxidative stress. It shows that both extremes—excessive and insufficient mitochondrial calcium—lead to ROS elevation through distinct mechanisms. This is directly relevant to the stress–glutamate–ROS model, where excitatory calcium signaling through NMDA and AMPA receptors maintains mitochondrial efficiency within a narrow functional window.
 
