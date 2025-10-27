@@ -1,5 +1,8 @@
 ---
 title: Biolectrics
+description: "Biolectrics — stress–glutamate–ROS model and therapeutic pathways."
+socialImage: "https://solvesaint.github.io/Biolectrics-Wiki/static/og-image.png"
+# aliases that also work: image: ...  OR  cover: ...
 ---
 
 **Biolectrics** is our working model of how **stress-driven glutamate upregulation** alters cellular bioelectric states to push networks toward **calcium overload, mitochondrial ROS, and maladaptive remodeling**. We map how receptor density/sensitivity (e.g., **NMDA / AMPA**), calcium handling (VGCCs, ER–mitochondria coupling), and redox signaling interact to reinforce excitotoxic loops, and where interventions can break them.
