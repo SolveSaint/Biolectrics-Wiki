@@ -16,7 +16,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+
+    // ↓↓↓ CHANGE THESE TWO LINES ↓↓↓
+    baseUrl: "solvesaint.github.io/Biolectrics-Wiki",
+    canonicalUrl: "https://solvesaint.github.io/Biolectrics-Wiki",
+    // ↑↑↑ CHANGE THESE TWO LINES ↑↑↑
+
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
