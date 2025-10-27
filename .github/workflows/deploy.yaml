@@ -27,11 +27,22 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm ci || npm install
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enable corepack (pnpm/yarn)
+        run: corepack enable
+
+      - name: Install deps (pnpm first, fallback to npm)
+        run: |
+          if [ -f pnpm-lock.yaml ]; then
+            corepack prepare pnpm@latest --activate
+            pnpm install --frozen-lockfile || pnpm install
+          else
+            npm ci || npm install
+          fi
 
       - name: Build Quartz
-        # Quartz v4 outputs to ./public
         run: npx quartz build || npm run build
 
       - name: Upload artifact
