@@ -1,7 +1,7 @@
 ---
 title: Ferroptosis - Stress to Iron dysregulation
 created: 10/19/2025 5:24 PM
-updated: 10/26/2025 9:33 AM
+updated: 10/27/2025 4:03 PM
 tags:
   - Biolectrics
   - Stress
@@ -10,7 +10,6 @@ tags:
   - ROS
   - Mitochondria
 ---
-[ChatGPT](https://chatgpt.com/c/68f53070-84f4-832c-aa28-e3e6411cf1f6)
 
 ### Overview
 The **hydroxyl radical (•OH)** produced when **ROS interacts with Fe²⁺** in the **Fenton reaction** is the most damaging oxidative species known in biology.  
