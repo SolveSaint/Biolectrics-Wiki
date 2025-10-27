@@ -6,5 +6,3 @@ title: Biolectrics
 
 > **How to use this site:**  
 > Click topics in the **left sidebar** to explore pathways, mechanisms, and therapeutic entry points.
-
----
