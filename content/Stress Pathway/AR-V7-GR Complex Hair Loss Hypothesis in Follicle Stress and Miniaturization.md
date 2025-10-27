@@ -1,7 +1,7 @@
 ---
 title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 created: 2025-10-25
-updated: 10/27/2025 4:20 PM
+updated: 10/27/2025 5:27 PM
 tags:
   - HairLoss
   - ARV7
@@ -107,5 +107,3 @@ If validated, this mechanism would unify:
 
 ## Summary Insight
 > **Hair loss may represent a peripheral form of excitotoxic stress:** DHT and cortisol both drive the same NR3C1-linked transcriptional circuitry, through different receptor configurations. In the absence of DHT, the GR–AR-V7 complex could substitute for AR-FL, sustaining excitatory metabolism until oxidative failure leads to follicular miniaturization.
-
----
