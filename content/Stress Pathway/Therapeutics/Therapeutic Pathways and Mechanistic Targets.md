@@ -1,7 +1,7 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/27/2025 4:17 PM
+updated: 10/27/2025 4:18 PM
 tags:
   - Therapeutics
   - Excitotoxicity
@@ -154,7 +154,7 @@ This mechanism provides a clear peripheral analogue to the stress–glutamate–
 
 Smith et al. provide meta-analytic clinical confirmation that β-adrenergic antagonists interrupt the sympathetic–excitatory loop driving calcium overload and oxidative stress in hypertrophic obstructive cardiomyopathy.  Chronic catecholamine signaling through β₁ receptors mirrors the stress–glutamate cascade: sustained adrenergic tone elevates intracellular calcium, pushes mitochondria beyond redox equilibrium, and accelerates ROS generation.  Cardioselective β-blockers such as metoprolol and bisoprolol produced robust reductions in left-ventricular outflow tract gradient and heart rate, restoring electrical and metabolic stability.  
 
-The broader model links directly to neural excitotoxicity.  [Giovanniello et al. (*Nature*, 2024)](https://doi.org/10.1038/s41586-024-08580-w) showed that chronic stress recruits the central-amygdala → striatal adrenergic circuit, heightening sympathetic drive.  [Dushanov et al. (*Phys. Particles & Nuclei*, 2025)](zotero://select/library/items/BELUF2CN) demonstrated that oxidative stress alters glutamate receptor membrane structure, increasing calcium permeability.  Together with [*Revisiting Glutamate Excitotoxicity in ALS and Age-Related Disorders* (*J. Neurochem.*, 2023)](https://doi.org/10.3390/ijms25115587), these findings align β-blocker action with the universal excitotoxic mechanism—reducing calcium influx, lowering ROS, and preserving mitochondrial function.  
+The broader model links directly to neural excitotoxicity.  [Giovanniello et al. (*Nature*, 2024)](https://doi.org/10.1038/s41586-024-08580-w) showed that chronic stress recruits the central-amygdala → striatal adrenergic circuit, heightening sympathetic drive.  [Dushanov et al. (*Phys. Particles & Nuclei*, 2025)](https://doi.org/10.1134/S1063779625700625) demonstrated that oxidative stress alters glutamate receptor membrane structure, increasing calcium permeability.  Together with [*Revisiting Glutamate Excitotoxicity in ALS and Age-Related Disorders* (*J. Neurochem.*, 2023)](https://doi.org/10.3390/ijms25115587), these findings align β-blocker action with the universal excitotoxic mechanism—reducing calcium influx, lowering ROS, and preserving mitochondrial function.  
 
 - **Core Mechanism:** β₁-adrenergic blockade lowers cAMP-dependent calcium entry via L-type channels, preventing mitochondrial overload and oxidative stress.  
 - **Downstream Effects:** Improved diastolic relaxation, reduced oxygen consumption, and restored mitochondrial redox balance parallel neuronal protection under glutamate suppression.  
