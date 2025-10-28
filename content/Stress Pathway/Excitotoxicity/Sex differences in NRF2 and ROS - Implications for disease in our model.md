@@ -1,7 +1,7 @@
 ---
 created: 10/28/2025 6:31 PM
 updated: 10/28/2025 6:55 PM
-title: Sex differences in NRF2 and ROS. Implications for disease in our model
+title: Sex differences in NRF2 and ROS - Implications for disease in our model
 tags:
   - Biolectrics
   - NRF2
