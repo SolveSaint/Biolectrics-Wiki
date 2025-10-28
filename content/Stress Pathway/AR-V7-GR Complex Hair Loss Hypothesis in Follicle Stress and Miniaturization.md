@@ -1,7 +1,7 @@
 ---
 title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 created: 2025-10-25
-updated: 10/27/2025 5:27 PM
+updated: 10/28/2025 10:46 AM
 tags:
   - HairLoss
   - ARV7
@@ -54,7 +54,7 @@ Oxidative stress + inflammation → Follicular miniaturization
 - **GR provides ligand activation (cortisol).**  
 - **AR-V7 provides DNA-binding to androgenic loci.**  
 - The hybrid complex could maintain androgenic transcription even in low-DHT conditions.  
-- Ionic excitability (ENaC/NKCC1/ADRB2 upregulation) and mitochondrial ROS generation would parallel the excitatory cascade observed in neurons within your stress-glutamate model.
+- Ionic excitability (ENaC/NKCC1/ADRB2 upregulation) and mitochondrial ROS generation would parallel the excitatory cascade observed in neurons within our stress-glutamate model.
 
 ---
 

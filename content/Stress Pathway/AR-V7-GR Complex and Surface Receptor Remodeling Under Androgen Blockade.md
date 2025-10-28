@@ -1,7 +1,7 @@
 ---
 title: AR-V7-GR Complex and Surface Receptor Remodeling Under Androgen Blockade
 created: 2025-10-25
-updated: 10/27/2025 5:27 PM
+updated: 10/28/2025 10:45 AM
 tags:
   - NR3C1
   - AndrogenReceptor
@@ -66,4 +66,4 @@ The resulting transcriptional landscape mirrors the neuronal stress response: he
 
 ## Conceptual Integration
 The AR-V7–GR axis represents a **somatic mirror of neuronal excitotoxic adaptation.**  
-Under stress (or therapy blockade), cells reroute control through NR3C1 to maintain throughput. The result is transcriptional excitability that preserves short-term function at long-term metabolic cost. This is a unifying principle in your model: **stress signaling through NR3C1 universally amplifies receptor density, calcium flow, and ROS production, whether the endpoint is proliferation or neurodegeneration.**
+Under stress (or therapy blockade), cells reroute control through NR3C1 to maintain throughput. The result is transcriptional excitability that preserves short-term function at long-term metabolic cost. This is a unifying principle in our model: **stress signaling through NR3C1 universally amplifies receptor density, calcium flow, and ROS production, whether the endpoint is proliferation or neurodegeneration.**
