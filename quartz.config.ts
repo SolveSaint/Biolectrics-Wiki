@@ -98,8 +98,8 @@ const config: QuartzConfig = {
 	  Plugin.CustomOgImages({
 		banner: "/static/biolectrics-banner.png",  // your dark banner
 		fontFamily: "Schibsted Grotesk",
-		backgroundColor: "#161618",                // dark background
-		textColor: "#ebebec",                      // light text
+		backgroundColor: config.configuration.theme.colors.darkMode.light,                // dark background
+		textColor: config.configuration.theme.colors.darkMode.dark,                      // light text
 		colorScheme: "darkMode",                   // tells Quartz to use dark palette
 		size: { width: 1200, height: 630 },
 	}),
