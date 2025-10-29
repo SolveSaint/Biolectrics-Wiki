@@ -66,3 +66,58 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// homepage layout showing recent notes and linking to the full page
+export const homePageLayout: PageLayout = {
+  beforeBody: [
+    Component.RecentNotes({
+      title: "Recent Notes",
+      limit: 6,
+      showTags: true,
+      linkToMore: "recent-notes", // "See more" link
+    }),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
+    Component.Explorer(),
+  ],
+  right: [],
+}
+
+// auto-updating full list of recent notes
+export const recentNotesPageLayout: PageLayout = {
+  beforeBody: [
+    Component.ArticleTitle(),
+    Component.RecentNotes({
+      title: "All Recent Notes",
+      limit: 100,
+      showTags: true,
+    }),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer(),
+  ],
+  right: [],
+}
+
+// map which pages use which layout
+export const pageLayoutOverrides = {
+  index: homePageLayout,
+  "recent-notes": recentNotesPageLayout,
+}
