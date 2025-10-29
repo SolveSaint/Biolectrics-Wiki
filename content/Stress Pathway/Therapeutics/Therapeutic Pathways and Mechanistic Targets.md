@@ -1,8 +1,9 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/29/2025 12:46 AM
+updated: 10/29/2025 12:53 AM
 tags:
+  - Biolectrics
   - Therapeutics
   - Excitotoxicity
   - ROS
