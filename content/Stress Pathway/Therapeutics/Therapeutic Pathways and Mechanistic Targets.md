@@ -1,7 +1,7 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/29/2025 12:36 AM
+updated: 10/29/2025 12:40 AM
 tags:
   - Therapeutics
   - Excitotoxicity
@@ -177,7 +177,7 @@ The broader model links directly to neural excitotoxicity.  [Giovanniello et al.
 
 | Title | Authors | Year |
 |---|---|:--:|
-| Adipocyte lipolysis activates epithelial stem cells for hair regeneration through fatty acid metabolism | Tai et al. | 2025 |
+| [Adipocyte lipolysis activates epithelial stem cells for hair regeneration through fatty acid metabolism](https://doi.org/10.1016/j.cmet.2025.09.012) | Tai et al. | 2025 |
 
 Macrophage SAA3 triggers adipocyte lipolysis in dWAT. Released MUFAs enter epithelial hair follicle stem cells via CD36. This activates PGC1a, increases mitochondrial biogenesis and fatty acid oxidation, and allows stem cells to exit quiescence and re enter anagen. Within our model, this is a capacity restoration step that follows load reduction. It rebuilds mitochondrial number and antioxidant buffering rather than adding more excitatory drive.
 
