@@ -8,7 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/SolveSaint/Biolectrics-Wiki",
       "Discord Community": "https://discord.gg/AZHPuPykMn",
     },
   }),
