@@ -84,4 +84,4 @@ CVD and neurodegeneration represent opposite poles of the same redox failure. Ch
 ### Related Notes
 
 - [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]
-- [[Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]
