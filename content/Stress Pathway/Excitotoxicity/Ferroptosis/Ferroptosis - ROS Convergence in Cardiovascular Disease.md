@@ -1,7 +1,7 @@
 ---
-title: Ferroptosis–ROS Convergence in Cardiovascular Disease
+title: Ferroptosis - ROS Convergence in Cardiovascular Disease
 created: 10/20/2025 9:48 PM
-updated: 10/27/2025 2:31 PM
+updated: 10/28/2025 10:58 PM
 tags:
   - Biolectrics
   - CVD
