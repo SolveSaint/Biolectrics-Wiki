@@ -1,7 +1,7 @@
 ---
-title: Idiopathic Neurodegeneration and Ferroptosis — Evidence Summary
 created: 10/19/2025 5:40 PM
-updated: 10/27/2025 2:30 PM
+updated: 10/28/2025 11:21 PM
+title: Idiopathic Neurodegeneration and Ferroptosis - Evidence Summary
 tags:
   - Neurodegeneration
   - Ferroptosis
