@@ -1,6 +1,6 @@
 ---
 created: 10/20/2025 9:48 PM
-updated: 10/28/2025 11:17 PM
+updated: 10/28/2025 11:21 PM
 title: Ferroptosis - ROS Convergence in Cardiovascular Disease
 tags:
   - Biolectrics
@@ -78,3 +78,9 @@ CVD and neurodegeneration represent opposite poles of the same redox failure. Ch
 | [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
 | [Progesterone receptor membrane component 1 (PGRMC1) regulates heme trafficking through mitochondria-ER junctions](https://doi.org/10.1016/j.jinorgbio.2025.113093) | Piel et al. | 2025 |
 | [Lipid peroxidation intrinsically induces mitochondrial iron overload via Bach1-HO-1 signaling to promote ferroptosis](https://doi.org/10.1101/2025.10.15.682717) | Liu et al. | 2025 |
+
+---
+
+### Related Notes
+
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]

@@ -1,6 +1,6 @@
 ---
 created: 10/19/2025 5:24 PM
-updated: 10/28/2025 10:47 PM
+updated: 10/28/2025 11:21 PM
 title: Ferroptosis - Stress to Iron Dysregulation
 tags:
   - Biolectrics
@@ -62,3 +62,8 @@ Apoptosis is structured and recoverable; ferroptosis is **chemical and terminal*
 |---|---|:--:|
 | [Lipid peroxidation intrinsically induces mitochondrial iron overload via Bach1–HO-1 signaling to promote ferroptosis](https://doi.org/10.1101/2025.10.15.682717) | Liu et al. | 2025 |
 | [Progesterone receptor membrane component 1 (PGRMC1) regulates heme trafficking through mitochondria-associated membranes](https://doi.org/10.1016/j.jinorgbio.2025.113093) | Piel et al. | 2025 |
+
+---
+
+### Related Notes
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
