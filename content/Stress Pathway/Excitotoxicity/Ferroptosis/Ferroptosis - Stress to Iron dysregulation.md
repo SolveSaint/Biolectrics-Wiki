@@ -67,4 +67,4 @@ Apoptosis is structured and recoverable; ferroptosis is **chemical and terminal*
 
 ### Related Notes
 - [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
-- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary|Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]
