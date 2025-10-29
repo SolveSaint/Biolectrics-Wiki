@@ -1,6 +1,6 @@
 ---
 created: 10/20/2025 9:48 PM
-updated: 10/28/2025 11:21 PM
+updated: 10/28/2025 11:22 PM
 title: Ferroptosis - ROS Convergence in Cardiovascular Disease
 tags:
   - Biolectrics
@@ -84,3 +84,4 @@ CVD and neurodegeneration represent opposite poles of the same redox failure. Ch
 ### Related Notes
 
 - [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]
+- [[Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]

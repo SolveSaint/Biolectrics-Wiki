@@ -1,6 +1,6 @@
 ---
 created: 10/19/2025 5:40 PM
-updated: 10/28/2025 11:21 PM
+updated: 10/28/2025 11:23 PM
 title: Idiopathic Neurodegeneration and Ferroptosis - Evidence Summary
 tags:
   - Neurodegeneration
@@ -57,3 +57,10 @@ When **GPX4** and **glutathione** are depleted, lipid peroxidation becomes self-
 ### Implications
 Ferroptosis represents the **terminal phase** of stress-driven neuronal death. It occurs when mitochondrial ROS production and iron load exceed the cell’s antioxidant control. Targeting **iron handling (HO-1, hepcidin, ferritinophagy)**, **antioxidant maintenance (GPX4, GSH, selenium)**, and **stress modulation (glutamate, cortisol)** may prevent or slow disease.  
 Chronic stress transforms mitochondrial H₂O₂ signaling into **iron-driven hydroxyl radical damage**, producing the sustained ferroptotic degeneration seen in idiopathic neurological disorders.
+
+---
+
+### Related Notes
+
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
+- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]

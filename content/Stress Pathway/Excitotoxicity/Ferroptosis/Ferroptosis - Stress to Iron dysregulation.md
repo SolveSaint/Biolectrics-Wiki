@@ -1,6 +1,6 @@
 ---
 created: 10/19/2025 5:24 PM
-updated: 10/28/2025 11:21 PM
+updated: 10/28/2025 11:25 PM
 title: Ferroptosis - Stress to Iron Dysregulation
 tags:
   - Biolectrics
@@ -67,3 +67,4 @@ Apoptosis is structured and recoverable; ferroptosis is **chemical and terminal*
 
 ### Related Notes
 - [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
+- [[Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]]
