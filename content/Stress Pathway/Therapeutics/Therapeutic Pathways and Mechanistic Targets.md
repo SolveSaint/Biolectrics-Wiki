@@ -1,7 +1,7 @@
 ---
 title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/27/2025 4:18 PM
+updated: 10/29/2025 12:36 AM
 tags:
   - Therapeutics
   - Excitotoxicity
@@ -45,6 +45,16 @@ tags:
   - BetaBlockers
   - AdrenergicSignaling
   - CalciumOverload
+  - MUFAs
+  - CD36
+  - PGC1a
+  - MitochondrialBiogenesis
+  - StemCells
+  - HairRegeneration
+  - dWAT
+  - MetabolicRecovery
+  - PostExcitotoxicRepair
+  - RedoxRestoration
 ---
 
 This note compiles therapeutic mechanisms that mitigate excitotoxicity, oxidative stress, and bioelectric dysregulation. Each section outlines how a specific molecular target restores balance within the stress–glutamate–ROS cascade or supports cellular recovery through antioxidant or autophagic means.
@@ -160,6 +170,28 @@ The broader model links directly to neural excitotoxicity.  [Giovanniello et al.
 - **Downstream Effects:** Improved diastolic relaxation, reduced oxygen consumption, and restored mitochondrial redox balance parallel neuronal protection under glutamate suppression.  
 - **Key Node(s):** β₁-AR, L-type Ca²⁺ channels, NR3C1 feedback, mitochondrial redox centers.  
 - **Therapeutic Angle:** β-blockers represent upstream anti-excitotoxic agents that cut sympathetic drive before it amplifies glutamatergic throughput.  Their effect on calcium economy and ROS balance demonstrates that excitotoxicity is a generalizable, bioelectric pathology responsive to adrenergic dampening.  
+
+---
+
+### MUFA–CD36–PGC1a mitochondrial biogenesis (post excitotoxic regeneration)
+
+| Title | Authors | Year |
+|---|---|:--:|
+| Adipocyte lipolysis activates epithelial stem cells for hair regeneration through fatty acid metabolism | Tai et al. | 2025 |
+
+Macrophage SAA3 triggers adipocyte lipolysis in dWAT. Released MUFAs enter epithelial hair follicle stem cells via CD36. This activates PGC1a, increases mitochondrial biogenesis and fatty acid oxidation, and allows stem cells to exit quiescence and re enter anagen. Within our model, this is a capacity restoration step that follows load reduction. It rebuilds mitochondrial number and antioxidant buffering rather than adding more excitatory drive.
+
+- **Core Mechanism:** MUFAs → CD36 uptake → PGC1a activation → mitochondrial biogenesis and fatty acid oxidation in epithelial stem cells.
+- **Downstream Effects:** Restored ATP supply, improved redox balance, and re entry into the anagen program.
+- **Key Node(s):** SAA3, dWAT adipocyte lipolysis, MUFAs, CD36, PGC1a, TFAM.
+- **Therapeutic Angle:** Consider as a second phase intervention after excitatory and adrenergic load is lowered. Topical or local delivery is preferable.
+
+**Caution and sequencing**
+1) Use only after excitotoxic load is reduced. Lower glutamate tone, support clearance, and stabilize redox first.  
+2) Avoid during active high catecholamine states or persistent calcium overload.  
+3) Avoid in active malignancy and advanced atherosclerosis given CD36 and proliferation concerns.  
+4) Start with short courses and monitor for return of hyperexcitability or ROS markers.  
+5) Prefer local use to limit systemic lipid handling risks.
 
 ---
 
