@@ -1,6 +1,6 @@
 ---
 created: 10/19/2025 5:40 PM
-updated: 10/28/2025 11:23 PM
+updated: 10/28/2025 11:48 PM
 title: Idiopathic Neurodegeneration and Ferroptosis - Evidence Summary
 tags:
   - Neurodegeneration
@@ -62,5 +62,6 @@ Chronic stress transforms mitochondrial H₂O₂ signaling into **iron-driven hy
 
 ### Related Notes
 
-- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
-- [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]
+- [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]]
+- [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis - Stress to Iron dysregulation]]
+
