@@ -1,3 +1,25 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Remove top gap under the site header and stretch title area */
+.page {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page-header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  width: 100%;
+}
+
+/* Optional: expand title block full-width across viewport */
+.page-header .title {
+  display: block;
+  width: 100vw;
+  margin-left: calc(-1 * var(--page-padding));
+  padding-left: var(--page-padding);
+  padding-right: var(--page-padding);
+  background-color: var(--secondary);
+}
