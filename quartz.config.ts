@@ -94,14 +94,14 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
 
-      // ✅ Enable automatic per-page OG images for link previews
-	  Plugin.CustomOgImages({
-		banner: "/static/biolectrics-banner.png",
-		fontFamily: "Schibsted Grotesk",
-		backgroundColor: "#161618",
-		textColor: "#ebebec",
-		size: { width: 1200, height: 630 },
-	}),
+      // ✅ Generate per-page Open Graph images for link previews
+      Plugin.CustomOgImages({
+        banner: "/static/biolectrics-banner.png",
+        fontFamily: "Schibsted Grotesk",
+        backgroundColor: "#161618",
+        textColor: "#ebebec",
+        size: { width: 1200, height: 630 },
+      }),
     ],
   },
 }
