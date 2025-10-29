@@ -1,7 +1,7 @@
 ---
-title: Therapeutics - CGRP Receptor Inhibition Restores Lipid Metabolism Through HDAC11-LXRβ–ABCA1 Axis
 created: 2025-10-25
-updated: 10/27/2025 4:19 PM
+updated: 10/29/2025 4:19 PM
+title: Therapeutics - CGRP Receptor Inhibition Restores Lipid Metabolism Through HDAC11-LXRβ–ABCA1 Axis
 tags:
   - Alzheimer
   - CGRP

@@ -1,7 +1,7 @@
 ---
-title: Therapeutic Pathways and Mechanistic Targets
 created: 2025-10-26 11:45 AM
-updated: 10/29/2025 12:53 AM
+updated: 10/29/2025 4:19 PM
+title: Therapeutic Pathways and Mechanistic Targets
 tags:
   - Biolectrics
   - Therapeutics
