@@ -40,11 +40,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-	Component.RecentNotes({ showTags: false }),
-//    Component.Graph(),
-  ],
+	Component.DesktopOnly(Component.TableOfContents()),
+	Component.Backlinks(),
+	Component.RecentNotes({
+		showTags: false,
+		limit: 3,
+		linkToMore: "recent-notes",  // adds the “See more” link
+  }),
+//  Component.Graph(),
+],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -67,14 +72,14 @@ export const defaultListPageLayout: PageLayout = {
   right: [],
 }
 
-// homepage layout showing recent notes and linking to the full page
-export const homePageLayout: PageLayout = {
+export const recentNotesPageLayout: PageLayout = {
   beforeBody: [
+    Component.ArticleTitle(),
     Component.RecentNotes({
-      title: "Recent Notes",
-      limit: 6,
+      title: "All Recent Notes",
+      limit: 100,
       showTags: true,
-      linkToMore: "recent-notes", // "See more" link
+      // sort: Component.byDateAndAlphabetical, // optional, default already newest-first
     }),
   ],
   left: [
@@ -92,32 +97,6 @@ export const homePageLayout: PageLayout = {
   right: [],
 }
 
-// auto-updating full list of recent notes
-export const recentNotesPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ArticleTitle(),
-    Component.RecentNotes({
-      title: "All Recent Notes",
-      limit: 100,
-      showTags: true,
-    }),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        { Component: Component.Search(), grow: true },
-        { Component: Component.Darkmode() },
-      ],
-    }),
-    Component.Explorer(),
-  ],
-  right: [],
-}
-
-// map which pages use which layout
 export const pageLayoutOverrides = {
-  index: homePageLayout,
   "recent-notes": recentNotesPageLayout,
 }
