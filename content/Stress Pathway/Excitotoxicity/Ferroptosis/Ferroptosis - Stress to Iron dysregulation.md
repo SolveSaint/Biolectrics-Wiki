@@ -1,6 +1,6 @@
 ---
 created: 10/19/2025 5:24 PM
-updated: 10/28/2025 10:45 PM
+updated: 10/28/2025 10:47 PM
 title: Ferroptosis - Stress to Iron Dysregulation
 tags:
   - Biolectrics
@@ -35,7 +35,7 @@ Without iron, ROS can still form but cannot sustain the runaway lipid oxidation 
 2. **Mitochondrial Breakdown:** Sustained ROS damages **iron–sulfur cluster proteins**, further releasing Fe²⁺ into mitochondria and cytoplasm.  
 3. **PGRMC1 Dysfunction:** **Progesterone receptor membrane component 1 (PGRMC1)** regulates mitochondrial heme export through **mitochondria-associated membranes (MAMs)**.  
    - PGRMC1 loss or stress-related dysfunction causes **heme accumulation** in mitochondria.  
-   - Excess heme releases Fe²⁺, enhancing **Fenton chemistry** and **ferroptotic vulnerability** [(Piel et al., 2026)](https://doi.org/10.1016/j.jinorgbio.2025.113093).  
+   - Excess heme releases Fe²⁺, enhancing **Fenton chemistry** and **ferroptotic vulnerability** [(Piel et al., 2025)](https://doi.org/10.1016/j.jinorgbio.2025.113093).  
 1. **Glutathione and GPX4 Collapse:** Chronic stress depletes **glutathione**, disabling **GPX4**, the enzyme that detoxifies lipid peroxides.  
 2. **Inflammatory Retention:** **IL-6–driven hepcidin** expression traps iron inside neurons and glia, raising intracellular Fe²⁺ and redox potential.
 
@@ -61,4 +61,4 @@ Apoptosis is structured and recoverable; ferroptosis is **chemical and terminal*
 | Title | Authors | Year |
 |---|---|:--:|
 | [Lipid peroxidation intrinsically induces mitochondrial iron overload via Bach1–HO-1 signaling to promote ferroptosis](https://doi.org/10.1101/2025.10.15.682717) | Liu et al. | 2025 |
-| [Progesterone receptor membrane component 1 (PGRMC1) regulates heme trafficking through mitochondria-associated membranes](https://doi.org/10.1016/j.jinorgbio.2025.113093) | Piel et al. | 2026 |
+| [Progesterone receptor membrane component 1 (PGRMC1) regulates heme trafficking through mitochondria-associated membranes](https://doi.org/10.1016/j.jinorgbio.2025.113093) | Piel et al. | 2025 |
