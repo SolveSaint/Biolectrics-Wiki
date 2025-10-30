@@ -115,6 +115,6 @@ Component.RecentNotes({
   right: [],
 }
 
-export const pageLayoutOverrides = {
+export const pageLayout = {
   "recent-notes": recentNotesPageLayout,
 }
