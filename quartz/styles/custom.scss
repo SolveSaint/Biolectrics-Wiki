@@ -2,41 +2,36 @@
 
 // put your custom CSS here!
 
-/* Quartz Explorer: alternating rows + dividers + clearer nesting */
-.explorer #explorer-content ul > li > a,
-.explorer #explorer-content ul > li > .folder-container {
-  display: block;
+/* === Biolectrics Wiki Explorer Styling === */
+.explorer-content ul.explorer-ul > li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
   padding: 6px 10px;
+  margin: 0;
   border-radius: 6px;
-  border-bottom: 1px solid color-mix(in srgb, var(--text-muted) 20%, transparent);
-  transition: background-color .15s ease-in-out;
 }
 
-/* Alternating backgrounds (top-level within each list) */
-.explorer #explorer-content ul > li:nth-child(odd) > a,
-.explorer #explorer-content ul > li:nth-child(odd) > .folder-container {
-  background: color-mix(in srgb, var(--background-primary) 95%, var(--text-muted) 5%);
-}
-.explorer #explorer-content ul > li:nth-child(even) > a,
-.explorer #explorer-content ul > li:nth-child(even) > .folder-container {
-  background: color-mix(in srgb, var(--background-primary) 92%, var(--text-muted) 8%);
+/* Alternating row colors for better visual separation */
+.explorer-content ul.explorer-ul > li:nth-child(odd) {
+  background-color: rgba(255, 255, 255, 0.03);
 }
 
-/* Hover */
-.explorer #explorer-content ul > li > a:hover,
-.explorer #explorer-content ul > li > .folder-container:hover {
-  background: color-mix(in srgb, var(--background-primary) 85%, var(--text-muted) 15%);
+.explorer-content ul.explorer-ul > li:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.06);
 }
 
-/* Clearer nesting: subtle left rail on deeper levels */
-.explorer #explorer-content ul ul > li > a,
-.explorer #explorer-content ul ul > li > .folder-container {
-  margin-left: 10px;
-  border-left: 2px solid color-mix(in srgb, var(--text-muted) 25%, transparent);
+/* Hover highlight for readability */
+.explorer-content ul.explorer-ul > li:hover {
+  background-color: rgba(255, 255, 255, 0.10);
+}
+
+/* Nested folder items get slightly indented and lighter tone */
+.explorer-content ul ul.content > li {
+  margin-left: 12px;
+  border-left: 2px solid rgba(255, 255, 255, 0.05);
   border-radius: 4px;
-  padding-left: 8px;
 }
 
-/* Keep link text readable inside tinted rows */
-.explorer #explorer-content li > a { color: var(--dark); opacity: .9; }
-
+/* Smooth transitions and subtle contrast fit dark Biolectrics palette */
+.explorer-content ul li {
+  transition: background-color 0.15s ease-in-out;
+}
