@@ -63,3 +63,10 @@
   background: rgba(255, 255, 255, 0.06);
 }
 
+/* Explorer zebra classes applied by JS */
+.explorer-content .zebra-odd  { background: rgba(255,255,255,0.06); border-radius: 6px; }
+.explorer-content .zebra-even { background: rgba(255,255,255,0.03); border-radius: 6px; }
+
+/* Optional: make the end-of-list fade less strong so stripes show through */
+.explorer-ul.gradient-active::after { opacity: .15; }
+
