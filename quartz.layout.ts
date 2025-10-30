@@ -75,12 +75,18 @@ export const defaultListPageLayout: PageLayout = {
 export const recentNotesPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.RecentNotes({
-      title: "All Recent Notes",
-      limit: 100,
-      showTags: true,
-      // sort: Component.byDateAndAlphabetical, // optional, default already newest-first
-    }),
+  Component.RecentNotes({
+	title: "All Recent Notes",
+	limit: 100,
+	showTags: true,
+  // sort: Component.byDateAndAlphabetical, // optional
+	filter: (f) =>
+    // exclude tag and folder index pages
+		!(f.slug?.startsWith("tags/") || f.slug?.startsWith("folders/")) &&
+    // only include actual content pages that have a title
+		Boolean(f.frontmatter?.title),
+}),
+
   ],
   left: [
     Component.PageTitle(),
