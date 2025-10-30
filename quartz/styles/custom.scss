@@ -2,31 +2,29 @@
 
 // put your custom CSS here!
 
-/* ===== Explorer: clean rows with alternation + dividers ===== */
+/* ===== Explorer: zebra-striped rows with dividers and hierarchy ===== */
 
-/* Top-level rows: style the clickable block only */
+/* Core clickable row styling */
 .explorer-content .explorer-ul > li > a,
 .explorer-content .explorer-ul > li > .folder-container {
   display: block;
   padding: 6px 10px;
   border-radius: 6px;
   position: relative;
-  transition: background-color .15s ease-in-out;
+  transition: background-color 0.15s ease-in-out;
 }
 
-/* Alternating backgrounds (top level) */
-.explorer-content .explorer-ul > li:nth-of-type(odd) > a,
-.explorer-content .explorer-ul > li:nth-of-type(odd) > .folder-container {
-  background: rgba(255, 255, 255, 0.04);
+/* Zebra backgrounds (applied via postscript.ts) */
+.explorer-content .zebra-odd {
+  background-color: rgba(255, 255, 255, 0.04);
 }
-.explorer-content .explorer-ul > li:nth-of-type(even) > a,
-.explorer-content .explorer-ul > li:nth-of-type(even) > .folder-container {
-  background: rgba(255, 255, 255, 0.07);
+.explorer-content .zebra-even {
+  background-color: rgba(255, 255, 255, 0.07);
 }
 
 /* Divider line drawn by the row itself, not the <li> container */
-.explorer-content .explorer-ul > li > a::after,
-.explorer-content .explorer-ul > li > .folder-container::after {
+.explorer-content li > a::after,
+.explorer-content li > .folder-container::after {
   content: "";
   position: absolute;
   left: 8px;
@@ -37,12 +35,12 @@
 }
 
 /* Hover highlight */
-.explorer-content .explorer-ul > li > a:hover,
-.explorer-content .explorer-ul > li > .folder-container:hover {
-  background: rgba(255, 255, 255, 0.12);
+.explorer-content li > a:hover,
+.explorer-content li > .folder-container:hover {
+  background-color: rgba(255, 255, 255, 0.12);
 }
 
-/* Nested rows: same treatment, with a subtle left rail for hierarchy */
+/* Nested folder content: subtle indent + left rail */
 .explorer-content ul.content > li > a,
 .explorer-content ul.content > li > .folder-container {
   display: block;
@@ -52,6 +50,8 @@
   border-radius: 4px;
   position: relative;
 }
+
+/* Divider for nested items */
 .explorer-content ul.content > li > a::after,
 .explorer-content ul.content > li > .folder-container::after {
   content: "";
@@ -63,10 +63,7 @@
   background: rgba(255, 255, 255, 0.06);
 }
 
-/* Explorer zebra classes applied by JS */
-.explorer-content .zebra-odd  { background: rgba(255,255,255,0.06); border-radius: 6px; }
-.explorer-content .zebra-even { background: rgba(255,255,255,0.03); border-radius: 6px; }
-
-/* Optional: make the end-of-list fade less strong so stripes show through */
-.explorer-ul.gradient-active::after { opacity: .15; }
-
+/* Slightly soften the Explorer gradient overlay */
+.explorer-ul.gradient-active::after {
+  opacity: 0.15;
+}
