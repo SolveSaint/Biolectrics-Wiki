@@ -1,3 +1,35 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* === Quartz Explorer List Styling === */
+
+/* General spacing & shape */
+.sidebar .tree-item {
+  padding: 6px 10px;
+  margin: 0;
+  border-radius: 6px;
+  border-bottom: 1px solid color-mix(in srgb, var(--text-muted) 20%, transparent);
+  transition: background-color 0.15s ease-in-out;
+}
+
+/* Alternating background colors */
+.sidebar .tree-item:nth-child(odd) {
+  background-color: color-mix(in srgb, var(--background-primary) 95%, var(--text-muted) 5%);
+}
+
+.sidebar .tree-item:nth-child(even) {
+  background-color: color-mix(in srgb, var(--background-primary) 92%, var(--text-muted) 8%);
+}
+
+/* Hover highlight */
+.sidebar .tree-item:hover {
+  background-color: color-mix(in srgb, var(--background-primary) 85%, var(--text-muted) 15%);
+}
+
+/* Optional: slight indent for nested items to keep hierarchy clear */
+.sidebar .tree-item-children .tree-item {
+  margin-left: 10px;
+  border-left: 2px solid color-mix(in srgb, var(--text-muted) 25%, transparent);
+  border-radius: 4px;
+}
