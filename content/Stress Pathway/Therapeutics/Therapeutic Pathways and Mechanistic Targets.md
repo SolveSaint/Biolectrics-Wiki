@@ -195,18 +195,3 @@ Macrophage SAA3 triggers adipocyte lipolysis in dWAT. Released MUFAs enter epith
 4) Start with short courses and monitor for return of hyperexcitability or ROS markers.  
 5) Prefer local use to limit systemic lipid handling risks.
 
----
-
-### [Add next therapeutic mechanism here]
-
-Use the structure below for each addition:
-
-#### Mechanism/Target Name
-Short paragraph summarizing the pathway’s relevance and interaction with the stress–glutamate–ROS axis.
-
-- **Core Mechanism:**  
-- **Downstream Effects:**  
-- **Key Node(s):**  
-- **Therapeutic Angle:**  
-
----
