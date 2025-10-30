@@ -1,7 +1,7 @@
 ---
-title: AR-V7-GR Complex and Surface Receptor Remodeling Under Androgen Blockade
 created: 2025-10-25
-updated: 10/28/2025 10:45 AM
+updated: 10/30/2025 7:23 PM
+title: AR-V7-GR Complex and Surface Receptor Remodeling Under Androgen Blockade
 tags:
   - NR3C1
   - AndrogenReceptor

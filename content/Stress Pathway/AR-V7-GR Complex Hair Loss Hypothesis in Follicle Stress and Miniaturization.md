@@ -1,7 +1,7 @@
 ---
-title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 created: 2025-10-25
-updated: 10/28/2025 10:46 AM
+updated: 10/30/2025 7:24 PM
+title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 tags:
   - HairLoss
   - ARV7
