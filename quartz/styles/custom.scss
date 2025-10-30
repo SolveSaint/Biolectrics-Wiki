@@ -2,34 +2,41 @@
 
 // put your custom CSS here!
 
-/* === Quartz Explorer List Styling === */
-
-/* General spacing & shape */
-.sidebar .tree-item {
+/* Quartz Explorer: alternating rows + dividers + clearer nesting */
+.explorer #explorer-content ul > li > a,
+.explorer #explorer-content ul > li > .folder-container {
+  display: block;
   padding: 6px 10px;
-  margin: 0;
   border-radius: 6px;
   border-bottom: 1px solid color-mix(in srgb, var(--text-muted) 20%, transparent);
-  transition: background-color 0.15s ease-in-out;
+  transition: background-color .15s ease-in-out;
 }
 
-/* Alternating background colors */
-.sidebar .tree-item:nth-child(odd) {
-  background-color: color-mix(in srgb, var(--background-primary) 95%, var(--text-muted) 5%);
+/* Alternating backgrounds (top-level within each list) */
+.explorer #explorer-content ul > li:nth-child(odd) > a,
+.explorer #explorer-content ul > li:nth-child(odd) > .folder-container {
+  background: color-mix(in srgb, var(--background-primary) 95%, var(--text-muted) 5%);
+}
+.explorer #explorer-content ul > li:nth-child(even) > a,
+.explorer #explorer-content ul > li:nth-child(even) > .folder-container {
+  background: color-mix(in srgb, var(--background-primary) 92%, var(--text-muted) 8%);
 }
 
-.sidebar .tree-item:nth-child(even) {
-  background-color: color-mix(in srgb, var(--background-primary) 92%, var(--text-muted) 8%);
+/* Hover */
+.explorer #explorer-content ul > li > a:hover,
+.explorer #explorer-content ul > li > .folder-container:hover {
+  background: color-mix(in srgb, var(--background-primary) 85%, var(--text-muted) 15%);
 }
 
-/* Hover highlight */
-.sidebar .tree-item:hover {
-  background-color: color-mix(in srgb, var(--background-primary) 85%, var(--text-muted) 15%);
-}
-
-/* Optional: slight indent for nested items to keep hierarchy clear */
-.sidebar .tree-item-children .tree-item {
+/* Clearer nesting: subtle left rail on deeper levels */
+.explorer #explorer-content ul ul > li > a,
+.explorer #explorer-content ul ul > li > .folder-container {
   margin-left: 10px;
   border-left: 2px solid color-mix(in srgb, var(--text-muted) 25%, transparent);
   border-radius: 4px;
+  padding-left: 8px;
 }
+
+/* Keep link text readable inside tinted rows */
+.explorer #explorer-content li > a { color: var(--dark); opacity: .9; }
+
