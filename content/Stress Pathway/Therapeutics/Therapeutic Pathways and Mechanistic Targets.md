@@ -1,6 +1,6 @@
 ---
 created: 2025-10-26 11:45 AM
-updated: 10/29/2025 8:43 PM
+updated: 10/30/2025 7:02 PM
 title: Therapeutic Pathways and Mechanistic Targets
 tags:
   - Biolectrics
@@ -56,9 +56,31 @@ tags:
   - MetabolicRecovery
   - PostExcitotoxicRepair
   - RedoxRestoration
+  - NAAG
+  - mGluR3
+  - GCPII
+  - NeuroHIV
 ---
 
 This note compiles therapeutic mechanisms that mitigate excitotoxicity, oxidative stress, and bioelectric dysregulation. Each section outlines how a specific molecular target restores balance within the stress–glutamate–ROS cascade or supports cellular recovery through antioxidant or autophagic means.
+
+---
+
+### NAAG–mGluR3 Signaling and GCPII Inhibition (Extracellular Glutamate Control)
+
+| Title | Authors | Year |
+|---|---|:--:|
+| [Associations between cerebrospinal fluid N-acetyl-aspartyl-glutamate and cognitive function in people with HIV](https://doi.org/10.1097/QAD.0000000000004341) | Chandra et al. | 2025 |
+
+N-acetyl-aspartyl-glutamate (NAAG) functions as an endogenous regulator of synaptic glutamate. By activating mGluR3 receptors on presynaptic terminals and astrocytes, NAAG reduces vesicular glutamate release and enhances EAAT2-mediated clearance. In people with HIV, higher cerebrospinal fluid NAAG correlates with better working memory and spatial attention, indicating that suppression of extracellular glutamate improves cognitive efficiency by lowering excitatory load and oxidative stress.
+
+Within the stress–glutamate–ROS framework, this represents the **extracellular control tier** of excitotoxic regulation. Reduced glutamate availability limits NMDA and AMPA receptor activation, decreases calcium influx, and mitigates mitochondrial ROS generation. This mechanism preserves redox balance and prevents calcium-driven mitochondrial collapse that typically follows prolonged excitatory signaling.
+
+- **Core Mechanism:** NAAG activates mGluR3 on presynaptic and glial cells, decreasing glutamate release probability and increasing uptake efficiency.  
+- **Downstream Effects:** Reduced extracellular glutamate, decreased receptor activation, lower calcium entry, and decreased mitochondrial ROS.  
+- **Key Node(s):** NAAG, mGluR3, GCPII, EAAT2, NR3C1.  
+- **Therapeutic Angle:** GCPII inhibition raises endogenous NAAG and mitigates extracellular excitotoxicity. Combined with glucocorticoid receptor restoration and antioxidant support, it can stabilize redox state and prevent progression to calcium overload and ROS accumulation.  
+- **Caution and Sequencing:** Use NAAG-elevating strategies where extracellular glutamate excess predominates. Evaluate receptor function and mitochondrial stability to avoid excessive synaptic dampening that could impair learning or vigilance.
 
 ---
 
