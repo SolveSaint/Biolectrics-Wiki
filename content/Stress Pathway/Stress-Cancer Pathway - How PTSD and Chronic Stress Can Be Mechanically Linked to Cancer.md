@@ -1,7 +1,7 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 1:35 PM
-title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
+updated: 10/30/2025 1:38 PM
+title: How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
   - Biolectrics
   - Stress
@@ -46,9 +46,9 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    Catecholamine activation of β2 receptors in tumor or stromal cells induces angiogenic and inflammatory mediators such as VEGF, IL 6, and IL 8. In vivo, chronic stress accelerates metastasis, while β blockers such as propranolol inhibit these effects [(Thaker et al., 2006)](https://doi.org/10.1038/nm1447).  
    Antoni et al. also describe how β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).
 
-6. **Glutamate Transport and Redox-Controlled Cell Death**
-Tumors frequently upregulate **SLC7A11 (xCT)**, a cystine and glutamate antiporter. By importing cystine and exporting glutamate, cells increase intracellular cysteine for **glutathione (GSH)** synthesis. Higher GSH supports **GPX4** activity, which reduces lipid peroxides and **suppresses ferroptosis**. This strengthened redox buffering also raises the threshold for **apoptosis** and other stress-triggered death programs, allowing survival in a high ROS environment [(Liu et al., 2020)](https://doi.org/10.1038/s41467-020-14637-2). Stress related glutamate excess can further elevate extracellular glutamate, shaping local signaling and the tumor microenvironment.
-
+6. **Glutamate Transport and Redox-Controlled Cell Death**  
+   Tumors frequently upregulate **SLC7A11 (xCT)**, a cystine and glutamate antiporter. By importing cystine and exporting glutamate, cells increase intracellular cysteine for **glutathione (GSH)** synthesis. Higher GSH supports **GPX4** activity, which reduces lipid peroxides and **suppresses ferroptosis**. This strengthened redox buffering also raises the threshold for **apoptosis** and other stress triggered death programs, allowing survival in a high ROS environment [(Liu et al., 2020)](https://doi.org/10.1038/s41467-020-14637-2). Stress related glutamate excess can further elevate extracellular glutamate, shaping local signaling and the tumor microenvironment.  
+   The broader metabolic pattern favors resistance to both oxidative and excitatory stress, uniting the cancer survival state with the chronic stress adaptation model [(Martínez-Reyes and Chandel, 2021)](https://doi.org/10.1038/s41568-021-00378-6).
 
 7. **Integration With PTSD Biology**  
    PTSD maintains a dysregulated HPA axis, producing flattened cortisol rhythms and sustained adrenergic tone. These molecular signatures overlap with oncogenic stress profiles, reinforcing calcium loading, glutamate upregulation, ROS accumulation, and adaptive autophagy.
