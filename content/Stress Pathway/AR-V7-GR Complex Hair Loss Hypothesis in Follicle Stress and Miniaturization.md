@@ -1,6 +1,7 @@
 ---
 created: 2025-10-25
-updated: 10/30/2025 7:24 PM
+updated: 10/30/2025 7:27 PM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/AR-V7-GR-Complex-Hair-Loss-Hypothesis-in-Follicle-Stress-and-Miniaturization
 title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 tags:
   - HairLoss

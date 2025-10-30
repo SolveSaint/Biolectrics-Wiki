@@ -1,6 +1,7 @@
 ---
 created: 2025-10-25
-updated: 10/30/2025 7:23 PM
+updated: 10/30/2025 7:27 PM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/AR-V7-GR-Complex-and-Surface-Receptor-Remodeling-Under-Androgen-Blockade
 title: AR-V7-GR Complex and Surface Receptor Remodeling Under Androgen Blockade
 tags:
   - NR3C1
