@@ -2,7 +2,7 @@
 created: 10/27/2025 12:19 AM
 updated: 10/31/2025 12:52 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Research-Paper-Database
-title: Research Paper Database
+title: "*Research Paper Database"
 tags:
   - Biolectrics
 ---
