@@ -43,8 +43,9 @@ Noradrenaline and cortisol increase together, heightening glutamatergic signalin
 
 Noradrenaline first opens calcium channels through β receptor activation, while cortisol binds glucocorticoid receptors and increases recycling of NMDA and AMPA receptors to the membrane. As this pattern continues, the stress pathway enters **Nur77 dominance**, where GR feedback fades and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this mode of control, allowing stimulation itself to maintain enhancement without new stress hormones.  
 
-At this stage, every burst of activity reinforces throughput. Calcium influx, mitochondrial output, and ROS generation all rise together, expanding cognitive and muscular performance.  
-When antioxidant systems such as glutathione, GPX4, and mitochondrial repair are strong, this state produces sustained creativity, emotional expression, and high endurance. The system uses stress energy efficiently and recycles ROS into signaling.  
+At this stage, every burst of activity reinforces throughput. Calcium influx, mitochondrial output, and ROS generation all rise together, synchronizing across the brain, muscles, and sensory systems. Cortical and motor neurons fire with greater amplitude, muscle contraction strength increases, sensory acuity sharpens, and emotional tone intensifies. The body operates as a single resonant circuit where excitatory signaling, metabolic output, and redox activity scale upward in unison.  
+
+When antioxidant systems such as glutathione, GPX4, and mitochondrial repair remain strong, this state produces sustained creativity, emotional power, endurance, and refined coordination. The system uses stress energy efficiently and recycles ROS into constructive signaling.
 
 If antioxidant capacity falls, the same circuit becomes unstable. Excess calcium and ROS begin to damage membranes, mitochondria depolarize, and excitatory signaling turns destructive. The longer the network stays in the Nur77 mode without redox recovery, the greater the risk of excitotoxicity and structural loss.  
 
