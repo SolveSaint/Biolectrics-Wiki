@@ -1,7 +1,8 @@
 ---
 created: 10/19/2025 5:24 PM
-updated: 10/31/2025 9:36 AM
+updated: 10/31/2025 10:30 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---Stress-to-Iron-dysregulation
+chatref: https://chatgpt.com/c/68f53070-84f4-832c-aa28-e3e6411cf1f6
 title: Ferroptosis - Stress to Iron Dysregulation
 tags:
   - Biolectrics
