@@ -78,8 +78,34 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
-}
+right: [
+  Component.ConditionalRender({
+    component: Component.RecentNotes({
+      showTags: false,
+      limit: 3,
+      linkToMore: "recent-notes",
+      filter: (f) => {
+        const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
+        return (
+          // exclude special pages
+          slug !== "recent-notes" &&
+          !slug.startsWith("tags/") &&
+          !slug.startsWith("folders/") &&
+          Boolean(f.frontmatter?.title)
+        )
+      },
+    }),
+    condition: (page) => {
+      const slug = Array.isArray(page.fileData.slug)
+        ? page.fileData.slug.join("/")
+        : (page.fileData.slug ?? "")
+      return slug !== "recent-notes"
+    },
+  }),
+
+  Component.DesktopOnly(Component.TableOfContents()),
+  Component.Backlinks(),
+],
 
 export const recentNotesPageLayout: PageLayout = {
   beforeBody: [
@@ -87,20 +113,22 @@ export const recentNotesPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  pageBody: Component.RecentNotes({
-    title: "All Recent Notes",
-    limit: 100,
-    showTags: true,
-    sort: Component.byDateAndAlphabetical,
-    filter: (f) => {
-      const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
-      return (
-        !slug.startsWith("tags/") &&
-        !slug.startsWith("folders/") &&
-        Boolean(f.frontmatter?.title)
-      )
-    },
-  }),
+pageBody: Component.RecentNotes({
+  title: "All Recent Notes",
+  limit: 100,
+  showTags: true,
+  sort: Component.byDateAndAlphabetical,
+  filter: (f) => {
+    const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
+    return (
+      slug !== "recent-notes" &&   // 👈 exclude self
+      !slug.startsWith("tags/") &&
+      !slug.startsWith("folders/") &&
+      Boolean(f.frontmatter?.title)
+    )
+  },
+}),
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
