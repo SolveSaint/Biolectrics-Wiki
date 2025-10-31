@@ -1,6 +1,8 @@
 ---
-description: "Biolectrics — stress–glutamate–ROS model and therapeutic pathways."
-socialImage: "og-image.png"   # <- path Quartz v4 expects
+created: 10/31/2025 12:19 AM
+updated: 10/31/2025 12:20 AM
+description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
+socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
 title: Biolectrics
 ---
@@ -37,13 +39,15 @@ This sequence converts transient stress into a structural change that alters ene
 ---
 
 ## 🔥 The Metabolic Shift
-When ROS accumulation exceeds repair capacity, cells shift into a **glycolytic survival state**.  
-Glucose metabolism becomes rerouted through **glycolysis**, **glutaminolysis**, and **SLC7A11 mediated cystine uptake**, preserving ATP and redox balance under oxidative strain.  
+When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
 
-- In **neurons**, this state appears as excitotoxic degeneration.  
-- In **somatic cells**, it becomes a redox survival program that can evolve into **cancer** or chronic metabolic disease.  
+In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements. This overactivation reshapes DNA methylation across stress-related loci such as **NR3C1**, **BDNF**, and other synaptic plasticity genes, forming part of the **stress methylome** that records the history of excitatory exposure.  
 
-The same biochemical architecture underlies **PTSD**, **fibromyalgia**, and **neurodegeneration**, unified by persistent excitatory signaling and mitochondrial stress.
+These methylation changes open chromatin at excitatory promoters, enabling **activity-dependent transcription** of **NMDA** and **AMPA** receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation. The system becomes self-reinforcing, as calcium activity sustains CREB signaling and perpetuates transcription even in the absence of endocrine drive.  
+
+In contrast, **somatic and tumor cells** possess greater metabolic plasticity. When ROS accumulates, they divert glucose through **glycolysis**, **glutaminolysis**, and **SLC7A11 mediated cystine uptake** to preserve ATP and glutathione. This adaptation sustains survival under oxidative strain and can evolve into a malignant, redox-stabilized state.  
+
+The divergence explains why neurons degenerate while peripheral cells persist. Both follow the same **glutamate–calcium–ROS axis**, but neurons remain oxidative and transcriptionally overactive, whereas other cells escape into glycolytic survival.
 
 ---
 
