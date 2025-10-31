@@ -75,3 +75,10 @@
 /* Soften end gradient so stripes show through */
 .explorer-ul.gradient-active::after { opacity: .15; }
 
+/* --- Blue-tinted hover for files --- */
+.explorer-content a:not(.folder-title):hover {
+  background-color: rgba(96, 163, 255, 0.15); /* faint soft blue */
+  color: #e6f0ff; /* slightly brighter text for readability */
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
