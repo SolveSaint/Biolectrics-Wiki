@@ -1,43 +1,33 @@
-// ===== Explorer zebra-striping across full hierarchy =====
-console.log("✅ Biolectrics Explorer zebra script loaded");
-
+// ===== Explorer zebra-striping across full hierarchy (FILES ONLY) =====
 function applyExplorerZebra(): void {
   const root = document.querySelector(".explorer-content .explorer-ul");
   if (!root) return;
 
-// All clickable FILE rows (exclude folder titles)
-const rows = root.querySelectorAll<HTMLElement>("li > a:not(.folder-title)");
+  // Gather all clickable blocks, then keep only file links (not folders)
+  const all = root.querySelectorAll<HTMLElement>("li > a, li > .folder-container");
+  const files: HTMLElement[] = Array.from(all).filter(el => el.matches("a:not(.folder-title)"));
 
+  // Clear any old classes everywhere
+  all.forEach(el => el.classList.remove("zebra-odd", "zebra-even"));
 
+  // Apply stripes to files in DOM order
   let i = 0;
-  rows.forEach(el => {
-    el.classList.remove("zebra-odd", "zebra-even");
-    el.classList.add((i++ % 2 === 0) ? "zebra-odd" : "zebra-even");
-  });
+  files.forEach(el => el.classList.add((i++ % 2 === 0) ? "zebra-odd" : "zebra-even"));
 }
 
-// Re-apply when the SPA navigates
+// Run now, on SPA nav, and when explorer mutates (expand/collapse)
+const start = () => {
+  applyExplorerZebra();
+  const explorer = document.querySelector(".explorer-content");
+  if (explorer) {
+    const mo = new MutationObserver(() => requestAnimationFrame(applyExplorerZebra));
+    mo.observe(explorer, { childList: true, subtree: true });
+  }
+};
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", start);
+} else {
+  start();
+}
 document.addEventListener("nav", applyExplorerZebra);
 
-// Also re-apply when the explorer expands/collapses or list mutates
-const startObserver = () => {
-  const explorer = document.querySelector(".explorer-content");
-  if (!explorer) return;
-
-  const mo = new MutationObserver(() => {
-    // Queue to next frame so DOM is settled
-    requestAnimationFrame(applyExplorerZebra);
-  });
-  mo.observe(explorer, { childList: true, subtree: true });
-};
-
-// Run once after initial load
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", () => {
-    applyExplorerZebra();
-    startObserver();
-  });
-} else {
-  applyExplorerZebra();
-  startObserver();
-}

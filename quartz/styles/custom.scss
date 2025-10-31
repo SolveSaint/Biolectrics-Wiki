@@ -2,21 +2,22 @@
 
 // put your custom CSS here!
 
-/* ===== Explorer: blocks only on files; folders stay flat ===== */
+/* ===== Explorer: blocks only on FILES; folders clean; global zebra classes ===== */
 
-/* --- FOLDERS (no blocks) --- */
-.explorer-content .explorer-ul > li > .folder-container {
+/* FOLDERS (no block background, single line) */
+.explorer-content .explorer-ul > li > .folder-container,
+.explorer-content ul.content > li > .folder-container {
   display: flex;
   align-items: center;
   gap: 8px;
   width: 100%;
-  padding: 6px 10px;                /* spacing only */
-  border-radius: 6px;               /* keeps hitbox smooth */
+  padding: 6px 10px;
+  border-radius: 6px;
   position: relative;
+  background: transparent; /* ensure no inherited tint */
 }
-
-/* keep folder title on one line */
-.explorer-content .explorer-ul > li > .folder-container > div {
+.explorer-content .explorer-ul > li > .folder-container > div,
+.explorer-content ul.content > li > .folder-container > div {
   flex: 1 1 auto;
   min-width: 0;
 }
@@ -27,8 +28,9 @@
   text-overflow: ellipsis;
 }
 
-/* subtle divider under folders */
-.explorer-content .explorer-ul > li > .folder-container::after {
+/* Divider under folders */
+.explorer-content .explorer-ul > li > .folder-container::after,
+.explorer-content ul.content > li > .folder-container::after {
   content: "";
   position: absolute;
   left: 8px;
@@ -38,50 +40,28 @@
   background: rgba(255, 255, 255, 0.08);
 }
 
-/* --- FILES (zebra blocks) --- */
-.explorer-content .explorer-ul > li > a:not(.folder-title) {
+/* FILES (pill blocks + zebra) */
+.explorer-content .explorer-ul > li > a:not(.folder-title),
+.explorer-content ul.content > li > a:not(.folder-title) {
   display: block;
   padding: 8px 12px;
   border-radius: 8px;
   position: relative;
-  transition: background-color 0.15s ease-in-out;
+  transition: background-color .15s ease-in-out;
+  margin-left: 12px; /* align with nested left rail */
+  border-left: 2px solid rgba(255,255,255,0.06);
 }
 
-/* zebra classes set by postscript.ts */
+/* Zebra backgrounds set by TS */
 .explorer-content .zebra-odd  { background-color: rgba(255,255,255,0.07); }
 .explorer-content .zebra-even { background-color: rgba(255,255,255,0.04); }
 
-.explorer-content .explorer-ul > li > a:not(.folder-title):hover {
+.explorer-content a:not(.folder-title):hover {
   background-color: rgba(255,255,255,0.12);
 }
 
-/* thin divider below files too (sits outside rounded block) */
-.explorer-content .explorer-ul > li > a:not(.folder-title)::after {
-  content: "";
-  position: absolute;
-  left: 8px;
-  right: 8px;
-  bottom: -1px;
-  height: 1px;
-  background: rgba(255, 255, 255, 0.08);
-}
-
-/* --- NESTED ITEMS --- */
-.explorer-content ul.content > li > .folder-container {
-  margin-left: 12px;
-  border-left: 2px solid rgba(255,255,255,0.06);
-  border-radius: 4px;
-}
-
-.explorer-content ul.content > li > a:not(.folder-title) {
-  margin-left: 12px;
-  border-left: 2px solid rgba(255,255,255,0.06);
-  border-radius: 6px;
-  padding: 8px 12px;
-}
-
-/* nested dividers */
-.explorer-content ul.content > li > .folder-container::after,
+/* Dividers for files */
+.explorer-content .explorer-ul > li > a:not(.folder-title)::after,
 .explorer-content ul.content > li > a:not(.folder-title)::after {
   content: "";
   position: absolute;
@@ -92,5 +72,6 @@
   background: rgba(255,255,255,0.06);
 }
 
-/* soften Quartz’s end gradient so stripes show through */
-.explorer-ul.gradient-active::after { opacity: 0.15; }
+/* Soften end gradient so stripes show through */
+.explorer-ul.gradient-active::after { opacity: .15; }
+
