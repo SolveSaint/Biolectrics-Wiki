@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 1:38 PM
+updated: 10/30/2025 9:30 PM
 title: How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
   - Biolectrics
@@ -17,6 +17,16 @@ tags:
   - DNA-damage
   - Nur77
   - CREB
+  - HIF-1α
+  - cAMP
+  - PKA
+  - VEGF
+  - Glycolysis
+  - PFKFB3
+  - PPP
+  - NADPH
+  - Lactate
+  - Mitochondria
 ---
 
 ### Overview
@@ -42,9 +52,15 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    Once mitochondrial buffering capacity is exceeded, ROS oxidize guanine bases and cause strand breaks, leading to mutagenesis. ROS also serve as a signal for noncanonical autophagy that selectively degrades nuclear material [(Chen, Turna Narayan et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). This form of nuclear autophagy preserves tumor viability under extreme oxidative stress.  
    Navarro Yepes et al. showed that redox signaling directly regulates autophagic flux, determining whether the outcome is survival or cell death depending on ROS intensity [(Navarro-Yepes et al., 2014)](https://doi.org/10.1089/ars.2014.5837). Chronic stress maintains ROS within a range that promotes survival, genomic instability, and tumor progression.
 
-5. **Tumor Microenvironment Remodeling**  
+5. **Tumor Microenvironment Remodeling and Metabolic Reprogramming**  
    Catecholamine activation of β2 receptors in tumor or stromal cells induces angiogenic and inflammatory mediators such as VEGF, IL 6, and IL 8. In vivo, chronic stress accelerates metastasis, while β blockers such as propranolol inhibit these effects [(Thaker et al., 2006)](https://doi.org/10.1038/nm1447).  
-   Antoni et al. also describe how β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).
+   Antoni et al. showed that β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).  
+
+   **Metabolic Reprogramming and Redox Survival**  
+   Chronic stress hormones do not just remodel vasculature—they also drive metabolic reprogramming that mirrors neuronal excitotoxic adaptation.  
+   Bolaños and Magistretti demonstrated that neurons suppress glycolysis by degrading PFKFB3, diverting glucose into the pentose phosphate pathway (PPP) to generate NADPH for antioxidant defense [(Bolaños & Magistretti, 2025)](https://doi.org/10.1038/s42255-025-01404-9). When stress or excitatory signaling forces neurons to stabilize PFKFB3, this balance collapses, ROS accumulate, and mitochondria fail.  
+   Moreno-Sánchez et al. revealed that cancer cells adopt a similar metabolic configuration: although oxidative phosphorylation remains active, glycolysis becomes chronically upregulated, not as an energy defect but as a redox survival mechanism [(Moreno-Sánchez et al., 2009)](https://doi.org/10.1002/biof.31). Tumor cells upregulate HKII, PFK-1, and LDH-A through HIF-1α and c-Myc, maintaining high glycolytic throughput to buffer oxidative load and sustain biosynthesis.  
+   In effect, tumor metabolism represents a maladaptive form of the same survival strategy used by stressed neurons. Initially protective against ROS, persistent glycolysis locks cells into a hypermetabolic state that supports angiogenesis, invasion, and genomic instability. Chronic stress signaling therefore couples endocrine activation to mitochondrial overdrive, converting redox adaptation into a self-sustaining tumor phenotype.
 
 6. **Glutamate Transport and Redox-Controlled Cell Death**  
    Tumors frequently upregulate **SLC7A11 (xCT)**, a cystine and glutamate antiporter. By importing cystine and exporting glutamate, cells increase intracellular cysteine for **glutathione (GSH)** synthesis. Higher GSH supports **GPX4** activity, which reduces lipid peroxides and **suppresses ferroptosis**. This strengthened redox buffering also raises the threshold for **apoptosis** and other stress triggered death programs, allowing survival in a high ROS environment [(Liu et al., 2020)](https://doi.org/10.1038/s41467-020-14637-2). Stress related glutamate excess can further elevate extracellular glutamate, shaping local signaling and the tumor microenvironment.  
@@ -80,3 +96,5 @@ This provides molecular causality linking psychological trauma to cancer biology
 | [Oxidative stress mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chen, Turna Narayan et al. | 2025 |
 | [Oxidative stress, redox signaling, and autophagy: cell death versus survival](https://doi.org/10.1089/ars.2014.5837) | Navarro-Yepes et al. | 2014 |
 | [Modulation of Nur77 to DNA interactions by the glucocorticoid receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
+| [The neuron–astrocyte metabolic unit as a cornerstone of brain energy metabolism in health and disease](https://doi.org/10.1038/s42255-025-01404-9) | Bolaños & Magistretti | 2025 |
+| [The bioenergetics of cancer: is glycolysis the main ATP supplier in all tumor cells?](https://doi.org/10.1002/biof.31) | Moreno-Sánchez et al. | 2009 |
