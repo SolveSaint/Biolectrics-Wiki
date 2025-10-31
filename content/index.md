@@ -40,7 +40,7 @@ This chain converts a transient adaptive state into a lasting structural change 
 ---
 
 ## Stress Enhancement
-Stress does not always weaken the system. When the balance between excitation and redox control is intact, stress raises the brain and body into a state of amplified function.  
+When the balance between excitation and redox control is intact, stress raises the brain and body into a state of amplified function.  
 Noradrenaline and cortisol increase together, heightening glutamatergic signaling and receptor sensitivity. This forms the biological foundation of peak focus, emotional intensity, and creative drive.  
 
 Noradrenaline first opens calcium channels through β receptor activation, while cortisol binds glucocorticoid receptors and increases recycling of NMDA and AMPA receptors to the membrane. As this pattern continues, the stress pathway enters **Nur77 dominance**, where GR feedback fades and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this mode of control, allowing stimulation itself to maintain enhancement without new stress hormones.  
