@@ -8,5 +8,3 @@ tags:
   - Biolectrics
   - Quartz
 ---
-
-<NoteList sort="date" limit="0" filter="all" />
