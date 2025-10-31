@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 10:38 PM
+updated: 10/30/2025 10:46 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -75,6 +75,9 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    Tumor cells enhance cystine uptake through the **SLC7A11 (xCT)** antiporter, which exchanges intracellular glutamate for extracellular cystine. Imported cystine is reduced to cysteine and used to synthesize **glutathione (GSH)**, the main intracellular antioxidant. Elevated GSH preserves mitochondrial integrity by limiting lipid and protein oxidation, sustaining **GPX4** activity, and preventing both **ferroptosis** and **apoptosis**.  
 
    Koppula et al. showed that SLC7A11 sits at the intersection of redox control, amino acid metabolism, and nutrient dependency [(Koppula et al., 2018)](https://doi.org/10.1186/s40880-018-0288-x). Upregulation of this transporter maintains high glutathione levels, buffers reactive oxygen species, and raises the threshold for mitochondrial-driven cell death. At the same time, the antiporter exports glutamate, increasing extracellular glutamate concentrations that amplify calcium-linked signaling in the surrounding microenvironment.  
+
+   **Metabolic vs Signaling Glutamate**  
+   It is important to distinguish between intracellular glutamate used in metabolism and extracellular glutamate acting in signaling. Inside the cell, most glutamate is produced from **glutamine** through the action of **glutaminase (GLS)**. This pool supports the TCA cycle, transamination reactions, and glutathione synthesis. When intracellular levels rise, **SLC7A11** exports excess glutamate in exchange for cystine. The exported glutamate accumulates in the extracellular space, where it activates **NMDA** and **TRPV6** channels on tumor or stromal cells, sustaining calcium entry and transcriptional activity. Thus, metabolic glutamate fuels redox balance while exported glutamate reinforces excitatory signaling, together forming a closed survival loop that links energy metabolism to calcium control.  
 
    This creates a feedback loop of dual protection and signaling. Cells resist oxidative and excitatory injury, while persistent GSH cycling and glutamate export reinforce survival pathways. The result is long-term resistance to both apoptosis and ferroptosis, establishing a stable redox-excitation state that mirrors chronic stress adaptation [(Martínez-Reyes and Chandel, 2021)](https://doi.org/10.1038/s41568-021-00378-6).
 
