@@ -31,7 +31,9 @@ Chronic stress transforms the glutamate–calcium–ROS axis from an adaptive co
 1. **Excitation**. Stress and cortisol heighten glutamate signaling through NMDA, AMPA, and TRPV6 receptors.  
 2. **Calcium entry**. The resulting depolarization increases calcium inflow and mitochondrial uptake.  
 3. **ROS generation**. Calcium pressure drives oxidative phosphorylation beyond its safe limit, producing ROS.  
-4. **Damage and remodeling**. ROS oxidize membranes and DNA, activating autophagy, HIF-1α, and c-Myc, leading to metabolic rewiring.
+4. **Damage and remodeling**. ROS oxidize membranes and DNA, activating autophagy, HIF-1α, and c-Myc, leading to metabolic rewiring.  
+
+As excitatory signaling persists, neurons begin encoding their own activity through **Nur77** (NR4A1), an immediate early transcription factor that binds **cAMP response elements (CREs)** and initiates **activity-dependent methylation** across stress-related loci. Nur77 converts transient synaptic activation into long-term transcriptional remodeling, enhancing NMDA and AMPA receptor synthesis and stabilizing excitatory throughput. When glucocorticoid receptor feedback remains intact, GR antagonizes this process by forming protein–protein complexes with Nur77, limiting its DNA residence time and keeping transcription under endocrine control. Once GR signaling weakens, Nur77 dominance allows stimulation itself to govern gene expression, embedding excitation into chromatin structure and driving the self-sustaining excitatory mode.
 
 This chain converts a transient adaptive state into a lasting structural change that redefines excitability and metabolism.
 
