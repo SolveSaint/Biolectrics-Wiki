@@ -21,7 +21,7 @@ tags:
 |---|---|:--:|
 | [LRRK2 G2019S disrupts GABAergic signaling and shifts excitatory/inhibitory balance in the striatum](https://doi.org/10.1101/2025.10.23.684189) | Iacovo et al. | 2025 |
 
-# 🧠 Overview
+# Overview
 
 **LRRK2 (Leucine-Rich Repeat Kinase 2)** is a large multidomain kinase–GTPase hybrid enzyme that maintains neuronal and glial homeostasis.  
 It regulates **vesicle trafficking, cytoskeletal stability, mitochondrial recycling, and receptor surface turnover**, keeping the excitatory and inhibitory systems balanced.  
@@ -30,7 +30,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## 🧬 Cellular Localization
+## Cellular Localization
 
 - **Cell types:** neurons, astrocytes, and microglia  
 - **Subcellular sites:** cytoplasm, endosomal/lysosomal membranes, mitochondria–vesicle interfaces, and synaptic terminals  
@@ -39,7 +39,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## ⚙️ Molecular Functions
+## Molecular Functions
 
 | Domain | Function |
 |--------|-----------|
@@ -49,7 +49,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## 🧩 Functional Roles in Neurons
+## Functional Roles in Neurons
 
 1. **Vesicle trafficking** —  
    Coordinates Rab-mediated endocytosis and exocytosis.  
@@ -75,7 +75,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## ⚡ Integration with the Stress–Glutamate–ROS Model
+## Integration with the Stress–Glutamate–ROS Model
 
 | Stage | Interaction of LRRK2 |
 |-------|----------------------|
@@ -88,7 +88,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## 🧬 Epigenetic Regulation
+## Epigenetic Regulation
 
 - **Promoter CpG methylation** controls expression:  
   - *Hypomethylation* → overexpression and excess kinase activity.  
@@ -98,7 +98,7 @@ When overactive or demethylated, it fails in this regulatory role, allowing **H�
 
 ---
 
-## ☣️ Pathological Consequences
+## Pathological Consequences
 
 - **Glutamate excitotoxicity** from impaired reuptake.  
 - **H₂O₂ accumulation** due to mitophagy inhibition.  
@@ -110,7 +110,7 @@ Together these create the neurodegenerative environment characteristic of Parkin
 
 ---
 
-## 🧪 Key Evidence
+## Key Evidence
 
 - **Di Iacovo et al., 2025:** G2019S variant reduces GABA-evoked currents and elevates AMPA/NMDA activity in striatum.  
 - **Heo et al., 2024:** LRRK2 inhibition restores mitochondrial turnover and reduces H₂O₂ and superoxide levels in dopaminergic cultures.  
@@ -118,7 +118,7 @@ Together these create the neurodegenerative environment characteristic of Parkin
 
 ---
 
-## 🧠 Conceptual Summary
+## Conceptual Summary
 
 > **LRRK2 functions as a synaptic and mitochondrial clearing system for excitatory stress.**  
 > When intact, it helps remove H₂O₂ and maintain redox balance.  
