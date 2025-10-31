@@ -9,7 +9,7 @@ title: Biolectrics
 
 # ⚡ Biolectrics
 
-> 🧭 **How to use this site**  
+>  **How to use this site**  
 > Use the **sidebar** on desktop or the **menu icon** on mobile to explore pathways, molecular mechanisms, inheritance patterns, and therapeutic strategies.  
 
 ---
