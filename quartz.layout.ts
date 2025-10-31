@@ -84,14 +84,13 @@ export const defaultListPageLayout: PageLayout = {
 export const recentNotesPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.ContentMeta(),        // optional
-    Component.TagList(),            // optional
+    Component.ContentMeta(),
+    Component.TagList(),
   ],
   pageBody: Component.RecentNotes({
     title: "All Recent Notes",
     limit: 100,
     showTags: true,
-    // Quartz already defaults to date then lexicographic; keep or remove this:
     sort: Component.byDateAndAlphabetical,
     filter: (f) => {
       const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
@@ -102,8 +101,6 @@ export const recentNotesPageLayout: PageLayout = {
       )
     },
   }),
-
-  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -116,7 +113,7 @@ export const recentNotesPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [], // keep this empty to avoid a duplicate list on this page
 }
 
 export const pageLayout = {
