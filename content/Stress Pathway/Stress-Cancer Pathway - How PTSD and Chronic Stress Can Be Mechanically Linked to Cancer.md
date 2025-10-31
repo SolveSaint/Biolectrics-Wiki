@@ -67,7 +67,9 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    After persistent ROS exposure and nuclear autophagy signaling, cells adopt a glycolytic survival program.  
    Bolaños and Magistretti showed that neurons suppress glycolysis by degrading PFKFB3, diverting glucose into the pentose phosphate pathway to generate NADPH for antioxidant defense [(Bolaños & Magistretti, 2025)](https://doi.org/10.1038/s42255-025-01404-9). When stress or excitatory signaling forces neurons to stabilize PFKFB3, this balance collapses, ROS accumulate, and mitochondria fail.  
    Moreno Sánchez et al. described an equivalent metabolic state in cancer cells. Although oxidative phosphorylation remains active, glycolysis becomes chronically upregulated as a redox survival mechanism [(Moreno-Sánchez et al., 2009)](https://doi.org/10.1002/biof.31). Tumor cells upregulate HKII, PFK 1, and LDH A through HIF 1α and c Myc, maintaining high glycolytic throughput to buffer oxidative load and sustain biosynthesis.  
-   The switch protects against immediate ROS death, but if stress persists or checkpoints fail, this adaptive state becomes fixed and sets the stage for malignant persistence.
+
+   The glycolytic switch does not turn off mitochondria or glutamate metabolism. Instead, it **reduces mitochondrial calcium pressure** while maintaining oxidative function through **glutaminolysis**. As glycolysis increases, cells raise **glutaminase (GLS)** activity, converting glutamine to glutamate and α ketoglutarate to feed a truncated TCA cycle. This maintains mitochondrial signaling while shifting most ATP production to the cytoplasm. The increased intracellular glutamate pool fuels both energy metabolism and export through **SLC7A11**, linking glycolysis, redox balance, and excitatory signaling.  
+   The switch protects against immediate ROS death but, if stress persists or checkpoints fail, this adaptive state becomes fixed and sets the stage for malignant persistence.
 
 6. **Glutamate Transport and Redox Controlled Cell Death**  
    Tumor cells enhance cystine uptake through the **SLC7A11 (xCT)** antiporter, which exchanges intracellular glutamate for extracellular cystine. Imported cystine is reduced to cysteine and used to synthesize **glutathione (GSH)**, the main intracellular antioxidant. Elevated GSH preserves mitochondrial integrity by limiting lipid and protein oxidation, sustaining **GPX4** activity, and preventing both **ferroptosis** and **apoptosis**.  
@@ -79,6 +81,7 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
 7. **Tumor Microenvironment Remodeling**  
    Catecholamine activation of β2 receptors in tumor or stromal cells induces angiogenic and inflammatory mediators such as VEGF, IL 6, and IL 8. In vivo, chronic stress accelerates metastasis, while β blockers such as propranolol inhibit these effects [(Thaker et al., 2006)](https://doi.org/10.1038/nm1447).  
    Antoni et al. showed that β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).  
+   The glutamate-rich and lactate-rich niche further enhances calcium signaling, motility, and matrix remodeling, linking endocrine stress to metabolic and excitatory persistence within the tumor bed.
 
 8. **Integration With PTSD Biology**  
    PTSD maintains a dysregulated HPA axis, producing flattened cortisol rhythms and sustained adrenergic tone. These molecular signatures overlap with oncogenic stress profiles, reinforcing calcium loading, glutamate upregulation, ROS accumulation, and adaptive autophagy.
@@ -94,7 +97,7 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
 
 ### Summary
 The PTSD to cancer continuum follows a unified excitatory and oxidative cascade.  
-Stress → cortisol elevation and β adrenergic signaling → NR3C1 downregulation and GR loss → CREB to Nur77 driven receptor upregulation → calcium overload → mitochondrial ROS → DNA damage and nuclear autophagy → **glycolytic survival switch with c Myc and HIF 1α** → **SLC7A11 activation and glutathione maintenance** → extracellular glutamate accumulation and sustained calcium entry → microenvironment remodeling and tumor promotion.  
+Stress → cortisol elevation and β adrenergic signaling → NR3C1 downregulation and GR loss → CREB to Nur77 driven receptor upregulation → calcium overload → mitochondrial ROS → DNA damage and nuclear autophagy → **glycolytic survival switch with c Myc and HIF 1α** → **glutaminolysis and SLC7A11 activation** → GSH maintenance and extracellular glutamate accumulation → sustained calcium entry, microenvironment remodeling, and tumor promotion.  
 
 This provides molecular causality linking psychological trauma to cancer biology, showing how sustained stress transforms redox pressure into tumor survival signaling through glutamate metabolism, GR loss, and autophagy.
 
