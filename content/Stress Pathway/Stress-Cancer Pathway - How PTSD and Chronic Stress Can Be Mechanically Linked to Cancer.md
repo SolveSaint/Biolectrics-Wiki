@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 11:40 PM
+updated: 10/30/2025 11:43 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -82,7 +82,7 @@ Oxidative stress mediated DNA damage can trigger selective degradation of nuclea
 
 7. **Tumor Microenvironment Remodeling**  
    Catecholamine activation of β2 receptors in tumor or stromal cells induces angiogenic and inflammatory mediators such as VEGF, IL-6, and IL-8. In vivo, chronic stress accelerates metastasis, while β blockers such as propranolol inhibit these effects [(Thaker et al., 2006)](https://doi.org/10.1038/nm1447).  
-   Antoni et al. showed that β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).  
+   Antoni et al. showed that β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis, reinforcing the same excitatory environment sustained by the glycolytic shift [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).  
    The glutamate-rich and lactate-rich niche further enhances calcium signaling, motility, and matrix remodeling, linking endocrine stress to metabolic and excitatory persistence within the tumor bed.
 
 8. **Integration With PTSD Biology**  
