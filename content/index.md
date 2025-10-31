@@ -37,7 +37,7 @@ This chain converts a transient adaptive state into a lasting structural change 
 
 ---
 
-## Acute Stress Enhancement Window
+## Acute Stress Enhancement
 Stress does not always weaken the system. When the balance between excitation and redox control is intact, stress raises the brain and body into a state of amplified function.  
 Noradrenaline and cortisol increase together, heightening glutamatergic signaling and receptor sensitivity. This forms the biological foundation of peak focus, emotional intensity, and creative drive.  
 
