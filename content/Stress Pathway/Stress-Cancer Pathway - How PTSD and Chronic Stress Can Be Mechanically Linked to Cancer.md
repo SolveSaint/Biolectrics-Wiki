@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 11:33 PM
+updated: 10/30/2025 11:35 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -95,17 +95,17 @@ Oxidative stress mediated DNA damage can trigger selective degradation of nuclea
 ---
 
 ### Clinical Implications
-- **Epidemiology:** PTSD does not increase all cancer incidence equally, but subtypes such as breast and ovarian cancer show elevated risk. Chronic stress consistently worsens progression and survival outcomes.  
-- **Therapeutics:** β blockers, glutamate receptor antagonists, antioxidants, and ferroptosis inducers that modulate SLC7A11 or autophagic flux are rational adjuncts. Controlling stress signaling may enhance cancer treatment efficacy.  
-- **VA Context:** Veterans with PTSD can establish a physiological link between trauma and malignancy through documented cortisol and catecholamine dysregulation that leads to mitochondrial ROS, DNA damage, and stress-adaptive autophagy.
+- **Epidemiology:** PTSD does not increase all cancer incidence equally, but subtypes such as breast and ovarian cancer show elevated risk. Chronic stress and sustained catecholamine exposure consistently worsen progression, angiogenesis, and survival outcomes.  
+- **Therapeutics:** β blockers, glutamate receptor antagonists, antioxidants, and ferroptosis inducers that regulate SLC7A11 activity or autophagic flux are rational adjuncts. Reducing β-adrenergic tone and restoring glucocorticoid receptor feedback may prevent conversion of stress signaling into oncogenic redox adaptation.  
+- **VA Context:** Veterans with PTSD can establish a physiological link between trauma and malignancy through documented NR3C1 hypermethylation, glucocorticoid receptor downregulation, and catecholamine excess that together drive mitochondrial ROS, DNA damage, and adaptive autophagy.
 
 ---
 
 ### Summary
 The PTSD to cancer continuum follows a unified excitatory and oxidative cascade.  
-Stress → cortisol elevation and β adrenergic signaling → NR3C1 downregulation and GR loss → CREB to Nur77 driven receptor upregulation → calcium overload → mitochondrial ROS → DNA damage and nuclear autophagy → **glycolytic survival switch with c-Myc and HIF-1α** → **glutaminolysis and SLC7A11 activation** → GSH maintenance and extracellular glutamate accumulation → sustained calcium entry, microenvironment remodeling, and tumor promotion.  
+Stress → chronic cortisol elevation and β-adrenergic signaling → NR3C1 hypermethylation and GR loss → CREB–Nur77 driven receptor upregulation → calcium loading and mitochondrial ROS → DNA damage and nuclear autophagy → **glycolytic survival switch with c-Myc and HIF-1α** → **glutaminolysis and SLC7A11 activation** → GSH preservation and extracellular glutamate accumulation → sustained calcium signaling, microenvironment remodeling, and tumor promotion.  
 
-This provides molecular causality linking psychological trauma to cancer biology, showing how sustained stress transforms redox pressure into tumor survival signaling through glutamate metabolism, GR loss, and autophagy.
+This framework establishes molecular causality linking psychological trauma to cancer biology, demonstrating how chronic stress converts endocrine and excitatory signaling into a self-sustaining redox survival program through glutamate metabolism, GR loss, and autophagy.
 
 ---
 
