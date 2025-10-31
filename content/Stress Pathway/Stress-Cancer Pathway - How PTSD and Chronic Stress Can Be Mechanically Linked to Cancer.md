@@ -1,7 +1,7 @@
 ---
 created: 10/30/2025 10:12 AM
 updated: 10/30/2025 9:34 PM
-site:
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
   - Biolectrics
