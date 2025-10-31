@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 12:21 AM
+updated: 10/31/2025 12:25 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
