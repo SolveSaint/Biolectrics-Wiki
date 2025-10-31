@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 9:09 AM
+updated: 10/31/2025 9:11 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -55,7 +55,7 @@ When antioxidant systems such as glutathione, GPX4, and mitochondrial repair rem
 
 If antioxidant capacity declines, the same circuit becomes unstable. Excess calcium and ROS oxidize membranes, depolarize mitochondria, and disrupt signaling coherence. The longer the system remains in the Nur77-driven mode without redox recovery, the higher the risk of excitotoxic collapse and structural degeneration.  
 
-The **enhancement window** marks the balance point between supernormal performance and decay. It is not determined by time or hormone level, but by the strength of antioxidant defense relative to excitatory demand.
+The **enhancement window** marks the balance point between supernormal performance and decay. It is not determined by hormone level, but by the strength of antioxidant defense relative to excitatory demand.
 
 ---
 
