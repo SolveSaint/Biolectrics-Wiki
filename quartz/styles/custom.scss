@@ -81,4 +81,9 @@
   color: #e6f0ff; /* slightly brighter text for readability */
   transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
+/* subtle blue border flash on folder hover */
+.explorer-content .folder-container:hover {
+  border-left: 2px solid rgba(96, 163, 255, 0.4);
+  background-color: rgba(96, 163, 255, 0.05);
+}
 
