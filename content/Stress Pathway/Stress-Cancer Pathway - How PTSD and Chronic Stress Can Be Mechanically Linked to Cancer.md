@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 10:08 PM
+updated: 10/30/2025 10:14 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -28,6 +28,16 @@ tags:
   - NADPH
   - Lactate
   - Mitochondria
+  - GPX4
+  - Apoptosis
+  - Ferroptosis
+  - Glutaminolysis
+  - Calcium
+  - TRPV6
+  - NMDA
+  - Microenvironment
+  - Angiogenesis
+  - Redox
 ---
 
 ### Overview
@@ -60,9 +70,11 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    The switch protects against immediate ROS death, but if stress persists or checkpoints fail, this adaptive state becomes fixed and sets the stage for malignant persistence.
 
 6. **Glutamate Transport and Redox Controlled Cell Death**  
-   Tumor cells enhance cystine uptake through the **SLC7A11 (xCT)** antiporter, which exchanges intracellular glutamate for extracellular cystine. Imported cystine is reduced to cysteine and used to synthesize **glutathione (GSH)**, the main intracellular antioxidant. This process supports **GPX4** activity that removes lipid peroxides and prevents **ferroptosis**.  
-   Koppula et al. showed that SLC7A11 sits at the metabolic intersection of redox control, amino acid supply, and cell survival. Upregulation of this transporter maintains high glutathione levels, buffers ROS, and increases extracellular glutamate, which shapes signaling within the tumor microenvironment [(Koppula et al., 2018)](https://doi.org/10.1186/s40880-018-0288-x).  
-   The result is dual protection against oxidative and excitatory stress. Elevated glutamate supports survival signaling and calcium entry through NMDA and TRP channels, linking redox control to excitatory persistence [(Martínez-Reyes and Chandel, 2021)](https://doi.org/10.1038/s41568-021-00378-6).
+   Tumor cells enhance cystine uptake through the **SLC7A11 (xCT)** antiporter, which exchanges intracellular glutamate for extracellular cystine. Imported cystine is reduced to cysteine and used to synthesize **glutathione (GSH)**, the main intracellular antioxidant. Elevated GSH preserves mitochondrial integrity by limiting lipid and protein oxidation, sustaining **GPX4** activity, and preventing both **ferroptosis** and **apoptosis**.  
+
+   Koppula et al. showed that SLC7A11 sits at the intersection of redox control, amino acid metabolism, and nutrient dependency [(Koppula et al., 2018)](https://doi.org/10.1186/s40880-018-0288-x). Upregulation of this transporter maintains high glutathione levels, buffers reactive oxygen species, and raises the threshold for mitochondrial-driven cell death. At the same time, the antiporter exports glutamate, increasing extracellular glutamate concentrations that amplify calcium-linked signaling in the surrounding microenvironment.  
+
+   This creates a feedback loop of dual protection and signaling. Cells resist oxidative and excitatory injury, while persistent GSH cycling and glutamate export reinforce survival pathways. The result is long-term resistance to both apoptosis and ferroptosis, establishing a stable redox-excitation state that mirrors chronic stress adaptation [(Martínez-Reyes and Chandel, 2021)](https://doi.org/10.1038/s41568-021-00378-6).
 
 7. **Tumor Microenvironment Remodeling**  
    Catecholamine activation of β2 receptors in tumor or stromal cells induces angiogenic and inflammatory mediators such as VEGF, IL 6, and IL 8. In vivo, chronic stress accelerates metastasis, while β blockers such as propranolol inhibit these effects [(Thaker et al., 2006)](https://doi.org/10.1038/nm1447).  
