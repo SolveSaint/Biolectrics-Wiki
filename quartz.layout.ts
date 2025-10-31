@@ -1,40 +1,24 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-/** Helper: normalize slugs and exclude special pages */
-const isNormalPage = (slugLike: unknown) => {
-  const s =
-    typeof slugLike === "string"
-      ? slugLike
-      : Array.isArray(slugLike)
-        ? slugLike.join("/")
-        : ""
-  // drop leading slashes and trailing /index
-  const norm = s.replace(/^\/+/, "").replace(/\/index$/, "")
-  return (
-    norm !== "recent-notes" &&         // exclude the Recent Notes page itself
-    !norm.startsWith("tags/") &&
-    !norm.startsWith("folders/")
-  )
-}
-
-// ---------------------------------------------------------------------------
-// components shared across all pages
-// ---------------------------------------------------------------------------
+// Shared
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      "Biolectrics Discord": "https://discord.gg/AZHPuPykMn",
-    },
+    links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
 }
 
-// ---------------------------------------------------------------------------
-// components for pages that display a single page (e.g. a single note)
-// ---------------------------------------------------------------------------
+// Helpers
+const notSpecial = (slug: string) =>
+  slug !== "recent-notes" && !slug.startsWith("tags/") && !slug.startsWith("folders/")
+
+const hasTitle = (f: any) => Boolean(f.frontmatter?.title)
+const slugOf = (f: any) => Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
+
+// Single-note pages
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -58,37 +42,30 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // Recent Notes widget first, but hide it on /recent-notes
+    // Recent notes first
     Component.ConditionalRender({
       component: Component.RecentNotes({
         showTags: false,
-        limit: 2,
+        limit: 3,
         linkToMore: "recent-notes",
-        filter: (f) => isNormalPage(f.slug) && Boolean(f.frontmatter?.title),
+        filter: (f) => {
+          const slug = slugOf(f)
+          return notSpecial(slug) && hasTitle(f)
+        },
       }),
       condition: (page) => {
-        const s =
-          typeof page.fileData.slug === "string"
-            ? page.fileData.slug
-            : Array.isArray(page.fileData.slug)
-              ? page.fileData.slug.join("/")
-              : ""
-        const norm = s.replace(/^\/+/, "").replace(/\/index$/, "")
-        return norm !== "recent-notes"
+        const slug = Array.isArray(page.fileData.slug) ? page.fileData.slug.join("/") : (page.fileData.slug ?? "")
+        return slug !== "recent-notes"
       },
     }),
 
-    // Then TOC and Backlinks
+    // Then ToC and Backlinks below it
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-
-    // Component.Graph(), // optional
   ],
 }
 
-// ---------------------------------------------------------------------------
-// components for pages that display lists of pages (e.g. tags or folders)
-// ---------------------------------------------------------------------------
+// List pages (tags, folders, etc.)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
@@ -102,48 +79,21 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [
-    Component.ConditionalRender({
-      component: Component.RecentNotes({
-        showTags: false,
-        limit: 2,
-        linkToMore: "recent-notes",
-        filter: (f) => isNormalPage(f.slug) && Boolean(f.frontmatter?.title),
-      }),
-      condition: (page) => {
-        const s =
-          typeof page.fileData.slug === "string"
-            ? page.fileData.slug
-            : Array.isArray(page.fileData.slug)
-              ? page.fileData.slug.join("/")
-              : ""
-        const norm = s.replace(/^\/+/, "").replace(/\/index$/, "")
-        return norm !== "recent-notes"
-      },
-    }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [],
 }
 
-// ---------------------------------------------------------------------------
-// Dedicated layout for /recent-notes page
-//   - Body shows the full Recent Notes list
-//   - Sidebar is empty on this page
-//   - The page excludes itself from the list
-// ---------------------------------------------------------------------------
+// The /recent-notes page body
 export const recentNotesPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-  ],
+  beforeBody: [Component.ArticleTitle(), Component.ContentMeta(), Component.TagList()],
   pageBody: Component.RecentNotes({
     title: "All Recent Notes",
     limit: 100,
     showTags: true,
-    sort: Component.byDateAndAlphabetical, // newest, then A→Z
-    filter: (f) => isNormalPage(f.slug) && Boolean(f.frontmatter?.title),
+    sort: Component.byDateAndAlphabetical,
+    filter: (f) => {
+      const slug = slugOf(f)
+      return notSpecial(slug) && hasTitle(f)
+    },
   }),
   left: [
     Component.PageTitle(),
@@ -157,10 +107,10 @@ export const recentNotesPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [], // keep empty to avoid duplication on this page
+  right: [], // keep empty so the list is only in body
 }
 
-// Map the specific slug to the dedicated layout
-export const pageLayout: Record<string, PageLayout> = {
+// Map slug to layout
+export const pageLayout = {
   "recent-notes": recentNotesPageLayout,
 }
