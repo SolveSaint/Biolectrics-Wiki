@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 12:34 AM
+updated: 10/31/2025 12:36 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -44,7 +44,7 @@ In **somatic and tumor cells**, greater metabolic plasticity allows a transition
 
 ---
 
-## Systems Integration and Therapeutic Entry Points
+## Systems Integration and [Therapeutic Entry Points](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation)
 Biolectrics connects the brain and body through their shared dependence on electrical energy and redox balance.  
 Stress acts as both a signal and a metabolic burden. By tracing how glutamate, calcium, and ROS interact, the model reveals the common structure behind learning, emotion, resilience, and disease.
 

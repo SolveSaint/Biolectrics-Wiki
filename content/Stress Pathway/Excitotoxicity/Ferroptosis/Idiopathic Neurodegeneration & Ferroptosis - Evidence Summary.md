@@ -1,6 +1,7 @@
 ---
 created: 10/19/2025 5:40 PM
-updated: 10/28/2025 11:48 PM
+updated: 10/31/2025 12:43 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Idiopathic-Neurodegeneration--and--Ferroptosis---Evidence-Summary
 title: Idiopathic Neurodegeneration and Ferroptosis - Evidence Summary
 tags:
   - Neurodegeneration

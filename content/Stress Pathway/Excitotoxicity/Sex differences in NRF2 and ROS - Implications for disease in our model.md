@@ -1,6 +1,7 @@
 ---
 created: 10/28/2025 6:31 PM
-updated: 10/28/2025 6:55 PM
+updated: 10/31/2025 12:41 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Sex-differences-in-NRF2-and-ROS---Implications-for-disease-in-our-model
 title: Sex differences in NRF2 and ROS - Implications for disease in our model
 tags:
   - Biolectrics

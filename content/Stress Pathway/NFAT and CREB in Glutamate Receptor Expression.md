@@ -1,7 +1,8 @@
 ---
-title: NFAT and CREB in Glutamate Receptor Expression
 created: 10/20/2025 7:46 PM
-updated: 10/27/2025 3:41 PM
+updated: 10/31/2025 12:45 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/NFAT-and-CREB-in-Glutamate-Receptor-Expression
+title: NFAT and CREB in Glutamate Receptor Expression
 tags:
   - Biolectrics
   - NFAT

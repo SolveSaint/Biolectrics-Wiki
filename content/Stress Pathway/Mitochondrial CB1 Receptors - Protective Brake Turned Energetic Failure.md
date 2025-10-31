@@ -1,7 +1,8 @@
 ---
-title: Mitochondrial CB1 Receptors - Protective Brake Turned Energetic Failure
 created: 10/25/2025 5:22 PM
-updated: 10/27/2025 4:23 PM
+updated: 10/31/2025 12:45 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Mitochondrial-CB1-Receptors---Protective-Brake-Turned-Energetic-Failure
+title: Mitochondrial CB1 Receptors - Protective Brake Turned Energetic Failure
 tags:
   - Mitochondria
   - CB1

@@ -1,6 +1,7 @@
 ---
 created: 10/20/2025 9:48 PM
-updated: 10/28/2025 11:50 PM
+updated: 10/31/2025 12:44 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---ROS-Convergence-in-Cardiovascular-Disease
 title: Ferroptosis - ROS Convergence in Cardiovascular Disease
 tags:
   - Biolectrics

@@ -1,7 +1,8 @@
 ---
-title: Obesity - GRIN GRIA Upregulation, Energy Demand, and Obesity Risk
 created: 10/20/2025 10:43 PM
-updated: 10/27/2025 2:29 PM
+updated: 10/31/2025 12:45 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Obesity---GRIN-GRIA-Upregulation,-Energy-Demand,-and-Obesity-Risk
+title: Obesity - GRIN GRIA Upregulation, Energy Demand, and Obesity Risk
 tags:
   - Cortisol
   - GRIN

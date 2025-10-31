@@ -1,6 +1,7 @@
 ---
 created: 2025-10-25
-updated: 10/29/2025 4:19 PM
+updated: 10/31/2025 12:40 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutics---CGRP-Receptor-Inhibition-Restores-Lipid-Metabolism-Through-HDAC11-LXR%CE%B2-ABCA1-Axis
 title: Therapeutics - CGRP Receptor Inhibition Restores Lipid Metabolism Through HDAC11-LXRβ–ABCA1 Axis
 tags:
   - Alzheimer

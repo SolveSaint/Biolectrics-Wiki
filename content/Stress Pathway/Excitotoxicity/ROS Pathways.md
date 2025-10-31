@@ -1,7 +1,8 @@
 ---
-title: ROS Pathways
 created: 10/19/2025 5:10 PM
-updated: 10/27/2025 2:30 PM
+updated: 10/31/2025 12:41 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Pathways
+title: ROS Pathways
 tags:
   - Bioelectrics
   - Stress

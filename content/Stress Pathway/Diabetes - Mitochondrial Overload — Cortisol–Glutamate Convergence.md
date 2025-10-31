@@ -1,7 +1,8 @@
 ---
-title: Diabetes - Mitochondrial Overload — Cortisol–Glutamate Convergence
 created: 2025-10-25
-updated: 10/27/2025 4:21 PM
+updated: 10/31/2025 12:46 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Diabetes---Mitochondrial-Overload-%E2%80%94-Cortisol%E2%80%93Glutamate-Convergence
+title: Diabetes - Mitochondrial Overload — Cortisol–Glutamate Convergence
 tags:
   - Mitochondria
   - ROS

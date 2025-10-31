@@ -1,7 +1,8 @@
 ---
-title: Dopamine, Motivation, and the Transition from Reward to Anhedonia
 created: 10/27/2025 12:25 PM
-updated: 10/27/2025 5:51 PM
+updated: 10/31/2025 12:39 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Dopamine,-Motivation,-and-the-Transition-from-Reward-to-Anhedonia
+title: Dopamine, Motivation, and the Transition from Reward to Anhedonia
 tags:
   - Biolectrics
   - Dopamine

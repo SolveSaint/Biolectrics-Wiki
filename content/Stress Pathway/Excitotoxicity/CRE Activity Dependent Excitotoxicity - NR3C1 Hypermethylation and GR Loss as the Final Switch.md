@@ -1,6 +1,7 @@
 ---
 created: 10/29/2025 4:22 PM
-updated: 10/29/2025 5:10 PM
+updated: 10/31/2025 12:43 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/CRE-Activity-Dependent-Excitotoxicity---NR3C1-Hypermethylation-and-GR-Loss-as-the-Final-Switch
 title: CRE Activity Dependent Excitotoxicity - NR3C1 Hypermethylation and GR Loss as the Final Switch
 tags:
   - Biolectrics
