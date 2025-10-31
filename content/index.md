@@ -1,10 +1,13 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 12:36 AM
+updated: 10/31/2025 1:07 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
 title: Biolectrics
+tags:
+  - Biolectrics
+  - Quartz
 ---
 
 > **How to use this site**  
@@ -44,6 +47,17 @@ In **somatic and tumor cells**, greater metabolic plasticity allows a transition
 
 ---
 
+## ROS and Ferroptotic Progression
+Persistent mitochondrial ROS production marks the boundary between adaptation and degeneration. As calcium driven respiration pushes the electron transport chain beyond equilibrium, superoxide and hydrogen peroxide leak from mitochondria. In the presence of free iron, these molecules react through **Fenton chemistry**, producing hydroxyl radicals that initiate lipid peroxidation and collapse of membrane integrity.  
+
+This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [Ferroptosis – Stress to Iron Dysregulation](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---Stress-to-Iron-dysregulation).  
+
+Once initiated, lipid peroxidation couples ROS and iron in a positive feedback loop that damages cardiomyocytes and neurons alike. The same mechanism underlies ischemic heart injury and neurodegenerative collapse, showing that excitotoxicity and ferroptosis share a single oxidative pathway. This relationship is detailed further in [Ferroptosis – ROS Convergence in Cardiovascular Disease](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---ROS-Convergence-in-Cardiovascular-Disease) and summarized across neurodegenerative disorders in [Idiopathic Neurodegeneration and Ferroptosis – Evidence Summary](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Idiopathic-Neurodegeneration--and--Ferroptosis---Evidence-Summary).  
+
+When antioxidant defenses such as **GPX4** and **glutathione** collapse, oxidative signaling turns into chemistry: hydrogen peroxide meets iron, producing hydroxyl radicals that drive chain lipid oxidation and ferroptotic death. This phase defines the terminal endpoint of the stress–glutamate–ROS cascade.
+
+---
+
 ## Systems Integration and [Therapeutic Entry Points](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation)
 Biolectrics connects the brain and body through their shared dependence on electrical energy and redox balance.  
 Stress acts as both a signal and a metabolic burden. By tracing how glutamate, calcium, and ROS interact, the model reveals the common structure behind learning, emotion, resilience, and disease.
@@ -52,12 +66,7 @@ Interventions that rebalance this circuit include
 - restoring glucocorticoid receptor feedback  
 - reducing β adrenergic tone  
 - modulating glutamate receptor activity  
-- enhancing mitochondrial antioxidant capacity  
+- enhancing mitochondrial antioxidant capacity 
 
-These interventions are detailed in [**Therapeutic Pathways and Mechanistic Targets**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation).
 
----
 
-Further specialization of this framework can be found in  
-- [**Stress–Cancer Pathway. How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer)  
-- [**Therapeutic Pathways and Mechanistic Targets**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation)
