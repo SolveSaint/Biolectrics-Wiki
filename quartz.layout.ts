@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    // Recent notes first
+    // Recent notes first!
     Component.ConditionalRender({
       component: Component.RecentNotes({
         showTags: false,
