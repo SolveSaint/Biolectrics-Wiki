@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 9:34 PM
+updated: 10/30/2025 9:38 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -58,9 +58,9 @@ Recent studies strengthen this connection. Oxidative stress mediated DNA damage 
    Antoni et al. showed that β adrenergic signaling increases vascular and inflammatory mediators that support tumor invasion and angiogenesis [(Antoni et al., 2006)](https://doi.org/10.1038/nrc1820).  
 
    **Metabolic Reprogramming and Redox Survival**  
-   Chronic stress hormones do not just remodel vasculature—they also drive metabolic reprogramming that mirrors neuronal excitotoxic adaptation.  
+   Chronic stress hormones do not just remodel vasculature, they also drive metabolic reprogramming that mirrors neuronal excitotoxic adaptation.  
    Bolaños and Magistretti demonstrated that neurons suppress glycolysis by degrading PFKFB3, diverting glucose into the pentose phosphate pathway (PPP) to generate NADPH for antioxidant defense [(Bolaños & Magistretti, 2025)](https://doi.org/10.1038/s42255-025-01404-9). When stress or excitatory signaling forces neurons to stabilize PFKFB3, this balance collapses, ROS accumulate, and mitochondria fail.  
-   Moreno-Sánchez et al. revealed that cancer cells adopt a similar metabolic configuration: although oxidative phosphorylation remains active, glycolysis becomes chronically upregulated, not as an energy defect but as a redox survival mechanism [(Moreno-Sánchez et al., 2009)](https://doi.org/10.1002/biof.31). Tumor cells upregulate HKII, PFK-1, and LDH-A through HIF-1α and c-Myc, maintaining high glycolytic throughput to buffer oxidative load and sustain biosynthesis.  
+   Moreno-Sánchez et al. revealed that cancer cells adopt a similar metabolic configuration. Although oxidative phosphorylation remains active, glycolysis becomes chronically upregulated, not as an energy defect but as a redox survival mechanism [(Moreno-Sánchez et al., 2009)](https://doi.org/10.1002/biof.31). Tumor cells upregulate HKII, PFK-1, and LDH-A through HIF-1α and c-Myc, maintaining high glycolytic throughput to buffer oxidative load and sustain biosynthesis.  
    In effect, tumor metabolism represents a maladaptive form of the same survival strategy used by stressed neurons. Initially protective against ROS, persistent glycolysis locks cells into a hypermetabolic state that supports angiogenesis, invasion, and genomic instability. Chronic stress signaling therefore couples endocrine activation to mitochondrial overdrive, converting redox adaptation into a self-sustaining tumor phenotype.
 
 6. **Glutamate Transport and Redox-Controlled Cell Death**  
