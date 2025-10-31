@@ -84,20 +84,24 @@ export const defaultListPageLayout: PageLayout = {
 export const recentNotesPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-Component.RecentNotes({
-  title: "All Recent Notes",
-  limit: 100,
-  showTags: true,
-  sort: Component.byDateAndAlphabetical, // be explicit: newest first
-  filter: (f) => {
-    const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
-    return (
-      !slug.startsWith("tags/") &&
-      !slug.startsWith("folders/") &&
-      Boolean(f.frontmatter?.title)
-    )
-  },
-}),
+    Component.ContentMeta(),        // optional
+    Component.TagList(),            // optional
+  ],
+  pageBody: Component.RecentNotes({
+    title: "All Recent Notes",
+    limit: 100,
+    showTags: true,
+    // Quartz already defaults to date then lexicographic; keep or remove this:
+    sort: Component.byDateAndAlphabetical,
+    filter: (f) => {
+      const slug = Array.isArray(f.slug) ? f.slug.join("/") : (f.slug ?? "")
+      return (
+        !slug.startsWith("tags/") &&
+        !slug.startsWith("folders/") &&
+        Boolean(f.frontmatter?.title)
+      )
+    },
+  }),
 
   ],
   left: [
