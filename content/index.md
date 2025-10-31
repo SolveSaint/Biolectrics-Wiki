@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 9:01 AM
+updated: 10/31/2025 9:09 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -40,18 +40,22 @@ This chain converts a transient adaptive state into a lasting structural change 
 ---
 
 ## Stress Enhancement
-When the balance between excitation and redox control is intact, stress raises the brain and body into a state of amplified function.  
-Noradrenaline and cortisol increase together, heightening glutamatergic signaling and receptor sensitivity. This forms the biological foundation of peak focus, emotional intensity, and creative drive.  
+When excitation and redox control remain in balance, stress elevates the brain and body into a state of amplified function.  
+Noradrenaline and cortisol rise together, heightening glutamatergic signaling and receptor sensitivity. This combination forms the biological basis of peak focus, emotion, creativity, and physical strength.  
 
-Noradrenaline first opens calcium channels through β receptor activation, while cortisol binds glucocorticoid receptors and increases recycling of NMDA and AMPA receptors to the membrane. As this pattern continues, the stress pathway enters **Nur77 dominance**, where GR feedback fades and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this mode of control, allowing stimulation itself to maintain enhancement without new stress hormones.  
+Noradrenaline opens calcium channels through β receptor activation, while cortisol binds glucocorticoid receptors and increases recycling of glutamate receptors (NMDA, AMPA) to the membrane. With repeated activation, the stress pathway enters **Nur77 dominance**, where glucocorticoid receptor feedback weakens and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this autonomous control, allowing neural activity itself to maintain enhancement without continuous hormonal drive.  
 
-At this stage, every burst of activity reinforces throughput. Calcium influx, mitochondrial output, and ROS generation all rise together, synchronizing across the brain, muscles, and sensory systems. Cortical and motor neurons fire with greater amplitude, muscle contraction strength increases, sensory acuity sharpens, and emotional tone intensifies. The body operates as a single resonant circuit where excitatory signaling, metabolic output, and redox activity scale upward in unison.  
+At this stage, each burst of activity reinforces throughput, but the effects are uneven across tissues.  
+Cells under heavier use experience greater calcium entry, mitochondrial load, and ROS generation, producing a gradient of enhancement and vulnerability.  
+Regions with strong antioxidant reserves sustain amplified cognition, muscular force, and sensory precision. Areas with weaker antioxidant capacity or excessive activation begin to accumulate oxidative damage first.  
 
-When antioxidant systems such as glutathione, GPX4, and mitochondrial repair remain strong, this state produces sustained creativity, emotional power, endurance, and refined coordination. The system uses stress energy efficiently and recycles ROS into constructive signaling.
+The system therefore behaves as a dynamically synchronized circuit where excitatory signaling, metabolic output, and redox pressure scale upward together, but local stability depends on antioxidant strength and usage load. Cortical and motor circuits with balanced redox tone achieve heightened performance, while overused or poorly buffered regions approach excitotoxic thresholds.
 
-If antioxidant capacity falls, the same circuit becomes unstable. Excess calcium and ROS begin to damage membranes, mitochondria depolarize, and excitatory signaling turns destructive. The longer the network stays in the Nur77 mode without redox recovery, the greater the risk of excitotoxicity and structural loss.  
+When antioxidant systems such as glutathione, GPX4, and mitochondrial repair remain robust, this enhanced state produces sustained creativity, emotional depth, endurance, and refined coordination. The organism channels stress energy efficiently, recycling ROS as a constructive signal that supports learning and adaptation.  
 
-The enhancement window therefore represents the dividing line between supernormal function and degeneration. It is not defined by time or hormone level, but by the strength of antioxidant defense relative to excitatory drive.
+If antioxidant capacity declines, the same circuit becomes unstable. Excess calcium and ROS oxidize membranes, depolarize mitochondria, and disrupt signaling coherence. The longer the system remains in the Nur77-driven mode without redox recovery, the higher the risk of excitotoxic collapse and structural degeneration.  
+
+The **enhancement window** marks the balance point between supernormal performance and decay. It is not determined by time or hormone level, but by the strength of antioxidant defense relative to excitatory demand.
 
 ---
 
