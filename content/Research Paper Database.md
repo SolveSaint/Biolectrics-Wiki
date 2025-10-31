@@ -1,6 +1,6 @@
 ---
 created: 10/27/2025 12:19 AM
-updated: 10/31/2025 12:47 AM
+updated: 10/31/2025 12:52 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Research-Paper-Database
 title: Research Paper Database
 tags:
@@ -65,7 +65,7 @@ tags:
 | [Brainstem cholinergic modulation of muscle tone in infant rats](https://doi.org/10.1111/j.1460-9568.2007.05566.x) | Gall et al. | 2007 |
 | [Calcium dynamics unplugged: NCLX in disease and therapeutic frontiers](https://doi.org/10.1007/s11033-025-11188-6) | Majumder | 2025 |
 | [Calycosin attenuates mitochondrial damage and pyroptosis in heart failure via the Nrf2/ROS/TXNIP pathway](https://doi.org/10.3892/ijmm.2025.5653) | Yuan et al. | 2025 |
-| [Canonical Representational Mapping for Cognitive Neuroscience](https://doi.org/10.1101/2025.09.01.673485) | Schottdorf & Michelmann |  |
+| [Canonical Representational Mapping for Cognitive Neuroscience](https://doi.org/10.1101/2025.09.01.673485) | Schottdorf & Michelmann | 2025 |
 | [Cardiac vagal afferent neurotransmission in health and disease: review and knowledge gaps](https://doi.org/10.3389/fnins.2023.1192188) | Van Weperen & Vaseghi | 2023 |
 | [Catalase: The golden key to regulate oxidative stress in breast cancer](https://doi.org/10.5306/wjco.v16.i10.110126) | Liu et al. | 2025 |
 | [Cell type-specific alterations in excitability and inhibition of upper motor neurons in AlsinKO mice, a model of juvenile onset ALS](https://doi.org/10.1523/JNEUROSCI.2409-24.2025) | Dey et al. | 2025 |
@@ -171,7 +171,7 @@ tags:
 | [An Expert-guided Hierarchical Graph Attention Network for Post-traumatic Stress Disorder Highly-associative Genetic Biomarkers Identification](https://doi.org/10.1101/2023.01.30.23285175) | Zhang et al. | 2023 |
 | [Exploration of Key Genes and Molecular Mechanisms in Mice with Perioperative Neurocognitive Disorders Treated with Remimazolam Based on Transcriptomics and Experimental Verification](https://doi.org/10.2147/DDDT.S541958) | Yu et al. | 2025 |
 | [Exploring the regulatory roles of AtGLR3.4 receptors in mitochondrial stress and ROS management in Arabidopsis](https://doi.org/10.1007/s00299-025-03558-y) | Gokce & Sekmen | 2025 |
-| [Exposure-based treatment for co-occurring posttraumatic stress disorder and obsessive compulsive disorder in veterans: The feasibility of massed models](https://doi.org/10.1002/jts.70019) | Haft et al. |  |
+| [Exposure-based treatment for co-occurring posttraumatic stress disorder and obsessive compulsive disorder in veterans: The feasibility of massed models](https://doi.org/10.1002/jts.70019) | Haft et al. | 2025 |
 | [Extensive longevity and DNA virus-driven adaptation in nearctic Myotis bats](https://doi.org/10.1101/2024.10.10.617725) | Vazquez et al. | 2024 |
 | [Failure of DNA double-strand break repair by tau mediates Alzheimer’s disease pathology in vitro](https://doi.org/10.1038/s42003-022-03312-0) | Asada-Utsugi et al. | 2022 |
 | [Fear of supernatural punishment can harmonize human societies with nature: an evolutionary game-theoretic approach](https://doi.org/10.1057/s41599-025-05734-7) | Shibasaki et al. | 2025 |
