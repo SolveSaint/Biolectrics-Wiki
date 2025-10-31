@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 1:47 AM
+updated: 10/31/2025 9:01 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -28,7 +28,7 @@ These methylation patterns are transmissible between generations, calibrating th
 ## Cellular Excitation and Redox Coupling
 Chronic stress transforms the glutamate–calcium–ROS axis from an adaptive communication system into a self reinforcing feedback loop.  
 
-1. **Excitation**. Stress and cortisol heighten glutamate signaling through NMDA, AMPA, and TRPV6 receptors.  
+1. **Excitation**. Stress and cortisol heighten glutamatergic signaling through glutamate receptors (NMDA, AMPA, TRPV6).  
 2. **Calcium entry**. The resulting depolarization increases calcium inflow and mitochondrial uptake.  
 3. **ROS generation**. Calcium pressure drives oxidative phosphorylation beyond its safe limit, producing ROS.  
 4. **Damage and remodeling**. ROS oxidize membranes and DNA, activating autophagy, HIF-1α, and c-Myc, leading to metabolic rewiring.  
