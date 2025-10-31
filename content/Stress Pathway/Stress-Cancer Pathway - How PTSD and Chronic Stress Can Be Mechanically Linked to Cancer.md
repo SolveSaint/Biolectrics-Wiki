@@ -1,7 +1,8 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 9:30 PM
-title: How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
+updated: 10/30/2025 9:34 PM
+site:
+title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
   - Biolectrics
   - Stress
