@@ -67,3 +67,28 @@
 .explorer-ul.gradient-active::after {
   opacity: 0.15;
 }
+/* Keep folder rows on one line, with proper flex + ellipsis */
+.explorer-content .folder-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.explorer-content .folder-container .folder-icon {
+  flex: 0 0 auto;
+}
+
+.explorer-content .folder-container > div {
+  flex: 1 1 auto;   /* let the title fill the row */
+  min-width: 0;     /* allow text-overflow to work */
+}
+
+.explorer-content .folder-title,
+.explorer-content .folder-button .folder-title {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; /* trims long names */
+  line-height: 1.25;
+}
