@@ -1,7 +1,7 @@
 ---
 created: 2025-10-26 11:45 AM
-updated: 10/30/2025 7:28 PM
-site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation
+updated: 10/31/2025 12:23 AM
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets
 title: Therapeutic Pathways and Mechanistic Targets
 tags:
   - Biolectrics
