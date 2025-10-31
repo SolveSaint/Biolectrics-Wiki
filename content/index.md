@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 12:27 AM
+updated: 10/31/2025 12:29 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -12,18 +12,18 @@ title: Biolectrics
 
 ---
 
-⚡**Biolectrics** is a unified model explaining how **stress driven glutamate signaling** shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of reactive oxygen species (**ROS**). These processes link the **nervous**, **endocrine**, and **immune** systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.  
+**Biolectrics** is a unified model explaining how **stress driven glutamate signaling** shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of reactive oxygen species (**ROS**). These processes link the **nervous**, **endocrine**, and **immune** systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.  
 
 ---
 
-## 🧬 The Stress Methylome and Inherited Regulation
+## The Stress Methylome and Inherited Regulation
 At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as **NR3C1**, **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
 
 These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome acts as a biochemical memory of ancestral adversity, preserving the adaptive gains and energetic costs of previous generations.  
 
 ---
 
-## 🔬 Cellular Excitation and Redox Coupling
+## Cellular Excitation and Redox Coupling
 At the cellular level, chronic stress transforms the **glutamate–calcium–ROS axis** from an adaptive communication system into a self reinforcing feedback loop.  
 
 1. **Excitation** — Stress and cortisol heighten glutamate signaling through **NMDA**, **AMPA**, and **TRPV6** receptors.  
@@ -35,7 +35,7 @@ This sequence converts transient stress into a structural change that alters ene
 
 ---
 
-## 🔥 The Metabolic Shift
+## The Metabolic Shift
 When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
 
 In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements. This overactivation reshapes DNA methylation across stress-related loci such as **NR3C1**, **BDNF**, and other synaptic plasticity genes, forming part of the **stress methylome** that records the history of excitatory exposure.  
@@ -48,7 +48,7 @@ The divergence explains why neurons degenerate while peripheral cells persist. B
 
 ---
 
-## 🧠 Systems Integration
+## Systems Integration
 **Biolectrics** connects the brain and body through their shared dependence on electrical energy and redox balance.  
 Stress is both a signal and a metabolic load.  
 By tracing how glutamate, calcium, and ROS interact, we uncover the common structure behind learning, emotion, resilience, and disease.  
