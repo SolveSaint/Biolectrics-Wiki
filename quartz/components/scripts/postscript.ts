@@ -5,8 +5,9 @@ function applyExplorerZebra(): void {
   const root = document.querySelector(".explorer-content .explorer-ul");
   if (!root) return;
 
-  // All clickable rows, in document order
-  const rows = root.querySelectorAll<HTMLElement>("li > a, li > .folder-container");
+// All clickable FILE rows (exclude folder titles)
+const rows = root.querySelectorAll<HTMLElement>("li > a:not(.folder-title)");
+
 
   let i = 0;
   rows.forEach(el => {
