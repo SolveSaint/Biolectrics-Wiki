@@ -1,6 +1,6 @@
 ---
 created: 10/20/2025 7:42 PM
-updated: 10/30/2025 8:20 PM
+updated: 10/30/2025 8:21 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Baseline-Receptor-Expression---GRIN-and-GRIA-Genes-%E2%80%94-Developmental-Baseline-of-NMDA-and-AMPA-Receptor-Expression
 title: Baseline Receptor Expression - GRIN and GRIA Genes - Developmental Baseline of NMDA and AMPA Receptor Expression
 tags:
