@@ -1,4 +1,5 @@
 // ===== Explorer zebra-striping across full hierarchy =====
+console.log("✅ Biolectrics Explorer zebra script loaded");
 
 function applyExplorerZebra(): void {
   const root = document.querySelector(".explorer-content .explorer-ul");
