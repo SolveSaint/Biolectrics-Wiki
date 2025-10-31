@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 1:32 AM
+updated: 10/31/2025 1:35 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -54,7 +54,7 @@ The enhancement window therefore represents the dividing line between supernorma
 ---
 
 ## The Metabolic Shift
-When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
+The same excitatory synchronization that heightens cognition, strength, and perception during the enhancement phase becomes unstable once oxidative pressure exceeds recovery capacity. The system must then shift its metabolism to survive, determining whether cells adapt, degenerate, or transform. When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
 
 In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements. This overactivation reshapes DNA methylation across stress related loci such as **NR3C1** and **BDNF**, forming part of the stress methylome that records the history of excitatory exposure.  
 These methylation changes open chromatin at excitatory promoters, enabling activity dependent transcription of NMDA and AMPA receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation.
