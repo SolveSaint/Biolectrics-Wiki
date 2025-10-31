@@ -13,8 +13,7 @@
   border-radius: 6px;
   position: relative;
   background: transparent; /* ensure no inherited tint */
-  /* smooth hover like files */
-  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  transition: background-color 0.28s ease, border-color 0.28s ease; /* slower fade */
 }
 
 .explorer-content .explorer-ul > li > .folder-container > div,
@@ -42,10 +41,10 @@
   background: rgba(255, 255, 255, 0.08);
 }
 
-/* Ultra-subtle blue accent on folder hover */
+/* Softer blue accent on folder hover (slow fade-in) */
 .explorer-content .folder-container:hover {
-  border-left: 2px solid rgba(96, 163, 255, 0.15);
-  background-color: rgba(96, 163, 255, 0.03);
+  background-color: rgba(96, 163, 255, 0.08);  /* subtle blue */
+  border-left: 2px solid rgba(96, 163, 255, 0.18);
 }
 
 /* FILES (pill blocks + zebra) */
@@ -66,7 +65,7 @@
 
 /* Blue-tinted hover for files */
 .explorer-content a:not(.folder-title):hover {
-  background-color: rgba(96, 163, 255, 0.15);
+  background-color: rgba(96, 163, 255, 0.15); /* soft faint blue */
   color: #e6f0ff;
 }
 
@@ -84,3 +83,11 @@
 
 /* Soften end gradient so stripes show through */
 .explorer-ul.gradient-active::after { opacity: 0.15; }
+
+/* Accessibility: respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .explorer-content .folder-container,
+  .explorer-content a:not(.folder-title) {
+    transition: none !important;
+  }
+}
