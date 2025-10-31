@@ -11,7 +11,6 @@ title: Biolectrics
 
 > 🧭 **How to use this site**  
 > Use the **sidebar** on desktop or the **menu icon** on mobile to explore pathways, molecular mechanisms, inheritance patterns, and therapeutic strategies.  
-> Each section expands a different node of the **Biolectrics Network**, showing how stress, signaling, and metabolism converge in health and disease.  
 
 ---
 
