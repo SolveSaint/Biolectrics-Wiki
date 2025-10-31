@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 10:53 PM
+updated: 10/30/2025 11:29 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -76,10 +76,7 @@ Oxidative stress mediated DNA damage can trigger selective degradation of nuclea
 6. **Glutamate Transport and Redox Controlled Cell Death**  
    Tumor cells enhance cystine uptake through the **SLC7A11 (xCT)** antiporter, which exchanges intracellular glutamate for extracellular cystine. Imported cystine is reduced to cysteine and used to synthesize **glutathione (GSH)**, the main intracellular antioxidant. Elevated GSH preserves mitochondrial integrity by limiting lipid and protein oxidation, sustaining **GPX4** activity, and preventing both **ferroptosis** and **apoptosis**.  
 
-   Koppula et al. showed that SLC7A11 sits at the intersection of redox control, amino acid metabolism, and nutrient dependency [(Koppula et al., 2018)](https://doi.org/10.1186/s40880-018-0288-x). Upregulation of this transporter maintains high glutathione levels, buffers reactive oxygen species, and raises the threshold for mitochondrial-driven cell death.  
-
-   **Metabolic and Signaling Glutamate**  
-   The intracellular glutamate described here is distinct from synaptic neurotransmitter pools. It arises primarily from glutamine via glutaminase and functions in metabolism rather than transmission. When intracellular glutamate accumulates, SLC7A11 exports it in exchange for cystine. The exported glutamate becomes a signaling molecule that activates **NMDA** and **TRPV6** channels on tumor and stromal cells, sustaining calcium entry and transcriptional activity. Thus, metabolic glutamate fuels antioxidant defense while exported glutamate reinforces excitatory signaling. Together they create a feedback loop of dual protection and persistent excitation.  
+   Koppula et al. showed that SLC7A11 sits at the intersection of redox control, amino acid metabolism, and nutrient dependency [(Koppula et al., 2018)](https://doi.org/10.1186/s40880-018-0288-x). Upregulation of this transporter maintains high glutathione levels, buffers reactive oxygen species, and raises the threshold for mitochondrial-driven cell death. Together they create a feedback loop of dual protection and persistent excitation.  
 
    Cells resist oxidative and excitatory injury, while continuous GSH cycling and glutamate export reinforce survival pathways. The outcome is long-term resistance to both apoptosis and ferroptosis, establishing a stable redox-excitation state that mirrors chronic stress adaptation [(Martínez-Reyes and Chandel, 2021)](https://doi.org/10.1038/s41568-021-00378-6).
 
