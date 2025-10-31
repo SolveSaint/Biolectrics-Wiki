@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 10/30/2025 11:29 PM
+updated: 10/30/2025 11:30 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
 tags:
@@ -86,7 +86,9 @@ Oxidative stress mediated DNA damage can trigger selective degradation of nuclea
    The glutamate-rich and lactate-rich niche further enhances calcium signaling, motility, and matrix remodeling, linking endocrine stress to metabolic and excitatory persistence within the tumor bed.
 
 8. **Integration With PTSD Biology**  
-   PTSD maintains a dysregulated HPA axis, producing flattened cortisol rhythms and sustained adrenergic tone. These molecular signatures overlap with oncogenic stress profiles, reinforcing calcium loading, glutamate upregulation, ROS accumulation, and adaptive autophagy.
+   PTSD maintains a chronically dysregulated hypothalamic–pituitary–adrenal (HPA) axis, producing flattened cortisol rhythms and sustained adrenergic tone. This endocrine pattern mirrors the signaling environment that drives the stress–cancer cascade. Prolonged cortisol exposure and β-adrenergic activation increase glutamate receptor density, calcium loading, and mitochondrial ROS. Over time, NR3C1 hypermethylation and glucocorticoid receptor loss disable feedback inhibition, locking cells into CREB–Nur77 driven excitatory transcription.  
+   
+   These same molecular pressures underlie the transition to glycolytic metabolism, glutaminolysis, and SLC7A11-dependent redox adaptation observed in tumor cells. Elevated calcium signaling through NMDA and TRPV6 channels persists, linking stress-induced excitatory drive to mitochondrial redox coupling and autophagy. PTSD biology therefore converges mechanistically with oncogenic signaling: chronic stress transforms an adaptive neuroendocrine response into a self-sustaining redox and survival program.
 
 ---
 
