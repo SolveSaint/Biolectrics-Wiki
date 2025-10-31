@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.RecentNotes({
         showTags: false,
-        limit: 3,
+        limit: 2,
         linkToMore: "recent-notes",
         filter: (f) => isNormalPage(f.slug) && Boolean(f.frontmatter?.title),
       }),
@@ -106,7 +106,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.RecentNotes({
         showTags: false,
-        limit: 3,
+        limit: 2,
         linkToMore: "recent-notes",
         filter: (f) => isNormalPage(f.slug) && Boolean(f.frontmatter?.title),
       }),
