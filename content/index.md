@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 10/31/2025 12:25 AM
+updated: 10/31/2025 12:26 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -12,7 +12,7 @@ title: Biolectrics
 
 ---
 
-**Biolectrics** is a unified model explaining how **stress driven glutamate signaling** shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of reactive oxygen species (**ROS**). These processes link the **nervous**, **endocrine**, and **immune** systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.  
+⚡**Biolectrics** is a unified model explaining how **stress driven glutamate signaling** shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of reactive oxygen species (**ROS**). These processes link the **nervous**, **endocrine**, and **immune** systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.  
 
 ---
 
