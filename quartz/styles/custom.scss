@@ -110,3 +110,34 @@
 .explorer-content ul.content > li > a:not(.folder-title)::after {
   left: 14px;  /* past 12px indent + 2px rail */
 }
+
+/* limit long tag lists with a soft fade */
+.tag-list {
+  transition: max-height 0.25s ease;
+  position: relative;
+}
+
+.tag-list:not([style*="max-height: none"])::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 56px;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light));
+}
+
+/* toggle button */
+.expand-tags-btn {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: var(--gray);
+  background: transparent;
+  border: 0;
+  padding: 4px 0;
+}
+
+.expand-tags-btn:hover { color: var(--dark); }
