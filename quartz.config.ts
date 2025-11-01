@@ -11,7 +11,11 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: "plausible" },
+	analytics: {
+		provider: "goatcounter",
+		domain: "https://biolectrics.goatcounter.com",
+	},
+
     locale: "en-US",
 
     baseUrl: "solvesaint.github.io/Biolectrics-Wiki",
