@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
-import goatcounterNav from "./scripts/goatcounter.inline"
+import goatcounterNav from "./goatcounter.inline"
 
 export default (() => {
   const C: QuartzComponent = {
@@ -8,3 +8,4 @@ export default (() => {
   }
   return C
 }) satisfies QuartzComponentConstructor
+
