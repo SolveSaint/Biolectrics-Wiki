@@ -5,11 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.GoatCounterSPA()],
   footer: Component.Footer({
     links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
 }
+
 
 // Helpers
 const notSpecial = (slug: string) =>
