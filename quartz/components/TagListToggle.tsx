@@ -6,11 +6,9 @@ const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
       const tagList = document.querySelector<HTMLElement>(".tag-list")
       if (!tagList) return
 
-      const maxVisible = 20
-      const items = Array.from(tagList.children)
-      if (items.length <= maxVisible) return
+      const maxVisible = 20 // ← change this number to control how many tags show
+      if (tagList.children.length <= maxVisible) return
 
-      // collapsed state
       tagList.style.maxHeight = "150px"
       tagList.style.overflow = "hidden"
       tagList.style.position = "relative"
@@ -28,7 +26,6 @@ const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
     })
   }
 
-  // inline the script
   return <script dangerouslySetInnerHTML={{ __html: `(${fn.toString()})()` }} />
 }
 
