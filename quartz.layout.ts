@@ -1,12 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
-import TagListToggle from "./quartz/components/TagListToggle"
 import * as Component from "./quartz/components"
 
 // Shared
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.GoatCounterSPA(), TagListToggle()],
+  afterBody: [Component.GoatCounterSPA(), Component.TagListToggle()],
   footer: Component.Footer({
     links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
