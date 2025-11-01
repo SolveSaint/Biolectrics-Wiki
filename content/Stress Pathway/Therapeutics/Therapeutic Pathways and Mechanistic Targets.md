@@ -1,6 +1,6 @@
 ---
 created: 2025-10-26 11:45 AM
-updated: 10/31/2025 12:23 AM
+updated: 11/01/2025 7:06 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets
 title: Therapeutic Pathways and Mechanistic Targets
 tags:
@@ -61,6 +61,19 @@ tags:
   - mGluR3
   - GCPII
   - NeuroHIV
+  - Vamorolone
+  - Corticosteroids
+  - GR
+  - MR
+  - NR3C1
+  - NR3C2
+  - Cortisol
+  - EndocrineBalance
+  - Neuroprotection
+  - HSD11B2
+  - Klotho
+  - FetuinA
+  - PTSD
 ---
 
 This note compiles therapeutic mechanisms that mitigate excitotoxicity, oxidative stress, and bioelectric dysregulation. Each section outlines how a specific molecular target restores balance within the stress–glutamate–ROS cascade or supports cellular recovery through antioxidant or autophagic means.
@@ -217,4 +230,19 @@ Macrophage SAA3 triggers adipocyte lipolysis in dWAT. Released MUFAs enter epith
 3) Avoid in active malignancy and advanced atherosclerosis given CD36 and proliferation concerns.  
 4) Start with short courses and monitor for return of hyperexcitability or ROS markers.  
 5) Prefer local use to limit systemic lipid handling risks.
+
+### GR-MR Rebalancing via Vamorolone (Endocrine Excitatory Modulation)
+
+| Title | Authors | Year |
+|---|---|:--:|
+| [Mineralocorticoid receptor antagonism of vamorolone: Evidence from LIONHEART and VISION-DMD clinical studies](https://doi.org/10.1016/j.steroids.2025.109689) | de Vera et al. | 2025 |
+
+#### Vamorolone (partial GR agonist, MR antagonist)
+Vamorolone activates glucocorticoid receptors while antagonizing mineralocorticoid receptors. In the stress glutamate ROS axis this decouples endocrine control from excitatory overload. MR antagonism reduces sodium retention, membrane depolarization, and downstream calcium influx that drive mitochondrial ROS. GR transcriptional control is retained for anti inflammatory effect without the MR mediated excitotoxic arm.
+
+- **Core Mechanism:** Partial GR activation with MR antagonism to stabilize cortisol signaling while preventing MR driven ionic and excitatory amplification.  
+- **Downstream Effects:** Lower extracellular volume load, reduced depolarization and Ca²⁺ entry, decreased mitochondrial ROS, improved redox balance, and preserved anti inflammatory signaling.  
+- **Key Node(s):** NR3C1, NR3C2, NMDA and AMPA receptor activity, L type Ca²⁺ channels, mitochondrial redox centers.  
+- **Therapeutic Angle:** Candidate for conditions with stress linked excitotoxicity such as ALS, PTSD, and neurodegeneration. Pairs well with extracellular glutamate control and antioxidant programs to prevent calcium overload and sustain mitochondrial function.
+
 
