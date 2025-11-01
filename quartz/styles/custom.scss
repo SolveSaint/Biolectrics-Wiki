@@ -112,12 +112,13 @@
 }
 
 /* limit long tag lists with a soft fade */
-.tag-list {
+.tag-list, .tags {
   transition: max-height 0.25s ease;
   position: relative;
 }
 
-.tag-list:not([style*="max-height: none"])::after {
+.tag-list:not([style*="max-height: none"])::after,
+.tags:not([style*="max-height: none"])::after {
   content: "";
   position: absolute;
   left: 0;
@@ -141,3 +142,4 @@
 }
 
 .expand-tags-btn:hover { color: var(--dark); }
+

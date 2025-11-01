@@ -1,6 +1,6 @@
 ---
 created: 2025-10-26 11:45 AM
-updated: 11/01/2025 7:06 PM
+updated: 11/01/2025 7:39 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets
 title: Therapeutic Pathways and Mechanistic Targets
 tags:

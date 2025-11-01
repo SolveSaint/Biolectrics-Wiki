@@ -54,3 +54,6 @@ export {
   TagListToggle,
 
 }
+
+export { byDateAndAlphabetical } from "./RecentNotes"
+

@@ -3,10 +3,10 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
   const fn = function () {
     document.addEventListener("DOMContentLoaded", () => {
-      const tagList = document.querySelector<HTMLElement>(".tag-list")
+      const tagList = document.querySelector<HTMLElement>(".tag-list, .tags")
       if (!tagList) return
 
-      const maxVisible = 20 // ← change this number to control how many tags show
+      const maxVisible = 20 // change this to show more/less
       if (tagList.children.length <= maxVisible) return
 
       tagList.style.maxHeight = "150px"
