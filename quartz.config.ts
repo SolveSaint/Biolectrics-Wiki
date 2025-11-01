@@ -13,8 +13,11 @@ const config: QuartzConfig = {
     enablePopovers: true,
 	analytics: {
 		provider: "goatcounter",
-		domain: "https://biolectrics.goatcounter.com",
-	},
+		websiteId: "biolectrics",   // your subdomain: biolectrics.goatcounter.com
+		// host: "goatcounter.com", // optional, default is goatcounter.com
+		// scriptSrc: "https://gc.zgo.at/count.js", // optional override
+},
+
 
     locale: "en-US",
 
