@@ -1,12 +1,13 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
+export default (() => {
+  // the inline JS that caps and toggles the tag list
   const fn = function () {
     document.addEventListener("DOMContentLoaded", () => {
       const tagList = document.querySelector<HTMLElement>(".tag-list, .tags")
       if (!tagList) return
 
-      const maxVisible = 20 // change this to show more/less
+      const maxVisible = 20 // ← change this to show more/less
       if (tagList.children.length <= maxVisible) return
 
       tagList.style.maxHeight = "150px"
@@ -26,7 +27,9 @@ const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
     })
   }
 
-  return <script dangerouslySetInnerHTML={{ __html: `(${fn.toString()})()` }} />
-}
-
-export default (() => TagListToggle) satisfies QuartzComponentConstructor
+  const C: QuartzComponent = {
+    name: "TagListToggle",
+    render: () => <script dangerouslySetInnerHTML={{ __html: `(${fn.toString()})()` }} />,
+  }
+  return C
+}) satisfies QuartzComponentConstructor
