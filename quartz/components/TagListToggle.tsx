@@ -7,7 +7,7 @@ const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
         var tagList = document.querySelector(".tag-list, .tags");
         if (!tagList) return;
 
-        var maxVisible = 20; // change this to show more/less before expand
+        var maxVisible = 8; // change this to show more/less before expand
         if (tagList.children.length <= maxVisible) return;
 
         tagList.style.maxHeight = "150px";
