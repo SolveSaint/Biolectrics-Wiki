@@ -1,74 +1,33 @@
-// quartz/components/TagListToggle.tsx
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export default ((): QuartzComponentConstructor => {
-  function TagListToggle(_props: QuartzComponentProps) {
-    const script = `(() => {
-      const MAX = 8; // change limit here
+const TagListToggle: QuartzComponent = (_props: QuartzComponentProps) => {
+  const code = `
+    (function () {
+      document.addEventListener("DOMContentLoaded", function () {
+        var tagList = document.querySelector(".tag-list, .tags");
+        if (!tagList) return;
 
-      function ensureButton(list: HTMLElement) {
-        let btn = list.nextElementSibling as HTMLButtonElement | null
-        if (!btn || !btn.classList.contains("expand-tags-btn")) {
-          btn = document.createElement("button")
-          btn.className = "expand-tags-btn"
-          btn.type = "button"
-          btn.textContent = "Show more tags"
-          btn.addEventListener("click", () => toggle(list, btn!))
-          list.after(btn)
-        }
-        return btn
-      }
+        var maxVisible = 20; // change this to show more/less before expand
+        if (tagList.children.length <= maxVisible) return;
 
-      function collapse(list: HTMLElement, btn: HTMLButtonElement) {
-        const items = Array.from(list.children) as HTMLElement[]
-        items.forEach((el, i) => el.classList.toggle("tag-hidden", i >= MAX))
-        list.classList.add("tags-collapsed")
-        list.classList.remove("tags-expanded")
-        btn.textContent = "Show more tags"
-      }
+        tagList.style.maxHeight = "150px";
+        tagList.style.overflow = "hidden";
+        tagList.style.position = "relative";
 
-      function expand(list: HTMLElement, btn: HTMLButtonElement) {
-        const items = Array.from(list.children) as HTMLElement[]
-        items.forEach((el) => el.classList.remove("tag-hidden"))
-        list.classList.remove("tags-collapsed")
-        list.classList.add("tags-expanded")
-        btn.textContent = "Show fewer tags"
-      }
+        var btn = document.createElement("button");
+        btn.textContent = "Show more tags";
+        btn.className = "expand-tags-btn";
+        btn.addEventListener("click", function () {
+          var expanded = tagList.style.maxHeight === "none";
+          tagList.style.maxHeight = expanded ? "150px" : "none";
+          btn.textContent = expanded ? "Show more tags" : "Show fewer tags";
+        });
 
-      function toggle(list: HTMLElement, btn: HTMLButtonElement) {
-        if (list.classList.contains("tags-collapsed")) expand(list, btn)
-        else collapse(list, btn)
-      }
+        tagList.after(btn);
+      });
+    })();
+  `;
+  return <script dangerouslySetInnerHTML={{ __html: code }} />;
+};
 
-      function apply(list: HTMLElement) {
-        const count = list.children.length
-        // Only attach if there are more than MAX tags
-        if (count <= MAX) {
-          // If a button exists from previous nav, remove it and show all
-          const btn = list.nextElementSibling as HTMLElement | null
-          if (btn && btn.classList.contains("expand-tags-btn")) btn.remove()
-          const items = Array.from(list.children) as HTMLElement[]
-          items.forEach((el) => el.classList.remove("tag-hidden"))
-          list.classList.remove("tags-collapsed", "tags-expanded")
-          return
-        }
-
-        const btn = ensureButton(list)
-        // Default to collapsed on page load/nav
-        collapse(list, btn)
-      }
-
-      function run() {
-        const lists = Array.from(document.querySelectorAll<HTMLElement>(".tag-list, .tags"))
-        lists.forEach(apply)
-      }
-
-      document.addEventListener("DOMContentLoaded", run)
-      document.addEventListener("nav", run) // Quartz SPA nav
-    })();`
-
-    return <script dangerouslySetInnerHTML={{ __html: script }} />
-  }
-
-  return TagListToggle
-})()
+export default (() => TagListToggle) satisfies QuartzComponentConstructor;
