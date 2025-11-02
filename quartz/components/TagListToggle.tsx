@@ -1,71 +1,74 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+// quartz/components/TagListToggle.tsx
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export interface Options {
-  maxVisible?: number
-}
+export default ((): QuartzComponentConstructor => {
+  function TagListToggle(_props: QuartzComponentProps) {
+    const script = `(() => {
+      const MAX = 8; // change limit here
 
-/**
- * Pure script-injector. No JSX rendering, no external imports.
- * Runs on initial load and on Quartz SPA "nav" events.
- */
-export default ((opts: Options = {}) => {
-  const max = Number.isFinite(opts.maxVisible) ? (opts.maxVisible as number) : 8
+      function ensureButton(list: HTMLElement) {
+        let btn = list.nextElementSibling as HTMLButtonElement | null
+        if (!btn || !btn.classList.contains("expand-tags-btn")) {
+          btn = document.createElement("button")
+          btn.className = "expand-tags-btn"
+          btn.type = "button"
+          btn.textContent = "Show more tags"
+          btn.addEventListener("click", () => toggle(list, btn!))
+          list.after(btn)
+        }
+        return btn
+      }
 
-  const script = `
-  (function(){
-    function apply(maxVisible){
-      document.querySelectorAll(".tag-list, .tags").forEach(function(wrap){
-        var items = Array.prototype.slice.call(wrap.querySelectorAll("a, .tag"));
-        // clean if short
-        var btn = wrap.nextElementSibling;
-        if (items.length <= maxVisible) {
-          wrap.classList.remove("tags-collapsed","tags-expanded");
-          items.forEach(function(el){ el.classList.remove("tag-hidden"); });
-          if (btn && btn.classList && btn.classList.contains("expand-tags-btn")) btn.remove();
-          return;
+      function collapse(list: HTMLElement, btn: HTMLButtonElement) {
+        const items = Array.from(list.children) as HTMLElement[]
+        items.forEach((el, i) => el.classList.toggle("tag-hidden", i >= MAX))
+        list.classList.add("tags-collapsed")
+        list.classList.remove("tags-expanded")
+        btn.textContent = "Show more tags"
+      }
+
+      function expand(list: HTMLElement, btn: HTMLButtonElement) {
+        const items = Array.from(list.children) as HTMLElement[]
+        items.forEach((el) => el.classList.remove("tag-hidden"))
+        list.classList.remove("tags-collapsed")
+        list.classList.add("tags-expanded")
+        btn.textContent = "Show fewer tags"
+      }
+
+      function toggle(list: HTMLElement, btn: HTMLButtonElement) {
+        if (list.classList.contains("tags-collapsed")) expand(list, btn)
+        else collapse(list, btn)
+      }
+
+      function apply(list: HTMLElement) {
+        const count = list.children.length
+        // Only attach if there are more than MAX tags
+        if (count <= MAX) {
+          // If a button exists from previous nav, remove it and show all
+          const btn = list.nextElementSibling as HTMLElement | null
+          if (btn && btn.classList.contains("expand-tags-btn")) btn.remove()
+          const items = Array.from(list.children) as HTMLElement[]
+          items.forEach((el) => el.classList.remove("tag-hidden"))
+          list.classList.remove("tags-collapsed", "tags-expanded")
+          return
         }
 
-        var expanded = wrap.getAttribute("data-expanded") === "true";
-        wrap.classList.toggle("tags-collapsed", !expanded);
-        wrap.classList.toggle("tags-expanded",  expanded);
+        const btn = ensureButton(list)
+        // Default to collapsed on page load/nav
+        collapse(list, btn)
+      }
 
-        items.forEach(function(el, idx){
-          if (!expanded && idx >= maxVisible) el.classList.add("tag-hidden");
-          else el.classList.remove("tag-hidden");
-        });
+      function run() {
+        const lists = Array.from(document.querySelectorAll<HTMLElement>(".tag-list, .tags"))
+        lists.forEach(apply)
+      }
 
-        if (!btn || !btn.classList || !btn.classList.contains("expand-tags-btn")) {
-          btn = document.createElement("button");
-          btn.type = "button";
-          btn.className = "expand-tags-btn";
-          wrap.after(btn);
-          btn.addEventListener("click", function(){
-            var isExpanded = wrap.getAttribute("data-expanded") === "true";
-            wrap.setAttribute("data-expanded", (!isExpanded).toString());
-            apply(maxVisible);
-          });
-        }
-        btn.textContent = expanded ? "Show fewer tags" : "Show more tags";
-      });
-    }
+      document.addEventListener("DOMContentLoaded", run)
+      document.addEventListener("nav", run) // Quartz SPA nav
+    })();`
 
-    // initial
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", function(){ apply(${max}); });
-    } else {
-      apply(${max});
-    }
-    // SPA nav re-apply (Quartz fires "nav")
-    document.addEventListener("nav", function(){ apply(${max}); });
-  })();
-  `
-
-  const C: QuartzComponent = (_props: QuartzComponentProps) => {
     return <script dangerouslySetInnerHTML={{ __html: script }} />
   }
 
-  C.afterDOMLoaded = undefined // all logic lives in the injected script
-  C.name = "TagListToggle"
-
-  return C
-}) satisfies QuartzComponentConstructor
+  return TagListToggle
+})()
