@@ -144,3 +144,36 @@
 .expand-tags-btn:hover { color: var(--dark); }
 
 .tag-hidden { display: none !important; }
+
+/* Hide extra tag pills */
+.tag-hidden { display: none !important; }
+
+/* Optional soft fade when collapsed */
+.tags.tags-collapsed,
+.tag-list.tags-collapsed {
+  position: relative;
+}
+.tags.tags-collapsed::after,
+.tag-list.tags-collapsed::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: -4px;
+  height: 48px;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light));
+  display: block;
+}
+.tags-expanded::after { display: none !important; }
+
+/* Toggle button */
+.expand-tags-btn {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: var(--gray);
+  background: transparent;
+  border: 0;
+  padding: 4px 0;
+}
+.expand-tags-btn:hover { color: var(--dark); }
