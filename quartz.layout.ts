@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import GoatCounterSPA from "./quartz/components/GoatCounterSPA"
-import TagListToggle from "./quartz/components/TagListToggle"
+//import TagListToggle from "./quartz/components/TagListToggle"
 
 // Local sort: newest modified/created first, then A→Z by title
 const byDateAndAlphabetical = (a: any, b: any) => {
@@ -17,7 +17,7 @@ const byDateAndAlphabetical = (a: any, b: any) => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [GoatCounterSPA(), TagListToggle()],
+  afterBody: [GoatCounterSPA()],
   footer: Component.Footer({
     links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
