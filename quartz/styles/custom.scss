@@ -143,12 +143,12 @@
 
 .expand-tags-btn:hover { color: var(--dark); }
 
+/* --- Tag list limiter + fade + button (single, deduped) --- */
+
+/* hide extra tag pills inserted by TagListToggle.tsx */
 .tag-hidden { display: none !important; }
 
-/* Hide extra tag pills */
-.tag-hidden { display: none !important; }
-
-/* Optional soft fade when collapsed */
+/* collapsed state gets a soft fade at the bottom */
 .tags.tags-collapsed,
 .tag-list.tags-collapsed {
   position: relative;
@@ -160,12 +160,14 @@
   left: 0; right: 0; bottom: -4px;
   height: 48px;
   pointer-events: none;
-  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light));
-  display: block;
+  /* use theme var with a fallback to avoid weirdness in dark mode */
+  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light, #161618));
 }
+
+/* expanded removes the fade */
 .tags-expanded::after { display: none !important; }
 
-/* Toggle button */
+/* toggle button */
 .expand-tags-btn {
   display: inline-block;
   margin-top: 8px;

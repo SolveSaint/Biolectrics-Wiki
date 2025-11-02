@@ -1,52 +1,52 @@
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-const makeLimiter = (MAX = 8) => {
-  const apply = () => {
-    const containers = Array.from(
-      document.querySelectorAll<HTMLElement>(".tags, .tag-list")
-    )
+// Cap how many tag pills show initially (change 8 if you want)
+const MAX = 8
 
-    containers.forEach((wrap) => {
-      // do not install twice
-      if (wrap.dataset.tagLimiterInstalled === "1") return
-      wrap.dataset.tagLimiterInstalled = "1"
+function installLimiter() {
+  const containers = Array.from(
+    document.querySelectorAll<HTMLElement>(".tags, .tag-list")
+  )
 
-      const pills = Array.from(wrap.children) as HTMLElement[]
-      if (pills.length <= MAX) return
+  containers.forEach((wrap) => {
+    // don’t install twice
+    if (wrap.dataset.tagLimiterInstalled === "1") return
+    wrap.dataset.tagLimiterInstalled = "1"
 
-      // hide extras
-      pills.slice(MAX).forEach((el) => el.classList.add("tag-hidden"))
+    const pills = Array.from(wrap.children) as HTMLElement[]
+    if (pills.length <= MAX) return
 
-      // button
-      const btn = document.createElement("button")
-      btn.className = "expand-tags-btn"
-      btn.textContent = "Show more tags"
-      let expanded = false
+    // hide extras
+    pills.slice(MAX).forEach((el) => el.classList.add("tag-hidden"))
 
-      btn.addEventListener("click", () => {
-        expanded = !expanded
-        pills.slice(MAX).forEach((el) =>
-          el.classList.toggle("tag-hidden", !expanded)
-        )
-        btn.textContent = expanded ? "Show fewer tags" : "Show more tags"
-        wrap.classList.toggle("tags-expanded", expanded)
-      })
+    // add collapsed class for fade
+    wrap.classList.add("tags-collapsed")
 
-      wrap.after(btn)
-      // small fade when collapsed
-      wrap.classList.add("tags-collapsed")
+    // add toggle button
+    const btn = document.createElement("button")
+    btn.className = "expand-tags-btn"
+    btn.textContent = "Show more tags"
+    let expanded = false
+
+    btn.addEventListener("click", () => {
+      expanded = !expanded
+      pills.slice(MAX).forEach((el) =>
+        el.classList.toggle("tag-hidden", !expanded)
+      )
+      wrap.classList.toggle("tags-expanded", expanded)
+      btn.textContent = expanded ? "Show fewer tags" : "Show more tags"
     })
-  }
 
-  // run now and on SPA nav
-  apply()
-  document.addEventListener("nav", apply, { once: false })
+    wrap.after(btn)
+  })
 }
 
 const TagListToggle: QuartzComponent = {
   name: "TagListToggle",
-  // inject a tiny inline runner
-  afterDOMLoaded: () => makeLimiter(8), // ← change number here if you want
+  afterDOMLoaded: () => {
+    installLimiter()               // first load
+    document.addEventListener("nav", installLimiter) // Quartz SPA navigations
+  },
 }
 
 export default (() => TagListToggle) satisfies QuartzComponentConstructor
