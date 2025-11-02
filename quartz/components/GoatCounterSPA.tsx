@@ -1,13 +1,21 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import goatcounterNav from "./goatcounter.inline"
+import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
-// Must be a function component, not a plain object
-const GoatCounterComponent: QuartzComponent = (_props: QuartzComponentProps) => {
-  // nothing to render; we only hook SPA nav
-  return null
+const GoatCounterSPA: QuartzComponent = () => {
+  const code = `
+    (function () {
+      function send() {
+        var gc = (window as any).goatcounter
+        if (gc && typeof gc.count === "function") {
+          gc.count({ path: location.pathname + location.search + location.hash })
+        }
+      }
+      // first load
+      send()
+      // Quartz SPA navigations
+      document.addEventListener("nav", send)
+    })();
+  `
+  return <script dangerouslySetInnerHTML={{ __html: code }} />
 }
 
-// attach SPA hook
-GoatCounterComponent.afterDOMLoaded = goatcounterNav
-
-export default (() => GoatCounterComponent) satisfies QuartzComponentConstructor
+export default (() => GoatCounterSPA) satisfies QuartzComponentConstructor
