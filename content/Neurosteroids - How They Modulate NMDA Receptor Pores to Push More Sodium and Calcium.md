@@ -3,7 +3,7 @@ created: 11/02/2025 1:21 PM
 updated: 11/02/2025 1:40 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Neurosteroids---How-They-Modulate-NMDA-Receptor-Pores-to-Hold-More-Calcium
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69079db0-4e10-8329-a452-f5c4fc587f70
-title: Neurosteroids - How They Modulate NMDA Receptor Pores to Push More Calcium
+title: Neurosteroids - How They Modulate NMDA Receptor Pores to Push More Sodium and Calcium
 tags:
   - Biolectrics
   - Stress
