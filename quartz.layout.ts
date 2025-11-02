@@ -4,9 +4,16 @@ import * as Component from "./quartz/components"
 // Direct component imports (custom)
 import GoatCounterSPA from "./quartz/components/GoatCounterSPA"
 import TagListToggle from "./quartz/components/TagListToggle"
-import { byDateAndAlphabetical } from "./quartz/components/RecentNotes"
 
-
+// Local sort: newest modified/created first, then A→Z by title
+const byDateAndAlphabetical = (a: any, b: any) => {
+  const ad = a.dates?.modified ?? a.dates?.created ?? 0
+  const bd = b.dates?.modified ?? b.dates?.created ?? 0
+  if (ad !== bd) return bd - ad
+  const at = a.frontmatter?.title ?? (Array.isArray(a.slug) ? a.slug.join("/") : a.slug ?? "")
+  const bt = b.frontmatter?.title ?? (Array.isArray(b.slug) ? b.slug.join("/") : b.slug ?? "")
+  return String(at).localeCompare(String(bt))
+}
 
 // Shared
 export const sharedPageComponents: SharedLayout = {
