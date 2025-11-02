@@ -1,52 +1,71 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-// Cap how many tag pills show initially (change 8 if you want)
-const MAX = 8
-
-function installLimiter() {
-  const containers = Array.from(
-    document.querySelectorAll<HTMLElement>(".tags, .tag-list")
-  )
-
-  containers.forEach((wrap) => {
-    // don’t install twice
-    if (wrap.dataset.tagLimiterInstalled === "1") return
-    wrap.dataset.tagLimiterInstalled = "1"
-
-    const pills = Array.from(wrap.children) as HTMLElement[]
-    if (pills.length <= MAX) return
-
-    // hide extras
-    pills.slice(MAX).forEach((el) => el.classList.add("tag-hidden"))
-
-    // add collapsed class for fade
-    wrap.classList.add("tags-collapsed")
-
-    // add toggle button
-    const btn = document.createElement("button")
-    btn.className = "expand-tags-btn"
-    btn.textContent = "Show more tags"
-    let expanded = false
-
-    btn.addEventListener("click", () => {
-      expanded = !expanded
-      pills.slice(MAX).forEach((el) =>
-        el.classList.toggle("tag-hidden", !expanded)
-      )
-      wrap.classList.toggle("tags-expanded", expanded)
-      btn.textContent = expanded ? "Show fewer tags" : "Show more tags"
-    })
-
-    wrap.after(btn)
-  })
+export interface Options {
+  maxVisible?: number
 }
 
-const TagListToggle: QuartzComponent = {
-  name: "TagListToggle",
-  afterDOMLoaded: () => {
-    installLimiter()               // first load
-    document.addEventListener("nav", installLimiter) // Quartz SPA navigations
-  },
-}
+/**
+ * Pure script-injector. No JSX rendering, no external imports.
+ * Runs on initial load and on Quartz SPA "nav" events.
+ */
+export default ((opts: Options = {}) => {
+  const max = Number.isFinite(opts.maxVisible) ? (opts.maxVisible as number) : 8
 
-export default (() => TagListToggle) satisfies QuartzComponentConstructor
+  const script = `
+  (function(){
+    function apply(maxVisible){
+      document.querySelectorAll(".tag-list, .tags").forEach(function(wrap){
+        var items = Array.prototype.slice.call(wrap.querySelectorAll("a, .tag"));
+        // clean if short
+        var btn = wrap.nextElementSibling;
+        if (items.length <= maxVisible) {
+          wrap.classList.remove("tags-collapsed","tags-expanded");
+          items.forEach(function(el){ el.classList.remove("tag-hidden"); });
+          if (btn && btn.classList && btn.classList.contains("expand-tags-btn")) btn.remove();
+          return;
+        }
+
+        var expanded = wrap.getAttribute("data-expanded") === "true";
+        wrap.classList.toggle("tags-collapsed", !expanded);
+        wrap.classList.toggle("tags-expanded",  expanded);
+
+        items.forEach(function(el, idx){
+          if (!expanded && idx >= maxVisible) el.classList.add("tag-hidden");
+          else el.classList.remove("tag-hidden");
+        });
+
+        if (!btn || !btn.classList || !btn.classList.contains("expand-tags-btn")) {
+          btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "expand-tags-btn";
+          wrap.after(btn);
+          btn.addEventListener("click", function(){
+            var isExpanded = wrap.getAttribute("data-expanded") === "true";
+            wrap.setAttribute("data-expanded", (!isExpanded).toString());
+            apply(maxVisible);
+          });
+        }
+        btn.textContent = expanded ? "Show fewer tags" : "Show more tags";
+      });
+    }
+
+    // initial
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", function(){ apply(${max}); });
+    } else {
+      apply(${max});
+    }
+    // SPA nav re-apply (Quartz fires "nav")
+    document.addEventListener("nav", function(){ apply(${max}); });
+  })();
+  `
+
+  const C: QuartzComponent = (_props: QuartzComponentProps) => {
+    return <script dangerouslySetInnerHTML={{ __html: script }} />
+  }
+
+  C.afterDOMLoaded = undefined // all logic lives in the injected script
+  C.name = "TagListToggle"
+
+  return C
+}) satisfies QuartzComponentConstructor
