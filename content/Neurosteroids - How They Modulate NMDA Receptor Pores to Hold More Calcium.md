@@ -34,7 +34,7 @@ Neurosteroids and oxysterols bind specialized pockets near the channel gate on G
 Stress increases both cholesterol metabolism and pregnenolone synthesis. Cortisol produced in this state enhances receptor density through nuclear signaling. At the same time, elevated neurosteroids enhance the calcium pushed through each receptor. This dual amplification boosts total excitatory current and mitochondrial calcium load, driving ROS generation and excitotoxic injury within the stress–glutamate–ROS cascade.
 
 ### Summary
-Neurosteroids determine how forcefully each NMDA receptor can push calcium during activation, turning membrane structure into a precise control of excitatory amplitude. This rapid modulation complements cortisol’s slower genomic control of receptor number. Together they form a two-tiered system that links steroid metabolism, calcium dynamics, and oxidative stress, revealing how the chemical state of the body translates into excitatory pressure at the synapse.
+Neurosteroids determine how forcefully each NMDA receptor can push calcium during activation, turning membrane structure into a precise control of excitatory amplitude. This rapid modulation complements cortisol’s slower genomic control of receptor number. Together they form a two-tiered system that links steroid metabolism, calcium dynamics, and oxidative stress.
 
 ### References
 | Title | Authors | Year |
