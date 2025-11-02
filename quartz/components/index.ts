@@ -53,10 +53,6 @@ export {
   Comments,
   Flex,
   ConditionalRender,
-  TagListToggle,
-  GoatCounterSPA,
 
 }
-
-export { byDateAndAlphabetical } from "./RecentNotes"
 

@@ -1,11 +1,18 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
+// Direct component imports (custom)
+import GoatCounterSPA from "./quartz/components/GoatCounterSPA"
+import TagListToggle from "./quartz/components/TagListToggle"
+import { byDateAndAlphabetical } from "./quartz/components/RecentNotes"
+
+
+
 // Shared
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.GoatCounterSPA(), Component.TagListToggle()],
+  afterBody: [GoatCounterSPA(), TagListToggle()],
   footer: Component.Footer({
     links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
@@ -89,7 +96,7 @@ export const recentNotesPageLayout: PageLayout = {
     title: "All Recent Notes",
     limit: 100,
     showTags: true,
-    sort: Component.byDateAndAlphabetical,
+    sort: byDateAndAlphabetical,
     filter: (f) => {
       const slug = slugOf(f)
       return notSpecial(slug) && hasTitle(f)
