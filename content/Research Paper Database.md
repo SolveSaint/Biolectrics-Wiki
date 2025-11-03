@@ -1,6 +1,6 @@
 ---
 created: 10/27/2025 12:19 AM
-updated: 10/31/2025 12:53 AM
+updated: 11/03/2025 1:41 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Research-Paper-Database
 title: Research Paper Database
 tags:
@@ -168,6 +168,7 @@ tags:
 | [Evolutionary and functional differentiation of the glutamate receptor-like family in tea (Camellia sinensis) plants and other plants](https://doi.org/10.1007/s10142-025-01696-w) | Deng et al. | 2025 |
 | [Examining the unique contribution of parent anxiety sensitivity on adolescent neural responses during an emotion regulation task](https://doi.org/10.1017/s0954579425000227) | Church et al. | 2025 |
 | [Excitatory projections from the amygdala to neurons in the nucleus pontis oralis in the rat: an intracellular study](https://doi.org/10.1016/j.neuroscience.2011.09.029) | Xi et al. | 2011 |
+| [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
 | [An Expert-guided Hierarchical Graph Attention Network for Post-traumatic Stress Disorder Highly-associative Genetic Biomarkers Identification](https://doi.org/10.1101/2023.01.30.23285175) | Zhang et al. | 2023 |
 | [Exploration of Key Genes and Molecular Mechanisms in Mice with Perioperative Neurocognitive Disorders Treated with Remimazolam Based on Transcriptomics and Experimental Verification](https://doi.org/10.2147/DDDT.S541958) | Yu et al. | 2025 |
 | [Exploring the regulatory roles of AtGLR3.4 receptors in mitochondrial stress and ROS management in Arabidopsis](https://doi.org/10.1007/s00299-025-03558-y) | Gokce & Sekmen | 2025 |
@@ -223,6 +224,7 @@ tags:
 | [Hippocampal and prefrontal GABA and glutamate concentration contribute to component processes of working memory in aging](https://doi.org/10.1093/cercor/bhaf105) | Andersson et al. | 2025 |
 | [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
 | [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
+| [Hormonal assessment of participants in a long distance walk](https://doi.org/10.1186/s13098-019-0414-1) | de Souza et al. | 2019 |
 | [How do we get from hyperexcitability to excitotoxicity in amyotrophic lateral sclerosis?](https://doi.org/10.1093/brain/awae039) | Odierna et al. | 2024 |
 | [How Does TRPV6 Mediate Calcium Influx in Regulating Mitochondrial Homeostasis in Cancer Cells?](https://doi.org/10.54254/2753-8818/2025.AU28312) | Peng | 2025 |
 | [How Large Are Cognitive Gender Differences?](https://doi.org/10.4324/9780429035302-10) | Hyde | 2019 |
@@ -279,6 +281,7 @@ tags:
 | [Maternal Deprivation in Rats is Associated with Corticotrophin-Releasing Hormone (CRH) Promoter Hypomethylation and Enhances CRH Transcriptional Responses to Stress in Adulthood](https://doi.org/10.1111/j.1365-2826.2012.02306.x) | Chen et al. | 2012 |
 | [Maximum lifespan and brain size in mammals are associated with gene family size expansion related to immune system functions](https://doi.org/10.1038/s41598-025-98786-3) | Kilili et al. | 2025 |
 | [The measurement and mechanism of lipid peroxidation in biological systems](https://doi.org/10.1016/0968-0004%2890%2990206-q) | Gutteridge & Halliwell | 1990 |
+| [Mechanism of conductance control and neurosteroid binding in NMDA receptors](https://doi.org/10.1038/s41586-025-09695-4) | Kang et al. | 2025 |
 | [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
 | [Mechanisms of oxidative stress-induced sperm dysfunction](https://doi.org/10.3389/fendo.2025.1520835) | Wang et al. | 2025 |
 | [Mechanisms of Stress-Induced Spermatogenesis Impairment in Male Rats Following Unpredictable Chronic Mild Stress (uCMS)](https://doi.org/10.3390/ijms20184470) | Zou et al. | 2019 |
@@ -293,6 +296,7 @@ tags:
 | [mGluR5 in Pyramidal Neurons in the Hippocampus Mediates Chronic Stress‐Induced Memory Deficits](https://doi.org/10.1111/cns.70477) | Lu et al. | 2025 |
 | [Microglia reactivity is brain region and sex specific in the context of chronic stress](https://doi.org/10.1038/s41598-025-18000-2) | Zhang et al. | 2025 |
 | [Midbrain circuits that set locomotor speed and gait selection](https://doi.org/10.1038/nature25448) | Caggiano et al. | 2018 |
+| [Mineralocorticoid receptor antagonism of vamorolone: Evidence from LIONHEART and VISION-DMD clinical trials](https://doi.org/10.1016/j.steroids.2025.109689) | de Vera et al. | 2025 |
 | [Mineralocorticoid receptor-mediated changes in membrane properties of rat CA1 pyramidal neurons in vitro.](https://doi.org/10.1073/pnas.87.12.4495) | Joëls & de Kloet | 1990 |
 | [Mineralocorticoid receptors are indispensable for nongenomic modulation of hippocampal glutamate transmission by corticosterone](https://doi.org/10.1073/pnas.0507572102) | Karst et al. | 2005 |
 | [Mitochondria-associated endoplasmic reticulum membrane (MAM)-associated calpains system in preeclampsia](https://doi.org/10.1186/s12884-025-08244-1) | Zhang et al. | 2025 |
@@ -324,6 +328,8 @@ tags:
 | [Non-redundant role of the a3 isoform of Na,K-ATPase in neuronal excitability and spiking dynamics](https://doi.org/10.1101/2025.10.24.684230) | Reshetnikov et al. | 2025 |
 | [Novel tau filament fold in corticobasal degeneration](https://doi.org/10.1038/s41586-020-2043-0) | Zhang et al. | 2020 |
 | [NR3C1/GLMN-Mediated FKBP12.6 Ubiquitination Disrupts Calcium Homeostasis and Impairs Mitochondrial Quality Control in Stress-Induced Myocardial Damage](https://doi.org/10.3390/ijms26178245) | Cong et al. | 2025 |
+| [Nrf1 and Nrf2 Transcription Factors Regulate Androgen Receptor Transactivation in Prostate Cancer Cells](https://doi.org/10.1371/journal.pone.0087204) | Schultz et al. | 2014 |
+| [Nrf2 dysfunction and impaired cellular resilience to oxidative stressors in the aged vasculature: from increased cellular senescence to the pathogenesis of age-related vascular diseases](https://doi.org/10.1007/s11357-019-00107-w) | Ungvari et al. | 2019 |
 | [Olfactory dysfunction and amyloid-positivity in Parkinson’s disease—longitudinal analysis of cognitive decline and cerebrospinal fluid markers](https://doi.org/10.1371/journal.pone.0325560) | Larsson et al. | 2025 |
 | [Ovarian Hormone-dependent and Spinal ERK Activation-regulated Nociceptive Hypersensitivity in Female Rats with Acid Injection-induced Chronic Widespread Muscle Pain](https://doi.org/10.1038/s41598-019-39472-z) | Chang et al. | 2019 |
 | [Oxidative DNA damage and disease: induction, repair and significance](https://doi.org/10.1016/j.mrrev.2003.11.001) | Evans et al. | 2004 |
@@ -373,6 +379,7 @@ tags:
 | [The rat ponto-medullary network responsible for paradoxical sleep onset and maintenance: a combined microinjection and functional neuroanatomical study](https://doi.org/10.1046/j.1460-9568.2002.02257.x) | Boissard et al. | 2002 |
 | [Reactive Oxygen and Nitrogen Species: General Considerations](https://doi.org/10.1007/978-1-4939-0497-6_2) | Dhawan | 2014 |
 | [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura & Keaney | 2011 |
+| [Reactive oxygen species: players in the cardiovascular effects of testosterone](https://doi.org/10.1152/ajpregu.00392.2014) | Tostes et al. | 2016 |
 | [A reduced ability to discriminate social from non-social touch at the circuit level may underlie social avoidance in autism](https://doi.org/10.1038/s41467-025-59852-6) | Chari et al. | 2025 |
 | [Regular cannabis use is associated with blunted affective, but not cardiovascular, stress responses](https://doi.org/10.1016/j.addbeh.2020.106411) | DeAngelis & al'Absi | 2020 |
 | [Regulation of Growth in Mandibular Condylar Cartilage](https://doi.org/10.1053/j.sodo.2005.07.005) | Hinton & Carlson | 2005 |
@@ -393,6 +400,7 @@ tags:
 | [Role of endoplasmic reticulum stress pathway in hydrostatic pressure-induced apoptosis in rat mandibular condylar chondrocytes](https://doi.org/10.1007/s11010-016-2933-5) | Xu et al. | 2017 |
 | [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
 | [Role of Multivoxel MR Spectroscopy Progressive Supranuclear Palsy – A Preliminary Study](https://doi.org/10.4103/0028-3886.364075) | Mangalore et al. | 2022 |
+| [Role of nitric oxide in mitochondrial energetics and stress/ease-responsive neuroendocrine receptor expression in developing zebrafish larvae](https://doi.org/10.1016/j.bbrc.2025.152844) | Pius et al. | 2025 |
 | [Role of nrf2 in oxidative stress and toxicity](https://doi.org/10.1146/annurev-pharmtox-011112-140320) | Ma | 2013 |
 | [Role of thioredoxin reductase (TrxB) in oxidative stress response of Francisella tularensis live vaccine strain](https://doi.org/10.1128/jb.00173-25) | Higgs et al. | 2025 |
 | [Salivary kynurenic acid response to psychological stress: inverse relationship to cortical glutamate in schizophrenia](https://doi.org/10.1038/s41386-018-0072-2) | Chiappelli et al. | 2018 |
@@ -403,6 +411,7 @@ tags:
 | [Sex Differences in Intelligence: The Developmental Theory](https://doi.org/10.46469/mq.2017.58.1.2) | Lynn | 2017 |
 | [Sex differences in pain and pain inhibition: multiple explanations of a controversial phenomenon](https://doi.org/10.1038/nrn3360) | Mogil | 2012 |
 | [Sex Differences in ROS Production and SOD Activity Following Induced Inflammation](https://doi.org/10.1096/fasebj.2022.36.S1.R4508) | Mascone et al. | 2022 |
+| [Sex differences in vascular aging in response to testosterone](https://doi.org/10.1186/s13293-020-00294-8) | Moreau et al. | 2020 |
 | [Sex-Related Differences in Human Pain and Rat Afferent Discharge Evoked by Injection of Glutamate Into the Masseter Muscle](https://doi.org/10.1152/jn.2001.86.2.782) | Cairns et al. | 2001 |
 | [Signaling by plant glutamate receptor-like channels: What else!](https://doi.org/10.1016/j.pbi.2022.102253) | Grenzi et al. | 2022 |
 | [Signaling in cells and organisms — calcium holds the line](https://doi.org/10.1016/j.pbi.2014.08.003) | Steinhorst & Kudla | 2014 |
@@ -417,6 +426,7 @@ tags:
 | [The Stress-Pain Connection in Chronic Primary Pain: A Systematic Review and Meta-Analysis of Physiological Stress Markers in Relation to Experimental Pain Responses](https://doi.org/10.1101/2025.09.24.25336431) | Vyverman et al. | 2025 |
 | [Stress, burnout and depression: A systematic review on DNA methylation mechanisms](https://doi.org/10.1016/j.jpsychores.2016.11.005) | Bakusic et al. | 2017 |
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
+| [Structural basis for amyloid fibril assembly by the master cell-signaling regulator receptor-interacting protein kinase 1](https://doi.org/10.1038/s41467-025-64621-6) | Polonio et al. | 2025 |
 | [Subcellular two-pronged targeting therapeutics: disrupting mitochondria-endoplasmic reticulum communication in inflammatory disorders](https://doi.org/10.1016/j.actbio.2025.10.029) | Ren et al. | 2025 |
 | [The Substantia Nigra Conveys Target-Dependent Excitatory and Inhibitory Outputs from the Basal Ganglia to the Thalamus](https://doi.org/10.1523/jneurosci.0236-14.2014) | Antal et al. | 2014 |
 | [Subtle changes in ligand-receptor interactions dramatically alter transcriptional outcomes of pregnane X receptor modulators](https://doi.org/10.1016/j.str.2025.09.011) | Huber et al. | 2025 |
@@ -424,6 +434,7 @@ tags:
 | [Tastes and retronasal odours evoke a shared flavour-specific neural code in the human insula](https://doi.org/10.1101/2025.01.06.631354) | Khorisantono et al. | 2025 |
 | [Tau pathology in Alzheimer disease and other tauopathies](https://doi.org/10.1016/j.bbadis.2004.09.008) | Iqbal et al. | 2005 |
 | [Temporal modulation of hippocampal excitatory transmission by corticosteroids and stress](https://doi.org/10.1016/j.yfrne.2010.07.004) | Chaouloff & Groc | 2011 |
+| [Testosterone and Blood Pressure Regulation](https://doi.org/10.1159/000119417) | Kienitz & Quinkler | 2008 |
 | [Testosterone and dihydrotestosterone modulate the redox homeostasis of endothelium](https://doi.org/10.1002/cbin.11768) | Koukoulis et al. | 2022 |
 | [Testosterone Contributes to Vascular Dysfunction in Young Mice Fed a High Fat Diet by Promoting Nuclear Factor E2–Related Factor 2 Downregulation and Oxidative Stress](https://doi.org/10.3389/fphys.2022.837603) | Costa et al. | 2022 |
 | [Testosterone downregulates the Nrf2 system and promotes vascular dysfunction in HFD-fed mice](https://doi.org/10.1096/fasebj.31.1_supplement.837.18) | Costa et al. | 2017 |
@@ -444,5 +455,6 @@ tags:
 | [Unwanted Consensual Sex Among College Students: What Makes an Individual More Likely to Consent to Sex They Do Not Want?](https://doi.org/10.3390/bs15070981) | Barnhart et al. | 2025 |
 | [Vagal gut-brain signaling mediates amygdaloid plasticity, affect, and pain in a functional dyspepsia model](https://doi.org/10.1172/jci.insight.144046) | Cordner et al. | 2021 |
 | [Variations in Plasma Metabolome Shed Light on the Associations Between Lipid Metabolism and Oxidative Stress in Goats Supplemented With Condensed Tannin](https://doi.org/10.1111/asj.70126) | Tian et al. | 2025 |
+| [Vascular Cytochrome P450 4A Expression and 20-Hydroxyeicosatetraenoic Acid Synthesis Contribute to Endothelial Dysfunction in Androgen-Induced Hypertension](https://doi.org/10.1161/HYPERTENSIONAHA.107.089599) | Singh et al. | 2007 |
 | [What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?](https://doi.org/10.1016/s0165-0173%2898%2900019-8) | Berridge & Robinson | 1998 |
 | [Whole nervous system expression of glutamate receptors reveals distinct receptor roles in sensorimotor circuits](https://doi.org/10.1523/ENEURO.0306-24.2024) | Borba et al. | 2024 |
