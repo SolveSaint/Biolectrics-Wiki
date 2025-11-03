@@ -1,6 +1,6 @@
 ---
 created: 11/02/2025 1:55 PM
-updated: 11/02/2025 2:08 PM
+updated: 11/02/2025 7:44 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Neurosteroids---Structural-Control-of-Sodium-and-Calcium-Flow-from-the-Extracellular-Fluid-Through-NMDA-Receptor-Pores
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69079db0-4e10-8329-a452-f5c4fc587f70
 title: Structural Control of Sodium and Calcium Flow from the Extracellular Fluid Through NMDA Receptor Pores
