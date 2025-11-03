@@ -91,11 +91,12 @@
     transition: none !important;
   }
 }
-/* --- Fix: remove left rail on folders to stop the curved bracket artifact --- */
+
+/* Remove left rail on folders to stop the curved bracket artifact */
 .explorer-content .explorer-ul > li > .folder-container,
 .explorer-content ul.content > li > .folder-container {
-  box-shadow: none !important;   /* no inset rail on folders */
-  border-left: none !important;  /* ensure no border-rail either */
+  box-shadow: none !important;
+  border-left: none !important;
 }
 
 /* Keep the rail only on FILE blocks (no flashing) */
@@ -111,25 +112,37 @@
   left: 14px;  /* past 12px indent + 2px rail */
 }
 
-/* limit long tag lists with a soft fade */
+/* ===================================================================== */
+/*                          TAG LIST FADE + TOGGLE                       */
+/* ===================================================================== */
+
+/* Animate height and keep layout stable */
 .tag-list, .tags {
   transition: max-height 0.25s ease;
+  overflow: hidden;
   position: relative;
+  will-change: max-height;
 }
 
-.tag-list:not([style*="max-height: none"])::after,
-.tags:not([style*="max-height: none"])::after {
+/* Only show the fade when collapsed */
+.tag-list.tags-collapsed::after,
+.tags.tags-collapsed::after {
   content: "";
   position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 56px;
+  left: 0; right: 0; bottom: 0;
+  height: var(--tags-fade-height, 24px);
   pointer-events: none;
-  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light));
+  /* lighter, shorter fade so small tag sets stay readable */
+  background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.18));
 }
 
-/* toggle button */
+/* Remove overlay when expanded */
+.tags-expanded::after { display: none !important; }
+
+/* Hide extra tag pills when JS applies .tag-hidden */
+.tag-hidden { display: none !important; }
+
+/* Toggle button */
 .expand-tags-btn {
   display: inline-block;
   margin-top: 8px;
@@ -139,27 +152,7 @@
   background: transparent;
   border: 0;
   padding: 4px 0;
+  transition: color 0.15s ease;
 }
 
-.expand-tags-btn:hover { color: var(--dark); }
-
-/* --- Tag list limiter + fade + button (single, deduped) --- */
-
-/* hide extra tag pills */
-.tag-hidden { display: none !important; }
-
-/* collapsed gradient */
-.tags.tags-collapsed, .tag-list.tags-collapsed { position: relative; }
-.tags.tags-collapsed::after, .tag-list.tags-collapsed::after {
-  content: ""; position: absolute; left: 0; right: 0; bottom: -4px;
-  height: 48px; pointer-events: none;
-  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--light));
-}
-.tags-expanded::after { display: none !important; }
-
-/* button */
-.expand-tags-btn {
-  display: inline-block; margin-top: 8px; font-size: .9rem; cursor: pointer;
-  color: var(--gray); background: transparent; border: 0; padding: 4px 0;
-}
 .expand-tags-btn:hover { color: var(--dark); }

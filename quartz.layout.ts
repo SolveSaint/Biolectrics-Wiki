@@ -17,7 +17,7 @@ const byDateAndAlphabetical = (a: any, b: any) => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [GoatCounterSPA(),TagListToggle({ maxVisible: 8 })],
+  afterBody: [GoatCounterSPA(),TagListToggle({ maxVisible: 8, durationMs: 240, fadeHeightPx: 20 })],
   footer: Component.Footer({
     links: { "Biolectrics Discord": "https://discord.gg/AZHPuPykMn" },
   }),
