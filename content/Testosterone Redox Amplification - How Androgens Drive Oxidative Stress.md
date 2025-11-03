@@ -1,6 +1,6 @@
 ---
 created: 11/02/2025 7:44 PM
-updated: 11/02/2025 9:35 PM
+updated: 11/02/2025 9:37 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Testosterone-Redox-Amplification---How-Androgens-Drive-Oxidative-Stress
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e/c/6907d350-ab0c-8331-8fac-ef3dc3694e0c
 title: Testosterone Redox Amplification - How Androgens Drive Oxidative Stress
@@ -29,7 +29,7 @@ tags:
 ### Overview
 Testosterone acts as a redox amplifier, not a redox protector. Mechanistic studies show that androgen signaling increases reactive oxygen species (ROS) through NADPH oxidase (NOX1 and NOX2), CYP4A-driven 20-HETE metabolism, xanthine oxidase, and mitochondrial activation [(Tostes et al., 2016)](https://doi.org/10.1152/ajpregu.00392.2014).  
 
-A short-term antioxidant effect is sometimes observed in testosterone-deficient states and represents a compensatory NRF2 response that is brief. When androgen signaling continues, ROS generation becomes dominant, antioxidant systems weaken, and vascular, neural, and mitochondrial injury follow. These studies together show that testosterone drives oxidative throughput in a dose- and duration-dependent manner.
+A short-term antioxidant effect is sometimes observed in testosterone-deficient states and represents a compensatory NRF2 response. When androgen signaling continues, ROS generation becomes dominant, antioxidant systems weaken, and vascular, neural, and mitochondrial injury follow. These studies together show that testosterone drives oxidative throughput in a dose- and duration-dependent manner.
 
 ### Mechanistic Synthesis
 **1. Testosterone chronically elevates ROS.**  
