@@ -1,6 +1,6 @@
 ---
 created: 11/02/2025 7:44 PM
-updated: 11/02/2025 7:48 PM
+updated: 11/02/2025 7:49 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Testosterone-Redox-Amplification---How-Androgens-Drive-Oxidative-Stress
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e/c/6907d350-ab0c-8331-8fac-ef3dc3694e0c
 title: Testosterone Redox Amplification - How Androgens Drive Oxidative Stress
