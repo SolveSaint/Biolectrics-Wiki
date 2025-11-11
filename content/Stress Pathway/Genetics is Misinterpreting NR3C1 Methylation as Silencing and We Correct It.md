@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 3:40 PM
+updated: 11/11/2025 3:45 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -40,7 +40,7 @@ When cortisol binds to GR, the cortisol–GR complex activates NR3C1 and moves i
 [Duvarci & Paré (2007)](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) demonstrated that corticosterone acting through GRs increases the excitability of basolateral amygdala neurons by reducing GABA inhibition and enhancing intrinsic excitability.  
 [Rosenkranz et al. (2010)](https://doi.org/10.1016/j.biopsych.2010.02.008) showed that chronic stress causes persistent amygdala hyperexcitability, confirming that GR-driven excitatory bias generalizes across limbic circuits.  
 
-Together, these findings show that NR3C1 signaling upregulates glutamatergic systems through both **transcriptional and trafficking mechanisms**, not suppression.
+These findings show that NR3C1 signaling upregulates glutamatergic systems through both **transcriptional and trafficking mechanisms**.
 
 ---
 
@@ -48,14 +48,14 @@ Together, these findings show that NR3C1 signaling upregulates glutamatergic sys
 - **Primary Effect:** NR3C1 activation increases NMDA and AMPA receptor signaling through two linked mechanisms:  
   1. **Transcriptional Upregulation:** GR–Nur77–CREB co-activation at GRE/CRE/NurRE sites increases expression of NMDA (GRIN) and AMPA (GRIA) receptor subunit genes.  
   2. **Trafficking Enhancement:** GR-induced SGK1/3 activation stimulates Rab4-dependent recycling, moving more NMDA and AMPA receptors to the synaptic surface.  
-- **Secondary Effect:** GR synthesis decreases as a compensatory balance during active signaling, not as the main regulatory goal.  
+- **Secondary Effect:** GR synthesis decreases as a compensatory balance during active signaling.  
 - **Methylation Role:** Under chronic stress, methylation develops at these same GRE and CRE/NurRE regions, locking NR3C1 into its excitatory transcriptional mode even after cortisol withdrawal, sustaining the high-activity state.  
 - **Result:** Cells remain hyperexcitable with elevated receptor density, stronger calcium influx, and higher energy demand, predisposing them to excitotoxic damage.
 
 ---
 
 ### Why This Matters  
-The current genetic framing limits NR3C1 methylation to GR downregulation and impaired feedback control of the HPA axis. This ignores the real functional outcome — sustained excitatory enhancement.  
+The current genetic framing limits NR3C1 methylation to GR downregulation and impaired feedback control of the HPA axis. This ignores the real functional outcome of sustained excitatory enhancement.  
 
 The integration of **Yuen (2009, 2011, 2017)**, **Heling (2025)**, **Rosenkranz (2010)**, and **Duvarci & Paré (2007)** reveals a full-spectrum model:  
 - **Acute phase:** NR3C1 rapidly increases receptor trafficking and excitatory throughput via SGK–Rab4, producing short-term cognitive enhancement.  
