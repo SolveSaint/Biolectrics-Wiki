@@ -1,6 +1,6 @@
 ---
 created: 2025-10-25
-updated: 10/31/2025 12:46 AM
+updated: 11/11/2025 5:14 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Diabetes---Mitochondrial-Overload-%E2%80%94-Cortisol%E2%80%93Glutamate-Convergence
 title: Diabetes - Mitochondrial Overload — Cortisol–Glutamate Convergence
 tags:
@@ -73,7 +73,7 @@ Cortisol not only elevates glucose but also **enhances excitatory neurotransmiss
 
 Thus, both systemic hyperglycemia and synaptic hyperexcitability converge on the same target: mitochondrial overload.  
 Glucose floods mitochondria with substrate, while glutamate floods them with calcium.  
-Both inputs open the same oxidative pathway—ETC congestion, ROS overflow, and energetic failure.
+Both inputs open the same oxidative pathway of ETC congestion, ROS overflow, and energetic failure.
 
 ---
 
@@ -101,7 +101,7 @@ Both conditions represent **overexcitation of cellular metabolism** beyond susta
 
 ## Conclusion  
 Diabetes, in mechanistic terms, represents peripheral excitotoxicity.  
-Cortisol’s dual effects—raising glucose systemically and glutamate synaptically—create a unified model of energy-driven cellular degeneration.  
+Cortisol’s dual effects of raising glucose systemically and glutamate synaptically, create a unified model of energy-driven cellular degeneration.  
 Mitochondria act as the convergence point where stress, metabolism, and excitatory signaling meet.  
 Therapeutic correction requires dampening both arms: reducing substrate overload and moderating excitatory throughput.  
 This framework bridges metabolic and neurodegenerative diseases under a single bioelectric–metabolic continuum.

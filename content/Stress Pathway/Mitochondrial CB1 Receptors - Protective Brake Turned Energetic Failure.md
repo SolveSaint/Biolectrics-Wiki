@@ -1,6 +1,6 @@
 ---
 created: 10/25/2025 5:22 PM
-updated: 10/31/2025 12:45 AM
+updated: 11/11/2025 5:16 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Mitochondrial-CB1-Receptors---Protective-Brake-Turned-Energetic-Failure
 title: Mitochondrial CB1 Receptors - Protective Brake Turned Energetic Failure
 tags:
@@ -23,7 +23,7 @@ tags:
 The mitochondrial cannabinoid receptor (mtCB₁R) functions as a regulator of oxidative phosphorylation, calcium uptake, and ROS balance.  During acute stress it provides transient protection by lowering electron transport activity and limiting ROS output.  During chronic activation, it suppresses mitochondrial throughput too long, leading to ATP depletion, calcium dysregulation, and a rise in ROS escapage from the electron transport chain that overwhelms antioxidant defenses.  Once the escapage rate passes a critical threshold, the system transitions from protection to self-destruction.
 
 ## Mitochondrial Oxygen Escapage
-Under normal physiological conditions, **only about 1–3 % of the oxygen entering the mitochondrial electron transport chain “escapes”** as partially reduced intermediates—primarily superoxide anion (O₂⁻).  Mn-SOD and Cu/Zn-SOD convert this to H₂O₂, which is then neutralized by catalase and glutathione peroxidase.  When the ETC is slowed or blocked (as by chronic mtCB₁R activation), electron flow becomes uneven and oxygen escapage sharply rises.  This turns the 1–3 % baseline into a runaway oxidative feedback loop.  
+Under normal physiological conditions, **only about 1–3 % of the oxygen entering the mitochondrial electron transport chain “escapes”** as partially reduced intermediates, primarily superoxide anion (O₂⁻).  Mn-SOD and Cu/Zn-SOD convert this to H₂O₂, which is then neutralized by catalase and glutathione peroxidase.  When the ETC is slowed or blocked (as by chronic mtCB₁R activation), electron flow becomes uneven and oxygen escapage sharply rises.  This turns the 1–3 % baseline into a runaway oxidative feedback loop.  
 
 At this point:
 - **Superoxide generation exceeds SOD detoxification capacity.**
@@ -54,7 +54,7 @@ Thus, the “1–3 % escapage” figure represents the razor edge between physio
 - Endocannabinoids rise as a compensatory brake, activating mtCB₁R to limit mitochondrial activity.  
 - Initially protective, this compensation becomes **energetic self-asphyxiation** when sustained.  
 - The 1–3 % oxygen escapage climbs to double-digits as ETC imbalance grows, producing H₂O₂, peroxynitrite, and hydroxyl radicals.  
-- The combined effect of **cortisol-driven excitation** and **endocannabinoid-driven suppression** collapses mitochondrial homeostasis from both ends — a **dual-axis failure**.
+- The combined effect of **cortisol-driven excitation** and **endocannabinoid-driven suppression** collapses mitochondrial homeostasis from both ends in a **dual-axis failure**.
 
 ## Therapeutic Implications
 - **Short-term mtCB₁R activation** (low-dose agonism) may protect neurons during acute oxidative stress by transiently limiting respiration.  
