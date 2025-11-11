@@ -1,7 +1,8 @@
 ---
 created: 2025-10-26 1:35 PM
-updated: 10/31/2025 12:42 AM
+updated: 11/11/2025 4:55 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Oxidative-Remodeling-of-NMDA-Receptors-and-Lipid-Membranes---A-Mechanistic-Link-Between-ROS-and-Network-Desynchronization
+chatref: https://chatgpt.com/c/68fe58d0-4384-8325-bea7-41f015931459
 title: Oxidative Remodeling of NMDA Receptors and Lipid Membranes - A Mechanistic Link Between ROS and Network Desynchronization
 tags:
   - Excitotoxicity
@@ -19,7 +20,6 @@ tags:
 ---
 
 ### Summary
-
 
 [Dushanov et al. (2025)](https://doi.org/10.1134/S1063779625700625) used molecular dynamics simulations to show that oxidative stress deforms NMDA receptor structures and their surrounding phospholipid membranes. Oxidation of amino acid residues and phosphatidylcholine molecules reduced Mg²⁺ binding affinity and disrupted ion channel conductance. In hippocampal CA3 network models, these alterations caused measurable changes in theta and gamma oscillatory amplitude, reflecting electrical desynchronization.
 
@@ -62,17 +62,19 @@ Together, these works show that receptor oxidation is not a side effect of excit
 
 ---
 
-### Key References
-
-1. [Dushanov E.B. et al., *Effect of Oxidative Stress on the Structure of Glutamate Receptors and Membranes in Neural Cells*, *Phys. Part. Nuclei*, 2025.](https://doi.org/10.1134/S1063779625700625)   
-2. [Volinsky R. et al., *Oxidized Phosphatidylcholines Facilitate Phospholipid Flip-Flop in Liposomes*, *Biophys. J.*, 2011.](https://doi.org/10.1016/j.bpj.2011.07.051)   
-3. [Ehrenshaft M. et al., *Modification of Protein Tryptophan Residues by Reactive Oxygen Species*, *Free Radic. Biol. Med.*, 2015.](https://doi.org/10.1016/j.freeradbiomed.2015.08.003)  
-4. [Mayer M.L. & Westbrook G.L., *Permeation and Block of NMDA Receptor Channels by Divalent Cations*, *J. Physiol.*, 1987.](https://doi.org/10.1113/jphysiol.1987.sp016883)   
-5. [*Revisiting Glutamate Excitotoxicity in ALS and Age-Related Neurodegeneration*, *Front. Neurosci.*, 2023.](https://doi.org/10.3390/ijms25115587)  
-6. [*Phospholipase A₂ Activation and Arachidonic Acid Release During Oxidative Stress*, *Free Radic. Biol. Med.*, 2020.](https://doi.org/10.1016/S0014-5793(02)03413-0)
-
----
-
 ### Insight
 
 Oxidative remodeling of the NMDA receptor is the structural embodiment of excitotoxicity. The receptor and its membrane scaffold act as the physical transducers of chronic stress chemistry into electrical disorder. These findings confirm that redox imbalance transforms excitatory systems from synchronized oscillators into incoherent fields, defining the molecular-to-network mechanism of neurodegenerative onset.
+
+---
+
+### References
+
+| Title | Authors | Year |
+|---|---|:--:|
+| [Effect of Oxidative Stress on the Structure of Glutamate Receptors and Membranes in Neural Cells](https://doi.org/10.1134/S1063779625700625) | Dushanov et al. | 2025 |
+| [Oxidized Phosphatidylcholines Facilitate Phospholipid Flip-Flop in Liposomes](https://doi.org/10.1016/j.bpj.2011.07.051) | Volinsky et al. | 2011 |
+| [Permeation and block of N-methyl-D-aspartic acid receptor channels by divalent cations in mouse cultured central neurones.](https://doi.org/10.1113/jphysiol.1987.sp016883) | Mayer & Westbrook | 1987 |
+| [Phospholipase A2 regulation of arachidonic acid mobilization](https://doi.org/10.1016/S0014-5793%2802%2903413-0) | Balsinde et al. | 2002 |
+| [Revisiting Glutamate Excitotoxicity in Amyotrophic Lateral Sclerosis and Age-Related Neurodegeneration](https://doi.org/10.3390/ijms25115587) | Arnold et al. | 2024 |
+| [Tripping Up Trp: Modification of Protein Tryptophan Residues by Reactive Oxygen Species, Modes of Detection, and Biological Consequences](https://doi.org/10.1016/j.freeradbiomed.2015.08.003) | Ehrenshaft et al. | 2015 |
