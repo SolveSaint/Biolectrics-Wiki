@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 4:05 PM
+updated: 11/11/2025 4:10 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -63,7 +63,7 @@ The current genetic framing limits NR3C1 methylation to GR downregulation and im
 
 The integration of **Yuen (2009, 2011, 2017)**, **Heling (2025)**, **Tronson (2010)**, and **Sun (2017)** shows that NR3C1 governs both **ionotropic and metabotropic glutamate receptor upregulation**. It is the central driver of excitatory signaling under stress, expanding its role beyond NMDA/AMPA control to mGluR5-dependent modulation of calcium and synaptic coupling.  
 
-By reframing NR3C1 as the **excitatory governor** of stress physiology, this model resolves the contradiction between “silencing” and “activation.” Methylation is not suppression — it is the **locking-in of the excitatory transcriptional and coupling state**, converting transient adaptation into a permanent excitatory bias.
+By reframing NR3C1 as the **excitatory governor** of stress physiology, this model resolves the contradiction between “silencing” and “activation.” Methylation is not suppression. It is the **locking-in of the excitatory transcriptional and coupling state**, converting transient adaptation into a permanent excitatory bias.
 
 ---
 
