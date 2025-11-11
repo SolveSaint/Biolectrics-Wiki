@@ -1,8 +1,9 @@
 ---
 created: 2025-10-26 1:35 PM
-updated: 11/11/2025 4:55 PM
+updated: 11/11/2025 4:58 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Oxidative-Remodeling-of-NMDA-Receptors-and-Lipid-Membranes---A-Mechanistic-Link-Between-ROS-and-Network-Desynchronization
 chatref: https://chatgpt.com/c/68fe58d0-4384-8325-bea7-41f015931459
+---
 title: Oxidative Remodeling of NMDA Receptors and Lipid Membranes - A Mechanistic Link Between ROS and Network Desynchronization
 tags:
   - Excitotoxicity
@@ -45,9 +46,9 @@ This study fits at the endpoint of the established stress–glutamate–ROS path
 
 Stress → Cortisol → NR3C1 activation → Upregulated NMDA/AMPA receptors → Elevated calcium influx → Mitochondrial overload → ROS production → **Oxidative modification of receptor and lipid membrane** → **Theta/gamma desynchronization** → Neurodegeneration.
 
-Findings from [**Revisiting Glutamate Excitotoxicity in ALS and Age-Related Neurodegeneration (Frontiers in Neuroscience, 2023)**](https://doi.org/10.3390/ijms25115587) describe how persistent glutamate signaling drives mitochondrial ROS and lipid peroxidation through phospholipase A₂ activation. 
+Findings from [**Arnold et al. (2024)**](https://doi.org/10.3390/ijms25115587) describe how persistent glutamate signaling drives mitochondrial ROS and lipid peroxidation through phospholipase A₂ activation.  
 
-[**Phospholipase A₂ Activation and Arachidonic Acid Release During Oxidative Stress (Free Radical Biol Med, 2020)**](https://doi.org/10.1016/S0014-5793(02)03413-0) further confirms that peroxynitrite generation and lipid breakdown amplify this receptor-level instability.
+[**Balsinde et al. (2002)**](https://doi.org/10.1016/S0014-5793%2802%2903413-0) further confirm that peroxynitrite generation and lipid breakdown amplify this receptor-level instability.
 
 Together, these works show that receptor oxidation is not a side effect of excitotoxicity but the structural transformation through which excitotoxicity manifests at the network level.
 
