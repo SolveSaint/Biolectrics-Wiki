@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 3:55 PM
+updated: 11/11/2025 4:05 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
