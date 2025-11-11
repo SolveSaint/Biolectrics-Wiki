@@ -1,6 +1,6 @@
 ---
 created: 2025-10-25
-updated: 11/11/2025 5:08 PM
+updated: 11/11/2025 5:09 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/LRRC8A-and-the-Chloride-Brake-on-NMDA-Activity---Stress,-Osmotic-Load,-and-Excitotoxic-Gain
 chatref: https://chatgpt.com/c/68fd2f78-76d0-832d-87a5-cfb99a99f45a
 title: LRRC8A and the Chloride Brake on NMDA Activity - Stress, Osmotic Load, and Excitotoxic Gain
