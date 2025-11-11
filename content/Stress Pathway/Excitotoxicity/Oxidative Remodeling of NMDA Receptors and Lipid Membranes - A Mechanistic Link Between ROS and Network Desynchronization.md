@@ -3,7 +3,6 @@ created: 2025-10-26 1:35 PM
 updated: 11/11/2025 4:58 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Oxidative-Remodeling-of-NMDA-Receptors-and-Lipid-Membranes---A-Mechanistic-Link-Between-ROS-and-Network-Desynchronization
 chatref: https://chatgpt.com/c/68fe58d0-4384-8325-bea7-41f015931459
----
 title: Oxidative Remodeling of NMDA Receptors and Lipid Membranes - A Mechanistic Link Between ROS and Network Desynchronization
 tags:
   - Excitotoxicity
