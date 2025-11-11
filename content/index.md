@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/11/2025 4:22 PM
+updated: 11/11/2025 4:26 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -20,7 +20,7 @@ tags:
 ---
 
 ## The Stress Methylome and Inherited Regulation
-At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as **NR3C1**, **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
+At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as [**NR3C1**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It), **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
 
 These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome therefore serves as a biological record of environmental load, embedding experience into gene regulation.  
 
