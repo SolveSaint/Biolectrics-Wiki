@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 1:38 PM
+updated: 11/11/2025 1:47 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/NR3C1-Methylation-Silencing-is-Misinterpreted-in-Genetics-and-We-Reframe-It
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
 tags:
