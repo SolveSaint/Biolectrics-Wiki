@@ -2,7 +2,7 @@
 created: 11/11/2025 1:08 PM
 updated: 11/11/2025 1:14 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/NR3C1-Methylation-Silencing-Misinterpretation-The-True-Excitatory-Lock-In-Mechanism
-title: NR3C1 Methylation Silencing Misinterpretation - The True Excitatory Lock-In Mechanism
+title: Genetics NR3C1 Methylation Silencing Misinterpretation and Reframing
 tags:
   - Biolectrics
   - Quartz
