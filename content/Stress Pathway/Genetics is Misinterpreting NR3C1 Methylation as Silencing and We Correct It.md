@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 2:37 PM
+updated: 11/11/2025 2:42 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -29,9 +29,9 @@ Methylation of NR3C1 does suppress GR production, but that effect is **secondary
 ### The Source of the Misinterpretation  
 When cortisol binds to GR, the cortisol–GR complex activates NR3C1 and moves into the nucleus. It binds to glucocorticoid response elements (GREs) on DNA and forms a transcriptional partnership with **Nur77** and **CREB**.  
 
-**Heling et al. (2025)** demonstrated that GR modulates Nur77’s DNA residence time and co-occupies CRE/NurRE promoter elements, the same regulatory regions that control **glutamate receptor genes**.  
-**Parra-Damas et al. (2025)** showed that **CRTC1/CREB** directly couples neuronal activity to transcription of **GRIN1 (NMDA-GluN1)**.  
-**Català-Solsona et al. (2023)** found that **Nr4a2** activation increases **AMPA receptor (GluA1)** expression through a Ca²⁺/CRTC1/CREB pathway.  
+[Heling et al. (2025)](https://doi.org/10.1101/2025.10.28.685035) demonstrated that GR modulates Nur77’s DNA residence time and co-occupies CRE/NurRE promoter elements, the same regulatory regions that control **glutamate receptor genes**.  
+[Parra-Damas et al. (2025)](https://doi.org/10.1101/2025.01.19.633774) showed that **CRTC1/CREB** directly couples neuronal activity to transcription of **GRIN1 (NMDA-GluN1)**.  
+[Català-Solsona et al. (2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) found that **Nr4a2** activation increases **AMPA receptor (GluA1)** expression through a Ca²⁺/CRTC1/CREB pathway.  
 
 Together, these studies demonstrate that NR3C1 activation through cortisol and GR drives **CRE/Nur77-mediated transcription of NMDA and AMPA receptor genes**.  
 
@@ -56,3 +56,12 @@ The GR reduction is real but **secondary**. The main function of NR3C1 methylati
 This reinterpretation resolves the paradox between “gene silencing” and “increased neural activity.” It integrates molecular findings showing GR–Nur77–CREB cooperation with observed increases in glutamatergic receptor expression and excitotoxic load.  
 
 By recognizing NR3C1 as the **transcriptional hub that drives excitatory persistence**, the biology of chronic stress becomes clear. Methylation at NR3C1 does not disable control; it locks the system into **continuous excitation**, the foundation of excitotoxicity, degeneration, and the inherited vulnerability to stress-related disease.
+
+---
+
+### References  
+| Title | Authors | Year |
+|---|---|:--:|
+| [Activity-Dependent Nr4a2 Induction Modulates Synaptic Expression of AMPA Receptors and Plasticity via a Ca2+/CRTC1/CREB Pathway](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) | Català-Solsona et al. | 2023 |
+| [Modulation of Nur77-DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
+| [Transcriptional and Synaptic Regulation of NMDA Glutamate Receptor-Mediated Hippocampal Plasticity and Memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
