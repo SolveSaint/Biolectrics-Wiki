@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 3:30 PM
+updated: 11/11/2025 3:32 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -52,7 +52,7 @@ Together, these findings show that NR3C1 signaling upregulates glutamatergic sys
 ---
 
 ### Why This Matters  
-The current genetic framing limits NR3C1 methylation to GR downregulation and impaired feedback control of the HPA axis. This ignores the real functional outcome — sustained excitatory enhancement.  
+The current genetic framing limits NR3C1 methylation to GR downregulation and impaired feedback control of the HPA axis. This ignores the real functional outcome which is sustained excitatory enhancement.  
 
 The integration of **Yuen (2009, 2011)**, **Heling (2025)**, and related studies reveals a full-spectrum model:  
 - **Acute phase:** NR3C1 rapidly increases receptor trafficking and excitatory throughput via SGK–Rab4.  
