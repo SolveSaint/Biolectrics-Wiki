@@ -1,6 +1,6 @@
 ---
 created: 10/20/2025 7:42 PM
-updated: 10/30/2025 8:21 PM
+updated: 11/11/2025 5:12 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Baseline-Receptor-Expression---GRIN-and-GRIA-Genes-%E2%80%94-Developmental-Baseline-of-NMDA-and-AMPA-Receptor-Expression
 title: Baseline Receptor Expression - GRIN and GRIA Genes - Developmental Baseline of NMDA and AMPA Receptor Expression
 tags:
@@ -37,7 +37,7 @@ Both gene families are **transcriptionally active during embryonic development**
 
 ### Prenatal to Early Postnatal
 - **GRIN1 (NR1)** expression begins early in neurogenesis (E14–E16 in rodents). It is **essential for life**, as NMDA receptors guide synapse formation and neuronal survival.
-- **GRIN2B** dominates early postnatal stages, producing NMDA receptors with long open times and high Ca²⁺ conductance — ideal for developmental plasticity.
+- **GRIN2B** dominates early postnatal stages, producing NMDA receptors with long open times and high Ca²⁺ conductance which is ideal for developmental plasticity.
 - **GRIN2A** gradually replaces GRIN2B after birth, shortening current duration and stabilizing network excitability.
 - **GRIA2** expression rises after birth, rendering AMPA receptors less Ca²⁺-permeable and protecting maturing neurons from excitotoxic injury.
 
