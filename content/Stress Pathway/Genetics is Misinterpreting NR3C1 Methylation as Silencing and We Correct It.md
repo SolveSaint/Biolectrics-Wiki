@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 3:28 PM
+updated: 11/11/2025 3:30 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -37,7 +37,7 @@ When cortisol binds to GR, the cortisol–GR complex activates NR3C1 and moves i
 [Parra-Damas et al. (2025)](https://doi.org/10.1101/2025.01.19.633774) demonstrated that **CRTC1/CREB** directly regulates **GRIN1 (NMDA-GluN1)** transcription, coupling neuronal activity to excitatory gene expression.  
 [Català-Solsona et al. (2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) showed that **Nr4a2** activation increases **AMPA receptor (GluA1)** expression via a Ca²⁺/CREB pathway.  
 
-Together, these findings show that NR3C1 signaling upregulates glutamatergic systems through both **transcriptional and trafficking mechanisms**, not suppression.
+Together, these findings show that NR3C1 signaling upregulates glutamatergic systems through both **transcriptional and trafficking mechanisms**.
 
 ---
 
