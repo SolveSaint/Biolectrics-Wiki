@@ -1,6 +1,6 @@
 ---
 created: 2025-10-25
-updated: 10/30/2025 7:27 PM
+updated: 11/11/2025 5:11 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/AR-V7-GR-Complex-Hair-Loss-Hypothesis-in-Follicle-Stress-and-Miniaturization
 title: AR-V7-GR Complex Hair Loss Hypothesis in Follicle Stress and Miniaturization
 tags:
@@ -73,7 +73,7 @@ Oxidative stress + inflammation → Follicular miniaturization
 ## Relation to the Stress–Glutamate–NR3C1 Model
 - The follicle represents a **peripheral excitatory microcircuit**.  
 - DHT-AR activation corresponds to **overdriven excitatory tone**, analogous to glutamate overactivity in neurons.  
-- Under stress, if cortisol substitutes for DHT through GR–AR-V7 coupling, the same **excitotoxic-style degeneration** occurs—progressive mitochondrial strain, calcium imbalance, and cell shrinkage.  
+- Under stress, if cortisol substitutes for DHT through GR–AR-V7 coupling, the same **excitotoxic-style degeneration** occurs causing progressive mitochondrial strain, calcium imbalance, and cell shrinkage.  
 - Chronic activation would trigger **NR3C1 hypermethylation** in follicular cells, recording the stress load epigenetically and stabilizing the miniaturized phenotype.
 
 ---
