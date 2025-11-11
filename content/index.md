@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/11/2025 2:07 PM
+updated: 11/11/2025 4:20 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -21,12 +21,15 @@ tags:
 
 ## The Stress Methylome and Inherited Regulation
 At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as **NR3C1**, **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
-These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome therefore serves as a biological record of environmental load, embedding experience into gene regulation.
+
+These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome therefore serves as a biological record of environmental load, embedding experience into gene regulation.  
+
+For a detailed correction of how **NR3C1 methylation** has been misunderstood as gene silencing and how it truly functions as an **excitatory lock-in mechanism driving NMDA, AMPA, and mGluR5 receptor upregulation**, see [**NR3C1 Methylation – The True Excitatory Lock-In Mechanism**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It)
 
 ---
 
 ## Cellular Excitation and Redox Coupling
-Chronic stress transforms the glutamate–calcium–ROS axis from an adaptive communication system into a self reinforcing feedback loop.  
+Once NR3C1 signaling raises glutamate receptor activity, chronic stress transforms the glutamate–calcium–ROS axis from an adaptive communication system into a self-reinforcing feedback loop.  
 
 1. **Excitation**. Stress and cortisol heighten glutamatergic signaling through glutamate receptors (NMDA, AMPA, TRPV6).  
 2. **Calcium entry**. The resulting depolarization increases calcium inflow and mitochondrial uptake.  
