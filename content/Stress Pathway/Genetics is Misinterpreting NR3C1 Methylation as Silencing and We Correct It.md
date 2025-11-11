@@ -1,6 +1,6 @@
 ---
 created: 11/11/2025 1:08 PM
-updated: 11/11/2025 4:10 PM
+updated: 11/11/2025 6:37 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69135504-5218-832d-b127-3e8cd14ff4de
 title: Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It
@@ -43,7 +43,7 @@ When cortisol binds to GR, the cortisol–GR complex activates NR3C1 and moves i
 [Duvarci & Paré (2007)](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) showed that corticosterone acting through GR increases excitability in basolateral amygdala neurons by reducing inhibition and amplifying intrinsic excitability.  
 [Rosenkranz et al. (2010)](https://doi.org/10.1016/j.biopsych.2010.02.008) found that chronic stress causes persistent amygdala hyperexcitability, confirming that GR-driven excitatory bias generalizes across limbic circuits.  
 
-Together, these findings show that NR3C1 signaling upregulates glutamatergic systems through **transcriptional, trafficking, and coupling mechanisms**, not suppression.
+Together, these findings show that NR3C1 signaling upregulates glutamatergic systems through **transcriptional, trafficking, and coupling mechanisms**.
 
 ---
 
