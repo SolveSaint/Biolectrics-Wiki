@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 3:27 PM
+updated: 11/12/2025 3:43 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -43,17 +43,17 @@ In this view, neurodevelopmental and neurodegenerative conditions exist on a sha
 Cells that operate with elevated glutamate receptor density enter a new functional state where electrical signaling, calcium flow, and redox activity become tightly connected. What begins as normal communication between neurons can shift into a cycle that strengthens itself over time.  
 
 1. **Excitation.** Stress and cortisol raise activity in glutamate receptors such as NMDA, AMPA, and mGluR5 [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106). These receptors open channels that allow positive ions to flow into the cell, creating electrical signals. Cortisol also activates SGK1 and Rab4, which move more NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50), making each signal stronger than before.  
-2. **Calcium entry.** Every burst of excitation brings calcium ions into the cell. This calcium then enters mitochondria, the energy-producing centers, which increase their activity to keep up with demand. Voltage-gated calcium channels and TRPV6 add further inflow once the cell is depolarized.  
+2. **Calcium entry.** Every burst of excitation brings calcium ions into the cell. This calcium then enters mitochondria, the energy producing centers, which increase their activity to keep up with demand. Voltage gated calcium channels and TRPV6 add further inflow once the cell is depolarized.  
 3. **ROS generation.** Mitochondria under heavy calcium load work harder and release reactive oxygen species, or ROS, as a natural byproduct of energy production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). If the load remains high, ROS begin to accumulate faster than antioxidant systems can remove them. At the same time, stress uncouples mGluR5 from its normal scaffold, leaving it active longer and extending calcium signaling inside the cell [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).  
-4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox-sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation [(Magdaleno Roman & Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
+4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation [(Magdaleno Roman & Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
-During this period of intense activity, two regulators, **CREB** and **Nur77** (NR4A1), become active in the nucleus. They bind DNA regions that respond to stimulation and increase transcription of genes that support synaptic strength, including the NMDA receptor subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). These factors translate neural activity into long-term structural change.  
+During this period of intense activity, two regulators, **CREB** and **Nur77** (NR4A1), become active in the nucleus. They bind DNA regions that respond to stimulation and increase transcription of genes that support synaptic strength, including the NMDA receptor subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). These factors translate neural activity into long term structural change.  
 
 When glucocorticoid receptor feedback is intact, GR proteins interact with Nur77 and limit how long it remains on DNA, keeping gene expression under hormonal control [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, Nur77 and CREB maintain receptor synthesis independently, so activity itself sustains the excitatory state [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023).  
 
-As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self-reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
+As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
-This transformation turns short-term adaptation into a lasting cellular identity that defines excitability and metabolic tone.
+This transformation turns short term adaptation into a lasting cellular identity that defines excitability and metabolic tone.
 
 ---
 
@@ -64,7 +64,7 @@ Noradrenaline and cortisol rise together, heightening glutamatergic signaling an
 
 Cortisol activates glucocorticoid receptors in prefrontal cortex neurons, inducing **SGK1** expression that drives **Rab4 mediated** recycling of NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). Each stress episode therefore increases synaptic receptor density and excitatory gain, improving short term cognitive performance while raising baseline calcium throughput. Noradrenaline amplifies this effect by opening calcium channels through β receptor activation, synchronizing excitatory and metabolic activity across the network [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138).  
 
-This adaptive enhancement is not restricted to psychological stress. Even moderate physiological stressors such as fever or hyperthermia increase AMPA receptor mediated synaptic strength in the prefrontal cortex, accompanied by higher expression of heat shock proteins and improved cognitive resilience during aging [(Du et al., 2025)](https://doi.org/10.14336/AD.2025.0591). Exercise produces a similar bidirectional modulation of glutamatergic signaling. At moderate intensity, training enhances NMDA and AMPA receptor phosphorylation, improves astrocytic glutamate clearance, and normalizes dysregulated excitatory tone. At excessive intensity, the same process becomes maladaptive as cortical glutamate and calcium rise together, increasing mitochondrial load and reactive oxygen species production [(Yua et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
+This adaptive enhancement is not restricted to psychological stress. Even moderate physiological stressors such as fever or hyperthermia increase AMPA receptor mediated synaptic strength in the prefrontal cortex, accompanied by higher expression of heat shock proteins and improved cognitive resilience during aging [(Du et al., 2025)](https://doi.org/10.14336/AD.2025.0591). Exercise produces a similar bidirectional modulation of glutamatergic signaling. At moderate intensity, training enhances NMDA and AMPA receptor phosphorylation, improves astrocytic glutamate clearance, and normalizes dysregulated excitatory tone. At excessive intensity, the same process becomes maladaptive as cortical glutamate and calcium rise together, increasing mitochondrial load and reactive oxygen species production [(Yu et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
 
 With repeated activation, the stress pathway enters **Nur77 dominance**, where glucocorticoid receptor feedback weakens and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this autonomous control, allowing neural activity itself to maintain enhancement without continuous hormonal drive.  
 
@@ -72,7 +72,7 @@ At this stage, each burst of activity reinforces throughput, but the effects are
 Cells under heavier use experience greater calcium entry, mitochondrial load, and ROS generation, producing a gradient of enhancement and vulnerability.  
 Regions with strong antioxidant reserves sustain amplified cognition, muscular force, and sensory precision. Areas with weaker antioxidant capacity or excessive activation begin to accumulate oxidative damage first [(Rosenkranz et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.02.008).  
 
-Exercise demonstrates this dual potential clearly. Moderate exercise enhances synaptic transmission and neuroplasticity through glutamatergic receptor phosphorylation, whereas exhaustive regimens risk excitotoxicity by overdriving calcium and redox systems. The same excitatory machinery that underlies adaptation also defines the limits of resilience [(Yua et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
+Exercise demonstrates this dual potential clearly. Moderate exercise enhances synaptic transmission and neuroplasticity through glutamatergic receptor phosphorylation, whereas exhaustive regimens risk excitotoxicity by overdriving calcium and redox systems. The same excitatory machinery that underlies adaptation also defines the limits of resilience [(Yu et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
 
 The system therefore behaves as a dynamically synchronized circuit where excitatory signaling, metabolic output, and redox pressure scale upward together, but local stability depends on antioxidant strength and usage load. Cortical and motor circuits with balanced redox tone achieve heightened performance, while overused or poorly buffered regions approach excitotoxic thresholds.  
 
@@ -88,10 +88,10 @@ The **enhancement window** marks the balance point between supernormal performan
 
 The same excitatory synchronization that heightens cognition, strength, and perception during the enhancement phase becomes unstable once oxidative pressure exceeds recovery capacity. The system must then shift its metabolism to survive, determining whether cells adapt, degenerate, or transform. When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
 
-In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035); [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). This overactivation reshapes DNA methylation across stress-related loci such as **NR3C1** and **BDNF**, forming part of the stress methylome that records the history of excitatory exposure.  
-These methylation changes open chromatin at excitatory promoters, enabling activity-dependent transcription of NMDA and AMPA receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
+In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035); [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). This overactivation reshapes DNA methylation across stress related loci such as **NR3C1** and **BDNF**, forming part of the stress methylome that records the history of excitatory exposure.  
+These methylation changes open chromatin at excitatory promoters, enabling activity dependent transcription of NMDA and AMPA receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
 
-In **somatic and tumor cells**, greater metabolic plasticity allows a transition into a glycolytic survival state. Glucose flow is redirected through glycolysis, glutaminolysis, and **SLC7A11**-mediated cystine uptake to preserve ATP and glutathione. This adaptation sustains survival under oxidative strain and can evolve into a malignant, redox-stabilized state.
+In **somatic and tumor cells**, greater metabolic plasticity allows a transition into a glycolytic survival state. Glucose flow is redirected through glycolysis, glutaminolysis, and **SLC7A11** mediated cystine uptake to preserve ATP and glutathione. This adaptation sustains survival under oxidative strain and can evolve into a malignant, redox stabilized state.
 
 ---
 
@@ -109,8 +109,7 @@ In the **heart**, calcium overload and mitochondrial ROS drive membrane oxidatio
 
 In the **kidney**, chronic cortisol signaling activates NR3C1 and NADPH oxidase, generating ROS and inflammatory mediators that accelerate glomerular damage and fibrosis [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). These changes mirror the same excitatory pattern seen in neural and cardiac tissue.  
 
-In **rheumatoid tissue**, dysregulated p53 signaling removes restraint on NOX activity, intensifying ROS production and driving both angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Elevated cortisol and catecholamines further amplify this effect by activating glucocorticoid and β adrenergic receptors, which increase NADPH oxidase activity and mitochondrial ROS generation. The result is a compounding cycle where stress hormones and p53 loss converge on the same oxidative pathway, sustaining inflammation and vascular proliferation through redox signaling. This establishes rheumatoid pathology as another expression of stress-driven ROS overload, a local redox circuit that mirrors the excitatory feedback loop in neurons.
-
+In **rheumatoid tissue**, dysregulated p53 signaling removes restraint on NOX activity, intensifying ROS production and driving both angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Elevated cortisol and catecholamines further amplify this effect by activating glucocorticoid and β adrenergic receptors, which increase NADPH oxidase activity and mitochondrial ROS generation. The result is a compounding cycle where stress hormones and p53 loss converge on the same oxidative pathway, sustaining inflammation and vascular proliferation through redox signaling. This establishes rheumatoid pathology as another expression of stress driven ROS overload, a local redox circuit that mirrors the excitatory feedback loop in neurons.  
 
 In **cancer**, hydrogen peroxide directly damages DNA and oxidizes chromatin, producing strand breaks and base lesions that trigger nuclear quality control. Oxidative stress then induces mitochondrial depolarization and **noncanonical autophagy** that selectively removes nuclear components, including lamins, via nucleophagy. This allows tumor cells to survive high ROS by degrading damaged nuclear material [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264).  
 
@@ -120,7 +119,7 @@ As oxidative stress deepens, the transition to **ferroptosis** begins. Chronic a
 
 Lipid peroxidation then couples ROS and iron in a self reinforcing feedback loop that consumes cardiomyocytes and neurons alike. The same chemistry underlies ischemic heart injury, chronic kidney disease, rheumatoid inflammation, and tumor transformation. Excitotoxicity and ferroptosis are therefore sequential stages of a single redox collapse.  
 
-When antioxidant systems such as **GPX4** and **glutathione** fail, oxidative signaling crosses the threshold into irreversible chemistry. Hydrogen peroxide meets iron to form hydroxyl radicals that drive chain lipid oxidation, nuclear degradation, and ferroptotic death. This defines the terminal phase of the stress–glutamate–ROS cascade.
+When antioxidant systems such as **GPX4** and **glutathione** fail, oxidative signaling crosses the threshold into irreversible chemistry. Hydrogen peroxide meets iron to form hydroxyl radicals that drive chain lipid oxidation, nuclear degradation, and ferroptotic death. This defines the terminal phase of the stress glutamate ROS cascade.
 
 ---
 
@@ -131,7 +130,38 @@ Stress acts as both a signal and a metabolic burden. By tracing how glutamate, c
 
 Interventions that rebalance this circuit include  
 - restoring glucocorticoid receptor feedback  
-- reducing β-adrenergic tone  
+- reducing β adrenergic tone  
 - modulating glutamate receptor activity  
-- enhancing mitochondrial antioxidant capacity
+- enhancing mitochondrial antioxidant capacity  
 
+---
+
+| Title | Authors | Year |
+|---|---|:--:|
+| [Activity-Dependent Nr4a2 Induction Modulates Synaptic Expression of AMPA Receptors and Plasticity via a Ca2+/CRTC1/CREB Pathway](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) | Català-Solsona et al. | 2023 |
+| [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
+| [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
+| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang & Sun | 2025 |
+| [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
+| [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
+| [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
+| [Glucocorticoid receptor gene (NR3C1) DNA methylation in association with trauma, psychopathology, transcript expression, or genotypic variation: A systematic review](https://doi.org/10.1016/j.neubiorev.2018.08.017) | Watkeys et al. | 2018 |
+| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci & Paré | 2007 |
+| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman & Chapa González | 2024 |
+| [Glutamatergic and GABAergic Synapses in the Human Spinal Dorsal Horn Revealed With Immunohistochemistry](https://doi.org/10.1002/cne.70091) | Davis et al. | 2025 |
+| [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
+| [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
+| [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
+| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
+| [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
+| [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
+| [Modulation of Nur77-DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
+| [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
+| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
+| [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in Triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
+| [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
+| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura & Keaney | 2011 |
+| [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
+| [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
+| [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
+| [Transcriptional and synaptic regulation of NMDA glutamate receptor-mediated hippocampal plasticity and memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
