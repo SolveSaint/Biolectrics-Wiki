@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 10:07 AM
+updated: 11/12/2025 10:29 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -36,15 +36,15 @@ In this way, the stress methylome operates as a biological memory system. It pre
 Cells that operate with elevated glutamate receptor density enter a new functional state where electrical signaling, calcium flow, and redox activity become tightly connected. What begins as normal communication between neurons can shift into a cycle that strengthens itself over time.  
 
 1. **Excitation.** Stress and cortisol raise activity in glutamate receptors such as NMDA, AMPA, and mGluR5 [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106). These receptors open channels that allow positive ions to flow into the cell, creating electrical signals. Cortisol also activates SGK1 and Rab4, which move more NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50), making each signal stronger than before.  
-2. **Calcium entry.** Every burst of excitation brings calcium ions into the cell. This calcium then enters mitochondria, the energy-producing centers, which increase their activity to keep up with demand. Voltage gated calcium channels and TRPV6 add further inflow once the cell is depolarized.  
-3. **ROS generation.** Mitochondria under heavy calcium load work harder and release reactive oxygen species, or ROS, as a natural byproduct of energy production. If the load remains high, ROS begin to accumulate faster than antioxidant systems can remove them. At the same time, stress uncouples mGluR5 from its normal scaffold, leaving it active longer and extending calcium signaling inside the cell [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).  
-4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox-sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation.
+2. **Calcium entry.** Every burst of excitation brings calcium ions into the cell. This calcium then enters mitochondria, the energy-producing centers, which increase their activity to keep up with demand. Voltage-gated calcium channels and TRPV6 add further inflow once the cell is depolarized.  
+3. **ROS generation.** Mitochondria under heavy calcium load work harder and release reactive oxygen species, or ROS, as a natural byproduct of energy production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). If the load remains high, ROS begin to accumulate faster than antioxidant systems can remove them. At the same time, stress uncouples mGluR5 from its normal scaffold, leaving it active longer and extending calcium signaling inside the cell [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).  
+4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox-sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation [(Magdaleno Roman & Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
 During this period of intense activity, two regulators, **CREB** and **Nur77** (NR4A1), become active in the nucleus. They bind DNA regions that respond to stimulation and increase transcription of genes that support synaptic strength, including the NMDA receptor subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). These factors translate neural activity into long-term structural change.  
 
 When glucocorticoid receptor feedback is intact, GR proteins interact with Nur77 and limit how long it remains on DNA, keeping gene expression under hormonal control [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, Nur77 and CREB maintain receptor synthesis independently, so activity itself sustains the excitatory state [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023).  
 
-As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self-reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated.  
+As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self-reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
 This transformation turns short-term adaptation into a lasting cellular identity that defines excitability and metabolic tone.
 
@@ -75,18 +75,18 @@ The **enhancement window** marks the balance point between supernormal performan
 
 The same excitatory synchronization that heightens cognition, strength, and perception during the enhancement phase becomes unstable once oxidative pressure exceeds recovery capacity. The system must then shift its metabolism to survive, determining whether cells adapt, degenerate, or transform. When oxidative stress exceeds repair capacity, the fate of the cell depends on its metabolic flexibility.  
 
-In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035); [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). This overactivation reshapes DNA methylation across stress related loci such as **NR3C1** and **BDNF**, forming part of the stress methylome that records the history of excitatory exposure.  
-These methylation changes open chromatin at excitatory promoters, enabling activity dependent transcription of NMDA and AMPA receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation.
+In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis because they rely on astrocytic lactate and mitochondrial respiration. Under chronic stress, loss of glucocorticoid receptor feedback allows **Nur77** and **CREB** to occupy and remodel cAMP response elements [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035); [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). This overactivation reshapes DNA methylation across stress-related loci such as **NR3C1** and **BDNF**, forming part of the stress methylome that records the history of excitatory exposure.  
+These methylation changes open chromatin at excitatory promoters, enabling activity-dependent transcription of NMDA and AMPA receptor subunits. Sustained CREB phosphorylation and Nur77 binding maintain receptor synthesis and excitatory tone, locking neurons into a cycle of calcium influx and ROS generation [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
 
-In **somatic and tumor cells**, greater metabolic plasticity allows a transition into a glycolytic survival state. Glucose flow is redirected through glycolysis, glutaminolysis, and **SLC7A11** mediated cystine uptake to preserve ATP and glutathione. This adaptation sustains survival under oxidative strain and can evolve into a malignant, redox stabilized state.
+In **somatic and tumor cells**, greater metabolic plasticity allows a transition into a glycolytic survival state. Glucose flow is redirected through glycolysis, glutaminolysis, and **SLC7A11**-mediated cystine uptake to preserve ATP and glutathione. This adaptation sustains survival under oxidative strain and can evolve into a malignant, redox-stabilized state.
 
 ---
 
 ## ROS and Ferroptotic Progression
 
-Persistent mitochondrial ROS production marks the boundary between adaptation and degeneration. As calcium driven respiration pushes the electron transport chain beyond equilibrium, superoxide and hydrogen peroxide leak from mitochondria. In the presence of free iron, these molecules react through **Fenton chemistry**, producing hydroxyl radicals that initiate lipid peroxidation and collapse of membrane integrity.  
+Persistent mitochondrial ROS production marks the boundary between adaptation and degeneration. As calcium-driven respiration pushes the electron transport chain beyond equilibrium, superoxide and hydrogen peroxide leak from mitochondria. In the presence of free iron, these molecules react through **Fenton chemistry**, producing hydroxyl radicals that initiate lipid peroxidation and collapse of membrane integrity [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
-This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis – Stress to Iron Dysregulation]].  
+This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self-sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria-associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis – Stress to Iron Dysregulation]].  
 
 Once initiated, lipid peroxidation couples ROS and iron in a positive feedback loop that damages cardiomyocytes and neurons alike. The same mechanism underlies ischemic heart injury and neurodegenerative collapse, showing that excitotoxicity and ferroptosis share a single oxidative pathway. This relationship is detailed further in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]] and summarized across neurodegenerative disorders in [[Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary|Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]].  
 
@@ -101,6 +101,6 @@ Stress acts as both a signal and a metabolic burden. By tracing how glutamate, c
 
 Interventions that rebalance this circuit include  
 - restoring glucocorticoid receptor feedback  
-- reducing β adrenergic tone  
+- reducing β-adrenergic tone  
 - modulating glutamate receptor activity  
 - enhancing mitochondrial antioxidant capacity
