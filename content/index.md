@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 9:28 AM
+updated: 11/12/2025 9:51 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -32,16 +32,21 @@ In this way, the stress methylome operates as a biological memory system. It pre
 ---
 
 ## Cellular Excitation and Redox Coupling
-Once NR3C1 signaling raises glutamate receptor activity, chronic stress transforms the glutamate–calcium–ROS axis from an adaptive communication system into a self-reinforcing feedback loop.  
 
-1. **Excitation**. Stress and cortisol heighten glutamatergic signaling through glutamate receptors (NMDA, AMPA, TRPV6).  
-2. **Calcium entry**. The resulting depolarization increases calcium inflow and mitochondrial uptake.  
-3. **ROS generation**. Calcium pressure drives oxidative phosphorylation beyond its safe limit, producing ROS.  
-4. **Damage and remodeling**. ROS oxidize membranes and DNA, activating autophagy, HIF-1α, and c-Myc, leading to metabolic rewiring.  
+Cells that operate with elevated glutamate receptor density enter a new functional state where electrical signaling, calcium flow, and redox activity become tightly connected. What begins as normal communication between neurons can shift into a cycle that strengthens itself over time.  
 
-As excitatory signaling persists, neurons begin encoding their own activity through **Nur77** (NR4A1), an immediate early transcription factor that binds **cAMP response elements (CREs)** and initiates **activity-dependent methylation** across stress-related loci. Nur77 converts transient synaptic activation into long-term transcriptional remodeling, enhancing NMDA and AMPA receptor synthesis and stabilizing excitatory throughput. When glucocorticoid receptor feedback remains intact, GR antagonizes this process by forming protein–protein complexes with Nur77, limiting its DNA residence time and keeping transcription under endocrine control. Once GR signaling weakens, Nur77 dominance allows stimulation itself to govern gene expression, embedding excitation into chromatin structure and driving the self-sustaining excitatory mode.
+1. **Excitation.** Stress and cortisol raise activity in glutamate receptors such as NMDA, AMPA, and mGluR5. These receptors open channels that allow positive ions to flow into the cell, creating electrical signals. Cortisol also activates SGK1 and Rab4, which move more NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50), making each signal stronger than before.  
+2. **Calcium entry.** Every burst of excitation brings calcium ions into the cell. This calcium then enters mitochondria, the energy-producing centers, which increase their activity to keep up with demand. Voltage gated calcium channels and TRPV6 add further inflow once the cell is depolarized.  
+3. **ROS generation.** Mitochondria under heavy calcium load work harder and release reactive oxygen species, or ROS, as a natural byproduct of energy production. If the load remains high, ROS begin to accumulate faster than antioxidant systems can remove them. At the same time, stress uncouples mGluR5 from its normal scaffold, leaving it active longer and extending calcium signaling inside the cell [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).  
+4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox-sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation.
 
-This chain converts a transient adaptive state into a lasting structural change that redefines excitability and metabolism.
+During this period of intense activity, two regulators, **CREB** and **Nur77** (NR4A1), become active in the nucleus. They bind DNA regions that respond to stimulation and increase transcription of genes that support synaptic strength, including the NMDA receptor subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). These factors translate neural activity into long-term structural change.  
+
+When glucocorticoid receptor feedback is intact, GR proteins interact with Nur77 and limit how long it remains on DNA, keeping gene expression under hormonal control [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, Nur77 and CREB maintain receptor synthesis independently, so activity itself sustains the excitatory state [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023).  
+
+As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self-reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated.  
+
+This transformation turns short-term adaptation into a lasting cellular identity that defines excitability and metabolic tone.
 
 ---
 
