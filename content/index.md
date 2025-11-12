@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/11/2025 9:36 PM
+updated: 11/12/2025 8:46 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -20,11 +20,13 @@ tags:
 ---
 
 ## The Stress Methylome and Inherited Regulation
-At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1]], **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
 
-These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome therefore serves as a biological record of environmental load, embedding experience into gene regulation.  
+At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1]], **FKBP5**, and **HSD11B2**, which coordinate glucocorticoid activity, receptor expression, and glutamatergic throughput.  
 
-In genetics, **NR3C1 methylation** has been misunderstood as gene silencing but it truly functions as an **excitatory lock-in mechanism driving NMDA, AMPA, and mGluR5 receptor upregulation**, see [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1 Methylation]]
+These methylation states do more than modulate feedback sensitivity. They establish **excitatory gain**, reinforcing NMDA, AMPA, and mGluR5 receptor upregulation at both synaptic and transcriptional levels. As cortisol binds GR and enters the nucleus, the receptor complex activates GRE sites that amplify excitatory gene transcription. Chronic activation converts these sites into methylated locks that maintain heightened receptor expression even when cortisol subsides.  
+
+The result is a heritable excitatory calibration system. The **stress methylome** functions as a biological record of environmental load, embedding experience into gene regulation that shapes the baseline excitability, emotional reactivity, and metabolic rate of offspring. [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1 methylation]] therefore represents not suppression but **persistent excitatory bias**, sustaining receptor density and calcium throughput across generations.
+
 
 ---
 
