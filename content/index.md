@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 10:29 AM
+updated: 11/12/2025 11:00 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -86,6 +86,13 @@ In **somatic and tumor cells**, greater metabolic plasticity allows a transition
 
 Persistent mitochondrial ROS production marks the boundary between adaptation and degeneration. As calcium-driven respiration pushes the electron transport chain beyond equilibrium, superoxide and hydrogen peroxide leak from mitochondria. In the presence of free iron, these molecules react through **Fenton chemistry**, producing hydroxyl radicals that initiate lipid peroxidation and collapse of membrane integrity [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
+In the **neuron**, excitotoxic overload begins when persistent glutamate signaling drives NMDA and AMPA receptor activation, producing calcium entry that overwhelms mitochondrial buffering and initiates ROS generation [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
+The same oxidative sequence operates across other organ systems.  
+In the **heart**, calcium overload and mitochondrial ROS drive membrane oxidation and cell death in cardiomyocytes [(Peoples et al., 2019)](https://doi.org/10.1038/s12276-019-0355-7); iron accumulation and ferritinophagy intensify ferroptotic injury [(Sawicki et al., 2023)](https://doi.org/10.1161/CIRCRESAHA.122.321667); and redox imbalance is a defining feature of cardiac pathology [(Sugamura & Keaney, 2011)](https://doi.org/10.1016/j.freeradbiomed.2011.05.004); [(Hu et al., 2021)](https://doi.org/10.3389/fcvm.2021.710963); [(Yan et al., 2022)](https://doi.org/10.1155/2022/5124553).  
+In the **kidney**, chronic cortisol exposure produces the same pattern of NR3C1 activation, mitochondrial overload, and ROS-driven inflammation [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259).  
+In **cancer**, oxidative stress promotes mitochondrial depolarization, nuclear autophagy, and chromatin degradation through noncanonical pathways [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264).  
+Across these systems, ROS acts as the **final common denominator** linking endocrine, excitatory, and metabolic stress to structural degeneration. Excitotoxicity, ferroptosis, and inflammation therefore represent different expressions of a single redox pathway that unites neurological, cardiovascular, renal, and oncologic disease.  
+
 This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self-sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria-associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis – Stress to Iron Dysregulation]].  
 
 Once initiated, lipid peroxidation couples ROS and iron in a positive feedback loop that damages cardiomyocytes and neurons alike. The same mechanism underlies ischemic heart injury and neurodegenerative collapse, showing that excitotoxicity and ferroptosis share a single oxidative pathway. This relationship is detailed further in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]] and summarized across neurodegenerative disorders in [[Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary|Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]].  
@@ -104,3 +111,4 @@ Interventions that rebalance this circuit include
 - reducing β-adrenergic tone  
 - modulating glutamate receptor activity  
 - enhancing mitochondrial antioxidant capacity
+
