@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 11:00 AM
+updated: 11/12/2025 12:14 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -53,19 +53,23 @@ This transformation turns short-term adaptation into a lasting cellular identity
 ## Stress Enhancement
 
 When excitation and redox control remain in balance, stress elevates the brain and body into a state of amplified function.  
-Noradrenaline and cortisol rise together, heightening glutamatergic signaling and receptor sensitivity [(Duvarci & Paré, 2007)](https://doi.org/10.1523/JNEUROSCI.0680-07.2007). This combination forms the biological basis of peak focus, emotion, creativity, and physical strength.  
+Noradrenaline and cortisol rise together, heightening glutamatergic signaling and receptor sensitivity [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106); [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). This combination forms the biological basis of peak focus, emotion, creativity, and physical strength.  
 
-Noradrenaline opens calcium channels through β receptor activation, while cortisol binds glucocorticoid receptors and increases recycling of glutamate receptors (NMDA, AMPA) to the membrane. With repeated activation, the stress pathway enters **Nur77 dominance**, where glucocorticoid receptor feedback weakens and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this autonomous control, allowing neural activity itself to maintain enhancement without continuous hormonal drive.  
+Cortisol activates glucocorticoid receptors in prefrontal cortex neurons, inducing **SGK1** expression that drives **Rab4 mediated** recycling of NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). Each stress episode therefore increases synaptic receptor density and excitatory gain, improving short term cognitive performance while raising baseline calcium throughput. Noradrenaline amplifies this effect by opening calcium channels through β receptor activation, synchronizing excitatory and metabolic activity across the network [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138).  
+
+This adaptive enhancement is not restricted to psychological stress. Even moderate physiological stressors such as fever or hyperthermia increase AMPA receptor mediated synaptic strength in the prefrontal cortex, accompanied by higher expression of heat shock proteins and improved cognitive resilience during aging [(Du et al., 2025)](https://doi.org/10.14336/AD.2025.0591). The same excitatory signaling framework, including receptor trafficking, calcium influx, and protein translation, underlies these enhancements across stress modalities.  
+
+With repeated activation, the stress pathway enters **Nur77 dominance**, where glucocorticoid receptor feedback weakens and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this autonomous control, allowing neural activity itself to maintain enhancement without continuous hormonal drive.  
 
 At this stage, each burst of activity reinforces throughput, but the effects are uneven across tissues.  
 Cells under heavier use experience greater calcium entry, mitochondrial load, and ROS generation, producing a gradient of enhancement and vulnerability.  
 Regions with strong antioxidant reserves sustain amplified cognition, muscular force, and sensory precision. Areas with weaker antioxidant capacity or excessive activation begin to accumulate oxidative damage first [(Rosenkranz et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.02.008).  
 
-The system therefore behaves as a dynamically synchronized circuit where excitatory signaling, metabolic output, and redox pressure scale upward together, but local stability depends on antioxidant strength and usage load. Cortical and motor circuits with balanced redox tone achieve heightened performance, while overused or poorly buffered regions approach excitotoxic thresholds.
+The system therefore behaves as a dynamically synchronized circuit where excitatory signaling, metabolic output, and redox pressure scale upward together, but local stability depends on antioxidant strength and usage load. Cortical and motor circuits with balanced redox tone achieve heightened performance, while overused or poorly buffered regions approach excitotoxic thresholds.  
 
 When antioxidant systems such as glutathione, GPX4, and mitochondrial repair remain robust, this enhanced state produces sustained creativity, emotional depth, endurance, and refined coordination. The organism channels stress energy efficiently, recycling ROS as a constructive signal that supports learning and adaptation.  
 
-If antioxidant capacity declines, the same circuit becomes unstable. Excess calcium and ROS oxidize membranes, depolarize mitochondria, and disrupt signaling coherence. The longer the system remains in the Nur77-driven mode without redox recovery, the higher the risk of excitotoxic collapse and structural degeneration.  
+If antioxidant capacity declines, the same circuit becomes unstable. Excess calcium and ROS oxidize membranes, depolarize mitochondria, and disrupt signaling coherence. The longer the system remains in the Nur77 driven mode without redox recovery, the higher the risk of excitotoxic collapse and structural degeneration.  
 
 The **enhancement window** marks the balance point between supernormal performance and decay. It is not determined by hormone level, but by the strength of antioxidant defense relative to excitatory demand.
 
