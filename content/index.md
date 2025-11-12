@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 3:00 PM
+updated: 11/12/2025 3:27 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -64,13 +64,15 @@ Noradrenaline and cortisol rise together, heightening glutamatergic signaling an
 
 Cortisol activates glucocorticoid receptors in prefrontal cortex neurons, inducing **SGK1** expression that drives **Rab4 mediated** recycling of NMDA and AMPA receptors to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). Each stress episode therefore increases synaptic receptor density and excitatory gain, improving short term cognitive performance while raising baseline calcium throughput. Noradrenaline amplifies this effect by opening calcium channels through β receptor activation, synchronizing excitatory and metabolic activity across the network [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138).  
 
-This adaptive enhancement is not restricted to psychological stress. Even moderate physiological stressors such as fever or hyperthermia increase AMPA receptor mediated synaptic strength in the prefrontal cortex, accompanied by higher expression of heat shock proteins and improved cognitive resilience during aging [(Du et al., 2025)](https://doi.org/10.14336/AD.2025.0591). The same excitatory signaling framework, including receptor trafficking, calcium influx, and protein translation, underlies these enhancements across stress modalities.  
+This adaptive enhancement is not restricted to psychological stress. Even moderate physiological stressors such as fever or hyperthermia increase AMPA receptor mediated synaptic strength in the prefrontal cortex, accompanied by higher expression of heat shock proteins and improved cognitive resilience during aging [(Du et al., 2025)](https://doi.org/10.14336/AD.2025.0591). Exercise produces a similar bidirectional modulation of glutamatergic signaling. At moderate intensity, training enhances NMDA and AMPA receptor phosphorylation, improves astrocytic glutamate clearance, and normalizes dysregulated excitatory tone. At excessive intensity, the same process becomes maladaptive as cortical glutamate and calcium rise together, increasing mitochondrial load and reactive oxygen species production [(Yua et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
 
 With repeated activation, the stress pathway enters **Nur77 dominance**, where glucocorticoid receptor feedback weakens and neurons begin regulating receptor expression through their own electrical activity. Methylation of CRE regions fixes this autonomous control, allowing neural activity itself to maintain enhancement without continuous hormonal drive.  
 
 At this stage, each burst of activity reinforces throughput, but the effects are uneven across tissues.  
 Cells under heavier use experience greater calcium entry, mitochondrial load, and ROS generation, producing a gradient of enhancement and vulnerability.  
 Regions with strong antioxidant reserves sustain amplified cognition, muscular force, and sensory precision. Areas with weaker antioxidant capacity or excessive activation begin to accumulate oxidative damage first [(Rosenkranz et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.02.008).  
+
+Exercise demonstrates this dual potential clearly. Moderate exercise enhances synaptic transmission and neuroplasticity through glutamatergic receptor phosphorylation, whereas exhaustive regimens risk excitotoxicity by overdriving calcium and redox systems. The same excitatory machinery that underlies adaptation also defines the limits of resilience [(Yua et al., 2025)](https://doi.org/10.1016/j.neuroscience.2025.10.029).  
 
 The system therefore behaves as a dynamically synchronized circuit where excitatory signaling, metabolic output, and redox pressure scale upward together, but local stability depends on antioxidant strength and usage load. Cortical and motor circuits with balanced redox tone achieve heightened performance, while overused or poorly buffered regions approach excitotoxic thresholds.  
 
