@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/11/2025 9:20 PM
+updated: 11/11/2025 9:36 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -15,16 +15,16 @@ tags:
 
 ---
 
-**Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes biolectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Biolectrics-Wiki/content/Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. These processes link the nervous, endocrine, and immune systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.
+**Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes biolectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. These processes link the nervous, endocrine, and immune systems through shared electrical and redox pathways that determine whether a cell adapts, degenerates, or transforms.
 
 ---
 
 ## The Stress Methylome and Inherited Regulation
-At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as [**NR3C1**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It), **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
+At the genetic and epigenetic level, stress leaves a measurable imprint known as the **stress methylome**. Prolonged cortisol signaling alters DNA methylation at key regulatory genes such as [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1]], **FKBP5**, and **HSD11B2**, which control glucocorticoid sensitivity and feedback inhibition.  
 
 These methylation patterns are transmissible between generations, calibrating the baseline excitability, emotional reactivity, and metabolic rate of offspring. The stress methylome therefore serves as a biological record of environmental load, embedding experience into gene regulation.  
 
-In genetics, **NR3C1 methylation** has been misunderstood as gene silencing but it truly functions as an **excitatory lock-in mechanism driving NMDA, AMPA, and mGluR5 receptor upregulation**, see [**NR3C1 Methylation – The True Excitatory Lock-In Mechanism**](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Genetics-is-Misinterpreting-NR3C1-Methylation-as-Silencing-and-We-Correct-It)
+In genetics, **NR3C1 methylation** has been misunderstood as gene silencing but it truly functions as an **excitatory lock-in mechanism driving NMDA, AMPA, and mGluR5 receptor upregulation**, see [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1 Methylation]]
 
 ---
 
@@ -75,15 +75,15 @@ In **somatic and tumor cells**, greater metabolic plasticity allows a transition
 ## ROS and Ferroptotic Progression
 Persistent mitochondrial ROS production marks the boundary between adaptation and degeneration. As calcium driven respiration pushes the electron transport chain beyond equilibrium, superoxide and hydrogen peroxide leak from mitochondria. In the presence of free iron, these molecules react through **Fenton chemistry**, producing hydroxyl radicals that initiate lipid peroxidation and collapse of membrane integrity.  
 
-This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [Ferroptosis – Stress to Iron Dysregulation](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---Stress-to-Iron-dysregulation).  
+This transition represents the entry point to **ferroptosis**, where oxidative stress becomes self sustaining. Chronic activation of **HO-1** through Bach1 signaling releases Fe²⁺ from heme, while loss of **PGRMC1** disrupts heme export through mitochondria associated membranes. These combined effects enlarge the mitochondrial iron pool and accelerate hydroxyl radical formation as described in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - Stress to Iron dysregulation|Ferroptosis – Stress to Iron Dysregulation]].  
 
-Once initiated, lipid peroxidation couples ROS and iron in a positive feedback loop that damages cardiomyocytes and neurons alike. The same mechanism underlies ischemic heart injury and neurodegenerative collapse, showing that excitotoxicity and ferroptosis share a single oxidative pathway. This relationship is detailed further in [Ferroptosis – ROS Convergence in Cardiovascular Disease](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Ferroptosis---ROS-Convergence-in-Cardiovascular-Disease) and summarized across neurodegenerative disorders in [Idiopathic Neurodegeneration and Ferroptosis – Evidence Summary](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/Ferroptosis/Idiopathic-Neurodegeneration--and--Ferroptosis---Evidence-Summary).  
+Once initiated, lipid peroxidation couples ROS and iron in a positive feedback loop that damages cardiomyocytes and neurons alike. The same mechanism underlies ischemic heart injury and neurodegenerative collapse, showing that excitotoxicity and ferroptosis share a single oxidative pathway. This relationship is detailed further in [[Stress Pathway/Excitotoxicity/Ferroptosis/Ferroptosis - ROS Convergence in Cardiovascular Disease|Ferroptosis - ROS Convergence in Cardiovascular Disease]] and summarized across neurodegenerative disorders in [[Stress Pathway/Excitotoxicity/Ferroptosis/Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary|Idiopathic Neurodegeneration & Ferroptosis - Evidence Summary]].  
 
 When antioxidant defenses such as **GPX4** and **glutathione** collapse, oxidative signaling turns into chemistry: hydrogen peroxide meets iron, producing hydroxyl radicals that drive chain lipid oxidation and ferroptotic death. This phase defines the terminal endpoint of the stress–glutamate–ROS cascade.
 
 ---
 
-## Systems Integration and [Therapeutic Entry Points](https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Therapeutics/Therapeutic-Pathways-and-Mechanistic-Targets#condensed-tannin-supplementation-polyphenolic-neutralization-of-ros-and-lipid-peroxidation)
+## Systems Integration and [[Stress Pathway/Therapeutics/Therapeutic Pathways and Mechanistic Targets|Therapeutic Entry Points]]
 Biolectrics connects the brain and body through their shared dependence on electrical energy and redox balance.  
 Stress acts as both a signal and a metabolic burden. By tracing how glutamate, calcium, and ROS interact, the model reveals the common structure behind learning, emotion, resilience, and disease.
 
