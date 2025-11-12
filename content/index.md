@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 3:43 PM
+updated: 11/12/2025 4:20 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -47,9 +47,9 @@ Cells that operate with elevated glutamate receptor density enter a new function
 3. **ROS generation.** Mitochondria under heavy calcium load work harder and release reactive oxygen species, or ROS, as a natural byproduct of energy production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). If the load remains high, ROS begin to accumulate faster than antioxidant systems can remove them. At the same time, stress uncouples mGluR5 from its normal scaffold, leaving it active longer and extending calcium signaling inside the cell [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).  
 4. **Damage and remodeling.** When ROS exceed safe limits, they oxidize membranes and DNA, triggering protective responses such as autophagy and activating redox sensitive transcription factors including HIF-1α and c-Myc. These changes alter metabolism so the cell can cope with sustained excitation [(Magdaleno Roman & Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
-During this period of intense activity, two regulators, **CREB** and **Nur77** (NR4A1), become active in the nucleus. They bind DNA regions that respond to stimulation and increase transcription of genes that support synaptic strength, including the NMDA receptor subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774). These factors translate neural activity into long term structural change.  
+During this period of intense activity, two Nr4a family regulators, CREB and Nur77 (NR4A1), become active in the nucleus. Together with the related factor Nr4a2, they bind activity sensitive regulatory elements and increase transcription of genes that support synaptic strength. This includes increased expression of the NMDA receptor subunit Grin1 [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774) and activity driven enhancement of AMPA receptor trafficking through Nr4a2 dependent signaling [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023). These factors convert neural activity into durable structural change.
 
-When glucocorticoid receptor feedback is intact, GR proteins interact with Nur77 and limit how long it remains on DNA, keeping gene expression under hormonal control [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, Nur77 and CREB maintain receptor synthesis independently, so activity itself sustains the excitatory state [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023).  
+When glucocorticoid receptor feedback is intact, GR proteins interact with Nur77 and limit its time on DNA, keeping transcription under hormonal control [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, Nur77 and CREB sustain synthesis of ionotropic glutamate receptors independently. At the same time, stress uncouples mGluR5 from Homer, extending signaling duration and amplifying calcium entry [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004).  
 
 As receptor numbers grow, calcium entry rises. As calcium increases, mitochondrial work and ROS generation intensify. ROS and ongoing activity in turn promote more receptor production. Unless antioxidant repair and hormonal regulation intervene, this self reinforcing loop stabilizes as a new operating mode where excitation, energy use, and redox chemistry remain permanently elevated [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
