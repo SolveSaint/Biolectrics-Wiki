@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 1:58 PM
+updated: 11/12/2025 2:09 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -24,13 +24,13 @@ tags:
 
 When stress persists, cortisol continuously activates glucocorticoid receptors inside cells. Each binding event sends the receptor complex into the nucleus, where it interacts with specific DNA regions known as glucocorticoid response elements. Over time, this repeated signaling alters methylation patterns on regulatory genes such as [[Stress Pathway/Genetics is Misinterpreting NR3C1 Methylation as Silencing and We Correct It|NR3C1]], **FKBP5**, and **HSD11B2**. Across trauma cohorts, these genes consistently show increased methylation after stress exposure [(Watkeys et al., 2018)](https://doi.org/10.1016/j.neubiorev.2018.08.017).  
 
-This process reshapes how the cell manages excitation. Increased methylation at NR3C1 heightens the transcription of glutamate receptor subunits, particularly NMDA, AMPA, and mGluR5, so that neurons and muscle cells become more electrically responsive. Each wave of cortisol therefore strengthens the capacity for excitatory signaling. When exposure is prolonged, the methylation marks stabilize, turning short-term stress signaling into a lasting pattern of receptor abundance and calcium throughput [(Yuen et al., 2017)](https://doi.org/10.1093/ijnp/pyx052).  
+This process reshapes how the cell manages excitation. Increased methylation at NR3C1 heightens the transcription of glutamate receptor subunits, particularly NMDA, AMPA, and mGluR5, so that neurons and muscle cells become more electrically responsive. Each wave of cortisol therefore strengthens the capacity for excitatory signaling. When exposure is prolonged, the methylation marks stabilize, turning short term stress signaling into a lasting pattern of receptor abundance and calcium throughput [(Yuen et al., 2017)](https://doi.org/10.1093/ijnp/pyx052).  
 
-The resulting configuration of these regulatory marks forms the **stress methylome**—a genomic record of cumulative excitation. It preserves the history of environmental and physiological load within the genome and passes part of that configuration to offspring through inherited methylation states. Children of stressed parents often begin life with higher excitatory tone, enhanced receptor density, and greater metabolic reactivity.  
+The resulting configuration of these regulatory marks forms the **stress methylome**, a genomic record of cumulative excitation. It preserves the history of environmental and physiological load within the genome and passes part of that configuration to offspring through inherited methylation states. Children of stressed parents often begin life with higher excitatory tone, enhanced receptor density, and greater metabolic reactivity. This excitatory inheritance enhances certain capacities: heightened vigilance, faster cognitive throughput, stronger emotional resonance, and more rapid stress responses. The same configuration that improves working memory and sensory sensitivity also increases vulnerability to overload when redox systems weaken.  
 
-In the **developing brain**, this inherited excitatory architecture manifests as early glutamate upregulation. Elevated receptor expression, calcium hyperactivity, and reduced redox control create a persistent state of excitatory gain transmitted through the stress methylome [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). What is clinically defined as **autism** therefore reflects the developmental expression of the same excitatory bias that drives excitotoxicity later in life.  
+In the **developing brain**, this inherited excitatory architecture manifests as early glutamate upregulation. Elevated receptor expression, calcium hyperactivity, and reduced redox control create a persistent state of excitatory gain transmitted through the stress methylome [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). What is clinically defined as **autism** therefore reflects the developmental expression of the same excitatory bias that drives excitotoxicity later in life, an amplified sensitivity state that enhances pattern recognition and local processing at the cost of redox stability.  
 
-In this view, neurodevelopmental and neurodegenerative conditions exist on a shared continuum of excitatory regulation. The difference lies not in mechanism but in timing and capacity for redox recovery. The methylome thus operates as a biological memory system that encodes excitatory history into inheritance, shaping cognition, emotion, and physiology across generations.
+In this view, neurodevelopmental and neurodegenerative conditions exist on a shared continuum of excitatory regulation. The difference lies not in mechanism but in timing, energy balance, and antioxidant reserve. The methylome thus operates as a biological memory system that encodes excitatory history into inheritance, shaping cognition, emotion, and physiology across generations.
 
 ---
 
