@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 2:48 PM
+updated: 11/12/2025 3:00 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -107,7 +107,8 @@ In the **heart**, calcium overload and mitochondrial ROS drive membrane oxidatio
 
 In the **kidney**, chronic cortisol signaling activates NR3C1 and NADPH oxidase, generating ROS and inflammatory mediators that accelerate glomerular damage and fibrosis [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). These changes mirror the same excitatory pattern seen in neural and cardiac tissue.  
 
-In **rheumatoid tissue**, dysregulated p53 signaling removes restraint on NOX activity, intensifying ROS production and driving both angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). The result is a local redox cycle that parallels the excitatory loop in neurons.  
+In **rheumatoid tissue**, dysregulated p53 signaling removes restraint on NOX activity, intensifying ROS production and driving both angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Elevated cortisol and catecholamines further amplify this effect by activating glucocorticoid and β adrenergic receptors, which increase NADPH oxidase activity and mitochondrial ROS generation. The result is a compounding cycle where stress hormones and p53 loss converge on the same oxidative pathway, sustaining inflammation and vascular proliferation through redox signaling. This establishes rheumatoid pathology as another expression of stress-driven ROS overload, a local redox circuit that mirrors the excitatory feedback loop in neurons.
+
 
 In **cancer**, hydrogen peroxide directly damages DNA and oxidizes chromatin, producing strand breaks and base lesions that trigger nuclear quality control. Oxidative stress then induces mitochondrial depolarization and **noncanonical autophagy** that selectively removes nuclear components, including lamins, via nucleophagy. This allows tumor cells to survive high ROS by degrading damaged nuclear material [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264).  
 
