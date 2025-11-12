@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/12/2025 4:20 PM
+updated: 11/12/2025 4:39 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -27,6 +27,10 @@ When stress persists, cortisol continuously activates glucocorticoid receptors i
 This process reshapes how the cell manages excitation. Increased methylation at NR3C1 heightens the transcription of glutamate receptor subunits, particularly NMDA, AMPA, and mGluR5, so that neurons and muscle cells become more electrically responsive. Each wave of cortisol therefore strengthens the capacity for excitatory signaling. When exposure is prolonged, the methylation marks stabilize, turning short term stress signaling into a lasting pattern of receptor abundance and calcium throughput [(Yuen et al., 2017)](https://doi.org/10.1093/ijnp/pyx052).  
 
 The resulting configuration of these regulatory marks forms the **stress methylome**, a genomic record of cumulative excitation. It preserves the history of environmental and physiological load within the genome and passes part of that configuration to offspring through inherited methylation states. Children of stressed parents often begin life with higher excitatory tone, enhanced receptor density, and greater metabolic reactivity. This excitatory inheritance enhances certain capacities: heightened vigilance, faster cognitive throughput, stronger emotional resonance, and more rapid stress responses. The same configuration that improves working memory and sensory sensitivity also increases vulnerability to overload when redox systems weaken.  
+
+### NR4A1 hypomethylation and Nur77 dominance
+
+If NR4A1 is inherited in a hypomethylated, open state, offspring begin life with a promoter that is primed for rapid Nur77 induction. Basal Nur77 levels are higher, and Nur77 dominance emerges earlier whenever glucocorticoid and CREB signaling are engaged. In practical terms, smaller excitatory or hormonal inputs are enough to shift control of glutamate receptor transcription from glucocorticoid response elements to CRE occupied by Nur77 and CREB. This accelerates activity dependent synthesis of NMDA and AMPA receptor subunits, and likely mGluR5 related complexes, amplifying synaptic strength and calcium throughput for a given stimulus [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774); [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023); [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). Transgenerational NR4A1 hypomethylation therefore provides a direct route to inherited Nur77 dominance, where glutamate receptor density, excitatory gain, and ROS production ramp more quickly and more intensely across development.
 
 ---
 
