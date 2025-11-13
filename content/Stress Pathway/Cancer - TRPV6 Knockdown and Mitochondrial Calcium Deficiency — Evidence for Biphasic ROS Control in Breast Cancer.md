@@ -1,7 +1,8 @@
 ---
 created: 2025-10-25 8:00 PM
-updated: 11/11/2025 5:13 PM
+updated: 11/13/2025 8:38 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Cancer---TRPV6-Knockdown-and-Mitochondrial-Calcium-Deficiency-%E2%80%94-Evidence-for-Biphasic-ROS-Control-in-Breast-Cancer
+chatref: https://chatgpt.com/c/68fd5abb-c3c4-8324-a5e0-5500ef10ef51
 title: Cancer - TRPV6 Knockdown and Mitochondrial Calcium Deficiency — Evidence for Biphasic ROS Control in Breast Cancer
 tags:
   - Mitochondria
