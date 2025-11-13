@@ -1,6 +1,6 @@
 ---
 created: 10/30/2025 10:12 AM
-updated: 11/13/2025 11:11 AM
+updated: 11/13/2025 1:11 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Stress-Cancer-Pathway---How-PTSD-and-Chronic-Stress-Can-Be-Mechanically-Linked-to-Cancer
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/68fd5abb-c3c4-8324-a5e0-5500ef10ef51
 title: Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer
@@ -48,7 +48,7 @@ tags:
 ### Overview
 Chronic psychological stress and post traumatic stress disorder engage the same neuroendocrine circuits that regulate excitatory neurotransmission, calcium dynamics, and oxidative metabolism. When sustained, this system shifts from adaptive vigilance to pathological cellular injury. The resulting biochemical state, defined by persistent cortisol and catecholamine signaling, mitochondrial overload, and redox imbalance, creates a mechanistic bridge between stress biology and carcinogenesis.  
 
-Oxidative stress mediated DNA damage can trigger selective degradation of nuclear components through noncanonical autophagy in triple negative breast cancer [(Chen, Turna Narayan et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). This process demonstrates how stress induced ROS drive nuclear autophagy as a survival mechanism under oxidative load. The same redox and autophagic mechanism that drives neuronal degeneration under chronic stress enables malignant cells to adapt and persist.  
+Oxidative stress mediated DNA damage can trigger selective degradation of nuclear components through noncanonical autophagy in triple negative breast cancer [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). This process demonstrates how stress induced ROS drive nuclear autophagy as a survival mechanism under oxidative load. The same redox and autophagic mechanism that drives neuronal degeneration under chronic stress enables malignant cells to adapt and persist.  
 
 Within this framework, cancer emerges when a stress and inflammation driven ROS crisis forces cells into a glycolytic survival program, then persistent but lower ROS in that state activates DNMT enzymes that methylate DNA and lock this survival configuration into a heritable malignant identity.
 
@@ -69,7 +69,7 @@ Within this framework, cancer emerges when a stress and inflammation driven ROS 
    In parallel, inflammation and immune activation induce IDO and TDO, shunting tryptophan into the kynurenine pathway. Upregulation of KMO shifts this pathway toward 3 hydroxykynurenine and quinolinic acid. Quinolinic acid acts as a potent NMDA agonist, further increasing calcium influx and mitochondrial ROS, while 3 hydroxykynurenine adds direct oxidative pressure. Stress and inflammation therefore converge on a shared engine of calcium loading and ROS generation through glutamate receptors and kynurenine pathway metabolites.
 
 4. **Mitochondrial ROS Crisis, DNA Damage, and Nuclear Autophagy**  
-   Once mitochondrial buffering capacity is exceeded, ROS oxidize guanine bases and cause strand breaks, leading to mutagenesis. This high intensity ROS phase is where DNA damage is most likely to occur, before or during the initial metabolic switch. ROS also serve as a signal for noncanonical autophagy that selectively degrades nuclear material [(Chen, Turna Narayan et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). This form of nuclear autophagy preserves tumor viability under extreme oxidative stress by removing heavily damaged nuclear components while maintaining a replicative core.  
+   Once mitochondrial buffering capacity is exceeded, ROS oxidize guanine bases and cause strand breaks, leading to mutagenesis. This high intensity ROS phase is where DNA damage is most likely to occur, before or during the initial metabolic switch. ROS also serve as a signal for noncanonical autophagy that selectively degrades nuclear material [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). This form of nuclear autophagy preserves tumor viability under extreme oxidative stress by removing heavily damaged nuclear components while maintaining a replicative core.  
    Navarro Yepes et al. showed that redox signaling directly regulates autophagic flux, determining whether the outcome is survival or cell death depending on ROS intensity [(Navarro-Yepes et al., 2014)](https://doi.org/10.1089/ars.2014.5837). Chronic stress maintains ROS within a range that promotes survival, genomic instability, and tumor progression.
 
 5. **Glycolytic Survival Switch and Two Phase ROS Dynamics**  
@@ -129,7 +129,7 @@ This framework establishes molecular causality linking psychological trauma and 
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
 | [Cancer metabolism: looking forward](https://doi.org/10.1038/s41568-021-00378-6) | Martínez-Reyes and Chandel | 2021 |
 | [Amino acid transporter SLC7A11/xCT at the crossroads of regulating redox homeostasis and nutrient dependency of cancer cells](https://doi.org/10.1186/s40880-018-0288-x) | Koppula et al. | 2018 |
-| [Oxidative stress mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chen, Turna Narayan et al. | 2025 |
+| [Oxidative stress mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
 | [Oxidative stress, redox signaling, and autophagy: cell death versus survival](https://doi.org/10.1089/ars.2014.5837) | Navarro-Yepes et al. | 2014 |
 | [Modulation of Nur77 to DNA interactions by the glucocorticoid receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
 | [The neuron–astrocyte metabolic unit as a cornerstone of brain energy metabolism in health and disease](https://doi.org/10.1038/s42255-025-01404-9) | Bolaños & Magistretti | 2025 |
