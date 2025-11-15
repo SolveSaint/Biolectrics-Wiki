@@ -1,6 +1,6 @@
 ---
 created: 10/27/2025 12:19 AM
-updated: 11/03/2025 1:41 PM
+updated: 11/15/2025 8:23 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Research-Paper-Database
 title: Research Paper Database
 tags:
@@ -18,6 +18,7 @@ tags:
 | [Activation of Glutamatergic PPT Neurons and Their Projections Promotes Arousal, and Distinct Wake Behaviors](https://doi.org/10.1093/sleep/zsaa056.154) | Kroeger et al. | 2020 |
 | [Activation of Peripheral NMDA Receptors Contributes to Human Pain and Rat Afferent Discharges Evoked by Injection of Glutamate into the Masseter Muscle](https://doi.org/10.1152/jn.00353.2003) | Cairns et al. | 2003 |
 | [Activity-dependent dendritic spine neck changes are correlated with synaptic strength](https://doi.org/10.1073/pnas.1321869111) | Araya et al. | 2014 |
+| [Activity-Dependent Nr4a2 Induction Modulates Synaptic Expression of AMPA Receptors and Plasticity via a Ca2+/CRTC1/CREB Pathway](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) | Català-Solsona et al. | 2023 |
 | [Acute cannabidiol (CBD), tetrahydrocannabinol (THC) and their mixture (THC:CBD) exert differential effects on brain activity and blood flow in rats: A translational neuroimaging study](https://doi.org/10.1177/02698811251360745) | MacNicol et al. | 2025 |
 | [Acute mechanical sensitization of peripheral nociceptors by aldosterone through non-genomic activation of membrane bound mineralocorticoid receptors in naive rats](https://doi.org/10.1016/j.neuropharm.2016.03.032) | Shaqura et al. | 2016 |
 | [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
@@ -61,6 +62,7 @@ tags:
 | [Brain and Muscle Metabolic Changes by FDG-PET in Stiff Person Syndrome Spectrum Disorders](https://doi.org/10.3389/fneur.2021.692240) | Wang et al. | 2021 |
 | [Brain endothelial gap junction coupling enables rapid vasodilation propagation during neurovascular coupling](https://doi.org/10.1016/j.cell.2025.06.030) | Krolak et al. | 2025 |
 | [Brain metabolic differences between pure bulbar and pure spinal ALS: a 2-\[18F\]FDG-PET study](https://doi.org/10.1007/s00415-022-11445-9) | Canosa et al. | 2023 |
+| [Brain metabolism modulates neuronal excitability in a mouse model of pyruvate dehydrogenase deficiency](https://doi.org/10.1126/scitranslmed.aan0457) | Jakkamsetti et al. | 2019 |
 | [Brainstem and Spinal Cord Circuitry Regulating REM Sleep and Muscle Atonia](https://doi.org/10.1371/journal.pone.0024998) | Krenzer et al. | 2011 |
 | [Brainstem cholinergic modulation of muscle tone in infant rats](https://doi.org/10.1111/j.1460-9568.2007.05566.x) | Gall et al. | 2007 |
 | [Calcium dynamics unplugged: NCLX in disease and therapeutic frontiers](https://doi.org/10.1007/s11033-025-11188-6) | Majumder | 2025 |
@@ -143,6 +145,7 @@ tags:
 | [An effective method for enhancing metabolic activity of anammox bacteria: Accelerating heme biosynthesis by glutamate](https://doi.org/10.1016/j.jenvman.2025.127301) | Zhang et al. | 2025 |
 | [Effects of Combined Treatment With Selective Androgen and Estrogen Receptor Modulators Ostarine and Raloxifen on Bone Tissue In Ovariectomized Rats](https://doi.org/10.1007/s00223-025-01431-4) | Hoffmann et al. | 2025 |
 | [The effects of D-Cycloserine on corticospinal excitability after repeated spaced intermittent theta-burst transcranial magnetic stimulation: A randomized controlled trial in healthy individuals](https://doi.org/10.1038/s41386-023-01575-7) | Wrightson et al. | 2023 |
+| [Effects of endurance training on metabolic enzyme activity and transporter protein levels in the skeletal muscles of orchiectomized mice - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1880654624001604?via%253Dihub) |  |  |
 | [Effects of estrogen on endothelial prostanoid production and cyclooxygenase-2 and heme oxygenase-1 expression](https://doi.org/10.1016/j.prostaglandins.2012.01.006) | Marcantoni et al. | 2012 |
 | [Efficacy and tolerability of riluzole in psychiatric disorders: A systematic review and preliminary meta-analysis](https://doi.org/10.1016/j.psychres.2019.06.020) | De Boer et al. | 2019 |
 | [Emerging Roles of GluN3B NMDA Receptor Subunit in the Central Nervous System](https://doi.org/10.1007/s12264-025-01523-z) | Huang et al. | 2025 |
@@ -168,6 +171,7 @@ tags:
 | [Evolutionary and functional differentiation of the glutamate receptor-like family in tea (Camellia sinensis) plants and other plants](https://doi.org/10.1007/s10142-025-01696-w) | Deng et al. | 2025 |
 | [Examining the unique contribution of parent anxiety sensitivity on adolescent neural responses during an emotion regulation task](https://doi.org/10.1017/s0954579425000227) | Church et al. | 2025 |
 | [Excitatory projections from the amygdala to neurons in the nucleus pontis oralis in the rat: an intracellular study](https://doi.org/10.1016/j.neuroscience.2011.09.029) | Xi et al. | 2011 |
+| [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
 | [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
 | [An Expert-guided Hierarchical Graph Attention Network for Post-traumatic Stress Disorder Highly-associative Genetic Biomarkers Identification](https://doi.org/10.1101/2023.01.30.23285175) | Zhang et al. | 2023 |
 | [Exploration of Key Genes and Molecular Mechanisms in Mice with Perioperative Neurocognitive Disorders Treated with Remimazolam Based on Transcriptomics and Experimental Verification](https://doi.org/10.2147/DDDT.S541958) | Yu et al. | 2025 |
@@ -206,6 +210,7 @@ tags:
 | [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci & Paré | 2007 |
 | [Glucocorticoids improve sperm performance in physiological and pathological conditions: their role in sperm fight/flight response](https://doi.org/10.5115/acb.23.164) | Rago et al. | 2024 |
 | [Glutamate agonist causes irreversible degeneration of inner hair cells](https://doi.org/10.1097/wnr.0b013e32833017ce) | Hyodo et al. | 2009 |
+| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman & Chapa González | 2024 |
 | [Glutamate and Parkinson's disease](https://doi.org/10.1007/BF02740748) | Blandini et al. | 1996 |
 | [Glutamate as a Therapeutic Substrate in Migraine](https://doi.org/10.3390/ijms26073023) | Karsan et al. | 2025 |
 | [Glutamate decreases oxidative stress and lipid droplet formation in astrocytes](https://doi.org/10.1242/jcs.263983) | Rubio-Atonal et al. | 2025 |
@@ -297,6 +302,7 @@ tags:
 | [Microglia reactivity is brain region and sex specific in the context of chronic stress](https://doi.org/10.1038/s41598-025-18000-2) | Zhang et al. | 2025 |
 | [Midbrain circuits that set locomotor speed and gait selection](https://doi.org/10.1038/nature25448) | Caggiano et al. | 2018 |
 | [Mineralocorticoid receptor antagonism of vamorolone: Evidence from LIONHEART and VISION-DMD clinical trials](https://doi.org/10.1016/j.steroids.2025.109689) | de Vera et al. | 2025 |
+| [Mineralocorticoid receptor signalling in hypertension](https://doi.org/10.3329/jacedb.v4i20.84876) | Fuller | 2025 |
 | [Mineralocorticoid receptor-mediated changes in membrane properties of rat CA1 pyramidal neurons in vitro.](https://doi.org/10.1073/pnas.87.12.4495) | Joëls & de Kloet | 1990 |
 | [Mineralocorticoid receptors are indispensable for nongenomic modulation of hippocampal glutamate transmission by corticosterone](https://doi.org/10.1073/pnas.0507572102) | Karst et al. | 2005 |
 | [Mitochondria-associated endoplasmic reticulum membrane (MAM)-associated calpains system in preeclampsia](https://doi.org/10.1186/s12884-025-08244-1) | Zhang et al. | 2025 |
@@ -307,6 +313,7 @@ tags:
 | [Modulation of Nur77-DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
 | [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
 | [Molecular and genetic characterization of sex-linked orange coat color in the domestic cat](https://doi.org/10.1101/2024.11.21.624608) | Kaelin et al. | 2024 |
+| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Morphine regulates astrocyte transcriptional dynamics in the ventral tegmental area by stimulation of glucocorticoid signaling](https://doi.org/10.1101/2025.09.22.677814) | Tuscher et al. | 2025 |
 | [Multi‐Omic Analysis of Glutamate Excitotoxicity in Primary Neuronal Cultures](https://doi.org/10.1111/jnc.70110) | Nguyen et al. | 2025 |
 | [Multimodal examination of daily stress rhythms in chronic Cannabis users](https://doi.org/10.1007/s00213-024-06709-3) | Glodosky et al. | 2024 |
@@ -389,6 +396,7 @@ tags:
 | [Relationship of Hair Cortisol Concentration With Perceived and Somatic Stress Indices: Cross-Sectional Pilot Study](https://doi.org/10.2196/63811) | Bergquist et al. | 2025 |
 | [Relationships between Stress Granules, Oxidative Stress, and Neurodegenerative Diseases](https://doi.org/10.1155/2017/1809592) | Chen & Liu | 2017 |
 | [REM sleep physiology and selective neuronal vulnerability in amyotrophic lateral sclerosis](https://doi.org/10.1136/jnnp-2020-323100) | Turner & Al-Chalabi | 2020 |
+| [Repeated Stress Causes Cognitive Impairment by Suppressing Glutamate Receptor Expression and Function in Prefrontal Cortex](https://doi.org/10.1016/j.neuron.2011.12.033) | Yuen et al. | 2012 |
 | [Reticulospinal Projections to Spinal Motor Nuclei](https://doi.org/10.1146/annurev.ph.41.030179.001015) | Peterson | 1979 |
 | [A review of the role of orexin system in pain modulation](https://doi.org/10.1016/j.biopha.2017.03.053) | Razavi & Hosseinzadeh | 2017 |
 | [Revisiting Glutamate Excitotoxicity in Amyotrophic Lateral Sclerosis and Age-Related Neurodegeneration](https://doi.org/10.3390/ijms25115587) | Arnold et al. | 2024 |
@@ -423,6 +431,7 @@ tags:
 | [Spinal α2δ-1 induces GluA3 degradation to regulate assembly of calcium-permeable AMPA receptors and pain hypersensitivity](https://doi.org/10.1172/JCI193349) | Zhou et al. | 2025 |
 | [Strategies for enhancing the adaptive response to oxidative stress in microbial cell factories](https://doi.org/10.1007/s11274-025-04544-y) | Zou et al. | 2025 |
 | [Stress in Regulation of GABA Amygdala System and Relevance to Neuropsychiatric Diseases](https://doi.org/10.3389/fnins.2018.00562) | Jie et al. | 2018 |
+| [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
 | [The Stress-Pain Connection in Chronic Primary Pain: A Systematic Review and Meta-Analysis of Physiological Stress Markers in Relation to Experimental Pain Responses](https://doi.org/10.1101/2025.09.24.25336431) | Vyverman et al. | 2025 |
 | [Stress, burnout and depression: A systematic review on DNA methylation mechanisms](https://doi.org/10.1016/j.jpsychores.2016.11.005) | Bakusic et al. | 2017 |
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
@@ -434,10 +443,13 @@ tags:
 | [Tastes and retronasal odours evoke a shared flavour-specific neural code in the human insula](https://doi.org/10.1101/2025.01.06.631354) | Khorisantono et al. | 2025 |
 | [Tau pathology in Alzheimer disease and other tauopathies](https://doi.org/10.1016/j.bbadis.2004.09.008) | Iqbal et al. | 2005 |
 | [Temporal modulation of hippocampal excitatory transmission by corticosteroids and stress](https://doi.org/10.1016/j.yfrne.2010.07.004) | Chaouloff & Groc | 2011 |
+| [Testosterone ameliorates age-related brain mitochondrial dysfunction](https://doi.org/10.18632/aging.203153) | Yan et al. | 2021 |
 | [Testosterone and Blood Pressure Regulation](https://doi.org/10.1159/000119417) | Kienitz & Quinkler | 2008 |
 | [Testosterone and dihydrotestosterone modulate the redox homeostasis of endothelium](https://doi.org/10.1002/cbin.11768) | Koukoulis et al. | 2022 |
 | [Testosterone Contributes to Vascular Dysfunction in Young Mice Fed a High Fat Diet by Promoting Nuclear Factor E2–Related Factor 2 Downregulation and Oxidative Stress](https://doi.org/10.3389/fphys.2022.837603) | Costa et al. | 2022 |
+| [Testosterone deficiency worsens mitochondrial dysfunction in APP/PS1 mice](https://doi.org/10.3389/fnagi.2024.1390915) | Zhang et al. | 2024 |
 | [Testosterone downregulates the Nrf2 system and promotes vascular dysfunction in HFD-fed mice](https://doi.org/10.1096/fasebj.31.1_supplement.837.18) | Costa et al. | 2017 |
+| [Testosterone Plus Low-Intensity Physical Training in Late Life Improves Functional Performance, Skeletal Muscle Mitochondrial Biogenesis, and Mitochondrial Quality Control in Male Mice](https://doi.org/10.1371/journal.pone.0051180) | Guo et al. | 2012 |
 | [Therapeutic Effects of Prolonged Cannabidiol Treatment on Psychological Symptoms and Cognitive Function in Regular Cannabis Users: A Pragmatic Open-Label Clinical Trial](https://doi.org/10.1089/can.2017.0043) | SolowijNadia et al. | 2018 |
 | [Three-dimensional human mucopolysaccharidosis IVA chondrocyte culture reveals significant impairments in the lysosomal-mitochondrial crosstalk](https://doi.org/10.1038/s41598-025-04871-y) | Leal et al. | 2025 |
 | [Time-dependent corticosteroid modulation of prefrontal working memory processing](https://doi.org/10.1073/pnas.1019128108) | Henckens et al. | 2011 |
@@ -447,6 +459,7 @@ tags:
 | [Toward a Tailored Acoustic-Based Approach in Music Neuromodulation in Epilepsy](https://doi.org/10.1111/ene.70151) | Strýček et al. | 2025 |
 | [Towards reconstructing intelligible speech from the human auditory cortex](https://doi.org/10.1038/s41598-018-37359-z) | Akbari et al. | 2019 |
 | [Toxicological studies of the false morel(Gyromitra esculenta):Embryotoxicity of monomethylhydrazine in the rat](https://doi.org/10.1080/02652039309374162) | Slanina et al. | 1993 |
+| [Transcriptional and synaptic regulation of NMDA glutamate receptor-mediated hippocampal plasticity and memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
 | [Translational Approach to Social Isolation During a Global Pandemic: Hippocampal Somatic Mutation and Stress](https://doi.org/10.30773/pi.2024.0178) | Lee et al. | 2024 |
 | [Traumatic Stress Produces Distinct Activations of GABAergic and Glutamatergic Neurons in Amygdala](https://doi.org/10.3389/fnins.2018.00387) | Fang et al. | 2018 |
 | [TRH-enkephalin interactions in the amygdaloid complex during gastric stress ulcer formation in rats](https://doi.org/10.1016/0167-0115%2891%2990249-g) | Ray & Henke | 1991 |
