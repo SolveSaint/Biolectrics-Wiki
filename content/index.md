@@ -1,10 +1,11 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/15/2025 11:54 AM
+updated: 11/15/2025 12:00 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69148f5d-6044-8326-84de-4fee51ec99b6
+chatrefAutismDefined: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
 title: Biolectrics
 tags:
   - Biolectrics
@@ -36,7 +37,7 @@ If NR4A1 is inherited in a hypomethylated, open state, offspring begin life with
 
 ---
 
-## Autism Defined
+## The Core of Autism is Transgenerational Hyperexcitability
 
 In the developing brain, autism represents the behavioral expression of a deeper excitability state that is set before birth by the stress methylome and related endocrine regulators. Across human and animal data, three elements recur. First, autism is consistently associated with excitation or inhibition imbalance, with elevated glutamatergic tone and reduced GABAergic inhibition in cortical and limbic circuits [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). Second, trauma and adversity in parents reshape methylation at glucocorticoid related genes such as FKBP5, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Third, environmental stressors can induce stable epimutations in the germline that both bias neurodevelopment and promote later genetic mutations, converting experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207). Experimental work in birds shows that parental glucocorticoid load and antioxidant buffering shift offspring fear responses and HPA reactivity without direct exposure, confirming that hyperexcitability itself is a transgenerational trait rather than a random event [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).  
 
