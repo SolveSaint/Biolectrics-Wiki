@@ -1,6 +1,6 @@
 ---
 created: 10/27/2025 12:19 AM
-updated: 11/15/2025 8:23 AM
+updated: 11/15/2025 8:25 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Research-Paper-Database
 title: Research Paper Database
 tags:
@@ -145,7 +145,7 @@ tags:
 | [An effective method for enhancing metabolic activity of anammox bacteria: Accelerating heme biosynthesis by glutamate](https://doi.org/10.1016/j.jenvman.2025.127301) | Zhang et al. | 2025 |
 | [Effects of Combined Treatment With Selective Androgen and Estrogen Receptor Modulators Ostarine and Raloxifen on Bone Tissue In Ovariectomized Rats](https://doi.org/10.1007/s00223-025-01431-4) | Hoffmann et al. | 2025 |
 | [The effects of D-Cycloserine on corticospinal excitability after repeated spaced intermittent theta-burst transcranial magnetic stimulation: A randomized controlled trial in healthy individuals](https://doi.org/10.1038/s41386-023-01575-7) | Wrightson et al. | 2023 |
-| [Effects of endurance training on metabolic enzyme activity and transporter protein levels in the skeletal muscles of orchiectomized mice - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1880654624001604?via%253Dihub) |  |  |
+| [Effects of endurance training on metabolic enzyme activity and transporter protein levels in the skeletal muscles of orchiectomized mice](https://www.sciencedirect.com/science/article/pii/S1880654624001604?via%253Dihub) |  | 2022 |
 | [Effects of estrogen on endothelial prostanoid production and cyclooxygenase-2 and heme oxygenase-1 expression](https://doi.org/10.1016/j.prostaglandins.2012.01.006) | Marcantoni et al. | 2012 |
 | [Efficacy and tolerability of riluzole in psychiatric disorders: A systematic review and preliminary meta-analysis](https://doi.org/10.1016/j.psychres.2019.06.020) | De Boer et al. | 2019 |
 | [Emerging Roles of GluN3B NMDA Receptor Subunit in the Central Nervous System](https://doi.org/10.1007/s12264-025-01523-z) | Huang et al. | 2025 |
