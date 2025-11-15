@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/13/2025 12:24 PM
+updated: 11/15/2025 11:54 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -38,9 +38,9 @@ If NR4A1 is inherited in a hypomethylated, open state, offspring begin life with
 
 ## Autism Defined
 
-In the **developing brain**, this inherited excitatory architecture manifests as early glutamate upregulation. Elevated receptor expression, calcium hyperactivity, and reduced redox control create a persistent state of excitatory gain transmitted through the stress methylome [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). What is clinically defined as **autism** therefore reflects the developmental expression of the same excitatory bias that drives excitotoxicity later in life, an amplified sensitivity state that enhances pattern recognition and local processing at the cost of redox stability.  
+In the developing brain, autism represents the behavioral expression of a deeper excitability state that is set before birth by the stress methylome and related endocrine regulators. Across human and animal data, three elements recur. First, autism is consistently associated with excitation or inhibition imbalance, with elevated glutamatergic tone and reduced GABAergic inhibition in cortical and limbic circuits [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). Second, trauma and adversity in parents reshape methylation at glucocorticoid related genes such as FKBP5, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Third, environmental stressors can induce stable epimutations in the germline that both bias neurodevelopment and promote later genetic mutations, converting experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207). Experimental work in birds shows that parental glucocorticoid load and antioxidant buffering shift offspring fear responses and HPA reactivity without direct exposure, confirming that hyperexcitability itself is a transgenerational trait rather than a random event [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).  
 
-In this view, neurodevelopmental and neurodegenerative conditions exist on a shared continuum of excitatory regulation. The difference lies not in mechanism but in timing, energy balance, and antioxidant reserve. The methylome thus operates as a biological memory system that encodes excitatory history into inheritance, shaping cognition, emotion, and physiology across generations.
+Within Biolectrics, autism spectrum conditions are therefore treated as developmental outcomes of inherited hyperexcitability. Circuits begin life with higher glutamate receptor density, weaker inhibitory tone, and tighter coupling between calcium entry, metabolism, and ROS than typical development. This state can enhance pattern detection, local processing, and sensory resolution, but it narrows redox margins and raises the risk of overload when antioxidant systems are limited [(Wang & Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432). Neurodevelopmental and neurodegenerative diagnoses then occupy different points on the same excitatory continuum. Early in life, the architecture appears as autism or related traits; later in life, the same excitatory configuration presents as excitotoxic vulnerability, affective instability, or progressive neurodegeneration, depending on usage load, endocrine history, and redox reserve [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005); [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
 
 ---
 
@@ -156,6 +156,7 @@ Interventions that rebalance this circuit include
 | [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
 | [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
 | [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang & Sun | 2025 |
+| [Environmentally induced epigenetic transgenerational inheritance of sperm epimutations promote genetic mutations](https://doi.org/10.1080/15592294.2015.1062207) | Skinner et al. | 2015 |
 | [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
 | [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
 | [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
@@ -164,6 +165,7 @@ Interventions that rebalance this circuit include
 | [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman & Chapa González | 2024 |
 | [Glutamatergic and GABAergic Synapses in the Human Spinal Dorsal Horn Revealed With Immunohistochemistry](https://doi.org/10.1002/cne.70091) | Davis et al. | 2025 |
 | [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
+| [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
 | [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
 | [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
 | [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
@@ -173,6 +175,7 @@ Interventions that rebalance this circuit include
 | [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
 | [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in Triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
+| [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
 | [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
 | [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura & Keaney | 2011 |
 | [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
