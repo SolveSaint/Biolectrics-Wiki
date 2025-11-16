@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/16/2025 3:28 PM
+updated: 11/16/2025 3:56 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -19,6 +19,8 @@ tags:
 ---
 
 **Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. These processes operate in every excitable or metabolically active cell type. They link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems through shared electrical and redox pathways. These pathways form the cellular oxidative cleanup machinery that determines whether a cell adapts, degenerates, or transforms under load.
+
+The same excitation to redox architecture exists outside the animal kingdom. Plants use glutamate like receptor channels and respiratory burst oxidase homolog enzymes to convert calcium signals into reactive oxygen species in the same way that neurons and somatic cells use NMDA and AMPA receptors with mitochondrial and NADPH oxidase systems. Under persistent stress or foreign object containment, both plants and animals reach the same oxidative thresholds, enter the same glycolytic survival programs, and follow the same logic for hypergrowth or cell death. This is mapped in detail in [[Stress Pathway/Excitotoxicity/ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels|ROS Load in Plants and Animals – GLR Signaling and Excitotoxic Parallels]].
 
 ---
 
@@ -108,22 +110,28 @@ In **somatic and tumor cells**, greater metabolic plasticity allows a transition
 Persistent mitochondrial ROS production marks the threshold between adaptation and degeneration. When calcium driven respiration pushes the electron transport chain beyond equilibrium, mitochondria begin leaking superoxide and hydrogen peroxide. In the presence of free iron, these molecules undergo **Fenton chemistry**, generating hydroxyl radicals that initiate lipid peroxidation and compromise membrane integrity [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
 
 This redox overload follows the same cascade across major organ systems.  
+
 #### Neurological Disease
 In the **neuron**, continuous glutamate signaling drives NMDA and AMPA receptor activation, producing calcium influx that overwhelms mitochondrial buffering and triggers sustained ROS release [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). Excess calcium locks mitochondria into hypermetabolic operation, leading to oxidative damage, synaptic collapse, and progressive neurodegeneration.  
+
 #### Exhaustion Excitotoxicity
 In the **muscle and systemic metabolism**, plasma metabolomics shows that exertion elevates plasma glutamate and perturbs TCA intermediates with persistent ROS after exercise, marking glutamate as a systemic redox substrate that links neuronal, muscular, and hepatic metabolism [(Germain et al., 2022)](https://doi.org/10.1172/jci.insight.157621).  
+
 #### Cardiovascular Disease
 In the **heart**, calcium overload and mitochondrial ROS drive membrane oxidation and ferroptotic death of cardiomyocytes [(Peoples et al., 2019)](https://doi.org/10.1038/s12276-019-0355-7). Iron accumulation and ferritin degradation amplify this injury [(Sawicki et al., 2023)](https://doi.org/10.1161/CIRCRESAHA.122.321667), while chronic oxidative imbalance is a defining feature of heart failure and ischemic disease [(Sugamura & Keaney, 2011)](https://doi.org/10.1016/j.freeradbiomed.2011.05.004); [(Hu et al., 2021)](https://doi.org/10.3389/fcvm.2021.710963); [(Yan et al., 2022)](https://doi.org/10.1155/2022/5124553).  
+
 #### Kidney Disease
 In the **kidney**, chronic cortisol signaling activates NR3C1 and NADPH oxidase, generating ROS and inflammatory mediators that accelerate glomerular damage and fibrosis [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). These changes mirror the same excitatory pattern seen in neural and cardiac tissue.  
+
 #### Rheumatoid Arthritis
 In **rheumatoid tissue**, dysregulated p53 signaling removes restraint on NOX activity, intensifying ROS production and driving both angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Elevated cortisol and catecholamines further amplify this effect by activating glucocorticoid and β adrenergic receptors, which increase NADPH oxidase activity and mitochondrial ROS generation. The result is a compounding cycle where stress hormones and p53 loss converge on the same oxidative pathway, sustaining inflammation and vascular proliferation through redox signaling. This establishes rheumatoid pathology as another expression of stress driven ROS overload, a local redox circuit that mirrors the excitatory feedback loop in neurons.  
+
 #### Cancer
-In **cancer**, chronic inflammation is often the first step. When immune cells surround a persistent irritant or foreign particle, they release cytokines that drive the kynurenine pathway toward **quinolinic acid (QUIN)**. QUIN is a potent NMDA receptor agonist. Even in non-neuronal tissues, these receptors are present on epithelial and endothelial cells, and QUIN overactivation triggers a surge of calcium influx and mitochondrial ROS. This oxidative spike becomes the signal that pushes cells toward a metabolic survival program.
+In **cancer**, chronic inflammation is often the first step. When immune cells surround a persistent irritant or foreign particle, they release cytokines that drive the kynurenine pathway toward **quinolinic acid (QUIN)**. QUIN is a potent NMDA receptor agonist. Even in non neuronal tissues, these receptors are present on epithelial and endothelial cells, and QUIN overactivation triggers a surge of calcium influx and mitochondrial ROS. This oxidative spike becomes the signal that pushes cells toward a metabolic survival program.
 
-Stress magnifies this process. Cortisol and catecholamines increase glutamate receptor density across many cell types, raising both calcium sensitivity and ROS output. When inflammation produces QUIN in this sensitized state, the excess receptors provide far more entry points for QUIN to drive calcium and ROS to higher peaks. These spikes become the tipping point that forces cells to abandon high-pressure oxidative phosphorylation and switch into a **glycolytic survival mode** to avoid immediate ROS death.
+Stress magnifies this process. Cortisol and catecholamines increase glutamate receptor density across many cell types, raising both calcium sensitivity and ROS output. When inflammation produces QUIN in this sensitized state, the excess receptors provide far more entry points for QUIN to drive calcium and ROS to higher peaks. These spikes become the tipping point that forces cells to abandon high pressure oxidative phosphorylation and switch into a **glycolytic survival mode** to avoid immediate ROS death.
 
-If inflammation and stress persist long enough, this temporary metabolic shift becomes stabilized through DNA methylation. ROS-driven activation of DNA methyltransferases adds chemical marks that lock glycolytic and glutaminolytic genes into the “on” position while suppressing mitochondrial and apoptotic programs. As detailed in the [[Stress Pathway/Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer|Stress-Cancer Pathway]], this converts a reversible survival response into a permanent identity. The cell survives by maintaining high glycolysis, high glutamate export, and high antioxidant demand, forming a self-sustaining redox environment that defines malignant persistence.
+If inflammation and stress persist long enough, this temporary metabolic shift becomes stabilized through DNA methylation. ROS driven activation of DNA methyltransferases adds chemical marks that lock glycolytic and glutaminolytic genes into the “on” position while suppressing mitochondrial and apoptotic programs. As detailed in the [[Stress Pathway/Stress-Cancer Pathway - How PTSD and Chronic Stress Can Be Mechanically Linked to Cancer|Stress-Cancer Pathway]], this converts a reversible survival response into a permanent identity. The cell survives by maintaining high glycolysis, high glutamate export, and high antioxidant demand, forming a self sustaining redox environment that defines malignant persistence.
 
 Persistent foreign substances such as asbestos illustrate this mechanism clearly. Macrophages attempt to envelop the fibers but fail, creating chronic inflammation that continually produces QUIN, ROS, and DNA damage. In this environment, the glycolytic survival program becomes both necessary and increasingly stable, setting the stage for methylation lock and tumor formation.
 
