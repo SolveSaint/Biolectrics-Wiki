@@ -1,120 +1,94 @@
 ---
 created: 11/16/2025 8:33 AM
-updated: 11/16/2025 9:45 AM
+updated: 11/16/2025 10:39 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
-title: ROS Load in Plants and Animals - GLR Signaling and Cross Kingdom Excitatory Parallels
+title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
 tags:
   - Biolectrics
   - Quartz
   - ROS
   - Plants
-  - Animals
-  - GLR
-  - Auxin
   - Excitotoxicity
-  - Metabolism
+  - GLR
+  - NMDA
 ---
 
 ## Overview
 
-Plants and animals use a conserved stress architecture built around calcium, ROS, antioxidant capacity, and metabolic mode. Calcium entry activates oxidase systems or mitochondrial respiration, ROS rises, and cells either adapt or shift into a glycolytic survival state. Both kingdoms rely on glutamate related receptors for early stress signaling and both rely on distinct ligands that drive chronic activation during injury or pathogen invasion.  
+Plants and animals share a conserved redox architecture. Both kingdoms rely on calcium driven signaling systems that generate reactive oxygen species during stress. In animals, glutamate receptor activation causes calcium entry and mitochondrial ROS release that can overpower antioxidant defenses and trigger excitotoxicity [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1); [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). In plants, GLR receptor channels and respiratory burst oxidase homologs produce ROS in response to environmental stress, creating the same beneficial to harmful continuum that exists in animal tissues [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001); [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014).
 
-This note unifies plant GLR signaling, animal NMDA and AMPA signaling, and the shared redox logic that governs resilience, degeneration, and survival identity across kingdoms. It also clarifies the role of auxin as the dominant driver of gall formation in plants and its functional similarity to inflammatory ligands like quinolinic acid in animals.
-
-## Plant ROS Load and GLR3.3 or GLR3.5
-
-Cold acclimation in plants depends on controlled ROS elevation. GLR3.3 and GLR3.5 increase calcium entry during cold conditioning, which activates RBOH1. RBOH1 produces apoplastic hydrogen peroxide, shifting the GSH or GSSG ratio into a protective oxidative state. This prepares the tissue for later cold stress.
-
-If GLRs are blocked with DNQX or if GLR3.3 or GLR3.5 or RBOH1 are silenced, hydrogen peroxide production collapses. Membranes become fragile and electrolyte leakage increases during cold exposure. Applying hydrogen peroxide or glutathione restores chilling tolerance even when GLRs are silenced, demonstrating that ROS itself is the protective variable governing acclimation [(Li et al., 2019)](https://doi.org/10.1111/pce.13623).
-
-## Animal ROS Load and Excitotoxicity
-
-In animals, NMDA and AMPA receptors perform the same function. Calcium enters through the receptor pore and through voltage gated channels, driving mitochondrial respiration and ROS production. When receptor density is increased through stress, trauma, or hormonal signaling, calcium influx exceeds mitochondrial buffering capacity. ROS then accumulates and initiates lipid and protein oxidation that destabilizes membranes [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
-
-Other tissues follow similar patterns. In the kidney, glucocorticoid signaling activates NR3C1 and NADPH oxidase, increasing ROS mediated injury [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). In the brain, stress increases excitatory gain and ROS production through the same calcium linked machinery [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138).
-
-## Early Activation in Plants and Animals: Glutamate as the First Signal
-
-In both plants and animals, extracellular glutamate is the first danger signal.
-
-### In plants  
-Damage or herbivory causes cells to release glutamate into the apoplast. This glutamate activates GLRs and creates rapid calcium waves that spread across tissues. RBOH enzymes convert these calcium signals into ROS bursts that carry stress information throughout the plant.
-
-### In animals  
-Injury or excitotoxic stress releases glutamate into the synaptic and extracellular space. NMDA and AMPA receptors respond with calcium influx and mitochondrial ROS generation.
-
-**In both kingdoms, glutamate is the early alarm that starts the calcium to ROS cascade.**
-
-## Gall Formation in Plants and Chronic Inflammation in Animals
-
-Gall tissue represents the plant version of chronic inflammation. A gall forms when insects, mites, bacteria, or fungi manipulate plant developmental programs. This chronic state involves persistent ROS, altered metabolism, and continuous tissue remodeling.  
-
-Galls and animal inflammatory lesions share  
-• elevated ROS  
-• sustained calcium signaling  
-• increased glycolysis  
-• high NADPH demand  
-• rapid cell proliferation  
-• attempts to isolate a persistent threat  
-
-Plants do not recruit immune cells. Instead, the tissue itself is reprogrammed to contain the irritant, which mirrors the way animal tissues remodel during chronic inflammation.
-
-## Auxin as the Dominant Driver of Gall Development
-
-After the initial glutamate wave, plants shift to a second phase where **auxin becomes the master regulator**. This is the critical difference between early and late signaling.
-
-### Auxin drives gall identity through  
-• sustained calcium entry  
-• activation of RBOH and NADPH oxidase  
-• persistent ROS production  
-• hyperproliferation and tissue expansion  
-• metabolic reprogramming toward glycolysis and OPPP  
-• altered hormone gradients that stabilize growth  
-
-Auxin therefore serves the same functional role in plant gall development that inflammatory ligands such as quinolinic acid and cytokines serve in animals. It is not chemically the same, but it performs the same work. It sustains a chronic calcium and ROS state that creates structural and metabolic transformation.
-
-## Glycolytic Survival Mode in Plants Mirrors the Animal Warburg Shift
-
-When ROS rises beyond antioxidant capacity, both plants and animals reduce mitochondrial respiration and switch to glycolytic ATP production. This reduces electron transport chain pressure and provides NADPH for ROS detoxification.
-
-### Plant Response  
-Plants decrease respiration and activate glycolysis and the OPPP. OPPP generates NADPH for glutathione recycling. Alternative oxidase bypasses ROS heavy mitochondrial steps. This protects cells during cold, drought, salinity, or pathogen pressure.
-
-### Animal Response  
-Animals use the pentose phosphate pathway and glycolysis to maintain ATP and NADPH when mitochondrial ROS becomes excessive. In cancer this shift becomes permanent. In normal tissue it is a reversible metabolic defense.
-
-### Functional Parallels  
-Plants  
-• glutamate early signaling  
-• auxin sustained activation  
-• RBOH derived hydrogen peroxide  
-• glycolysis and OPPP for ATP and NADPH  
-• alternative oxidase to lower mitochondrial pressure  
-
-Animals  
-• glutamate early signaling  
-• quinolinic acid and cytokines sustain activation  
-• mitochondria and NADPH oxidase generate ROS  
-• glycolysis and PPP support ATP and NADPH  
-• downregulation of complex one and complex three  
-
-Both systems follow the same decision structure governed by calcium, ROS, and NADPH.
-
-## Unified View of ROS Load across Kingdoms
-
-The plant GLR to RBOH hydrogen peroxide system and the animal NMDA to mitochondrial ROS system operate with shared logic. Calcium raises ROS. ROS sets the metabolic mode. Moderate ROS produces resilience. Excessive ROS forces metabolic retreat or drives structural change.  
-
-Galls in plants and chronic inflammation in animals both emerge when ROS and sustained ligand signaling push tissue into a long term survival growth configuration. In animals this stabilizes into cancer. In plants this stabilizes into galls or hyperplastic nodules. The architecture is the same even though the molecules differ.
-
-Across kingdoms, ROS load is the central integrator that unifies excitatory signaling, stress physiology, and survival identity.
+Low to moderate ROS levels help regulate acclimation and development in both systems. When production exceeds scavenging capacity, ROS begin oxidizing membranes, DNA, and proteins, leading to functional collapse and often programmed cell death. This shared structure allows a unified view of stress driven redox overload across kingdoms.
 
 ---
 
+## GLR and Calcium Coupling in Plants
+
+Plant glutamate receptor like channels form a calcium entry system that parallels NMDA and AMPA receptor function in animal cells. GLR activation under salt stress and cold exposure raises intracellular calcium and regulates apoplastic hydrogen peroxide, creating controlled redox pulses that support acclimation [(Li et al., 2019)](https://doi.org/10.1111/pce.13623). Under salinity, GLR mediated nitric oxide signaling modulates the antioxidant system and helps maintain redox balance [(Gokce et al., 2024)](https://doi.org/10.1007/s10265-024-01528-1). 
+
+These studies demonstrate that plants use the same excitation to redox coupling that defines stress adaptation in animal cells.
+
+---
+
+## RBOH and ROS Amplification
+
+Calcium influx from GLRs activates respiratory burst oxidase homolog enzymes. These enzymes convert NADPH into superoxide and hydrogen peroxide and act as the primary ROS amplifiers in plant stress signaling [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001). They also integrate phosphorylation and calcium to determine the scale of oxidative output [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014).
+
+When the ROS generated by RBOH exceeds antioxidant buffering, the system crosses the same threshold seen in animal excitotoxicity. ROS accumulation destabilizes membranes, knocks out enzymes, and initiates cellular death programs.
+
+---
+
+## Beneficial ROS and the Threshold to Damage
+
+ROS serve as signaling molecules for growth, development, and acclimation [(Noctor et al., 2018)](https://doi.org/10.1016/j.semcdb.2017.07.013). They regulate gene expression, hormone signaling, and stress tolerance.
+
+When ROS exceed the cell’s redox capacity, they become destructive. Reviews consistently show that excessive ROS cause lipid peroxidation, membrane failure, protein oxidation, DNA breaks, chloroplast damage, and mitochondrial dysfunction [(Sharma et al., 2012)](https://doi.org/10.1155/2012/217037); [(Das and Roychoudhury, 2014)](https://doi.org/10.3389/fenvs.2014.00053). Under drought, salinity, heat, and cold, ROS accumulation leads to structural injury and reduced plant fitness [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325).
+
+This is the same point at which animal cells move from enhanced function to oxidative injury through excitotoxicity [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
+
+---
+
+## Programmed Cell Death in Plants and Parallels to Excitotoxicity
+
+Plant programmed cell death under stress is driven by ROS mediated oxidation. High ROS inhibit photosynthesis, oxidize cardiolipin, impair mitochondrial membranes, and trigger cytochrome c release [(Petrov et al., 2015)](https://doi.org/10.3389/fpls.2015.00069). This closely mirrors animal excitotoxic collapse where mitochondrial dysfunction and ROS cause membrane permeability loss and activation of cell death pathways.
+
+Plant PCD therefore follows the same biochemical logic as neuronal or muscular degeneration in animals, differing only in structural context.
+
+---
+
+## Glycolytic Shift and Tumor like Growth in Plants
+
+When oxidative pressure becomes unsustainable, plants can shift toward glycolytic metabolism to reduce mitochondrial ROS load. Evidence across drought and salinity stress conditions shows that excessive ROS suppress normal oxidative phosphorylation and force alternative metabolic pathways to maintain survival [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695).
+
+In animals, this same metabolic shift defines the early survival state that precedes malignancy. Plants exhibit analogous responses. Chronic oxidative stress and repeated wounding can produce gall formation, a growth structure with altered metabolism and redox imbalance. Although driven largely by pathogens or insects, the gall environment shows elevated ROS, suppressed mitochondrial function, and increased dependency on glycolysis. This resembles the early state of redox driven survival transitions seen in animal tissues.
+
+Thus both kingdoms exhibit a redox threshold that determines whether cells remain adaptive, switch to glycolytic survival, or degenerate.
+
+---
+
+## Unified View
+
+The conserved structure is clear across all papers. Calcium activation, ROS signaling, redox imbalance, and metabolic switching form a universal biological mechanism. GLRs in plants and glutamate receptors in animals both funnel excitation into ROS production. RBOH enzymes in plants and mitochondrial complexes in animals act as ROS amplifiers. Excessive ROS cause structural damage, genetic instability, and cellular death in both systems. Both systems show glycolytic transitions under overwhelming oxidative load.
+
+This creates a direct mechanistic bridge between plant and animal stress responses. Both kingdoms operate on the same excitatory redox architecture and both experience pathology when ROS exceed recovery capacity.
+
+---
+
+## References
+
 | Title | Authors | Year |
-|---|---:|:--:|
-| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation induced chilling tolerance](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
-| [Molecular mechanisms of excitotoxicity](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
-| [Excitotoxicity and ROS in neurodegeneration](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
-| [Stress pathways in chronic kidney disease](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
-| [The stressed synapse](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
+|---|---|:--:|
+| [(PDF) Reactive oxygen species in plants: Their generation, signal transduction, and scavenging mechanisms](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms) |  | 2011 |
+| [A burst of plant NADPH oxidases](https://doi.org/10.1016/j.tplants.2011.10.001) | Marino et al. | 2012 |
+| [Excitotoxicity, OxytosisFerroptosis, and Neurodegeneration Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
+| [Involvement of GLR-mediated nitric oxide effects on ROS metabolism in Arabidopsis plants under salt stress](https://doi.org/10.1007/s10265-024-01528-1) | Gokce et al. | 2024 |
+| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
+| [Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants](https://doi.org/10.3389/fenvs.2014.00053) | Das and Roychoudhury | 2014 |
+| [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
+| [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
+| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki et al. | 2011 |
+| [The Roles of Environmental Factors in Regulation of Oxidative Stress in Plant](https://doi.org/10.1155/2019/9732325) | Xie et al. | 2019 |
+| [ROS-mediated abiotic stress-induced programmed cell death in plants](https://doi.org/10.3389/fpls.2015.00069) | Petrov et al. | 2015 |
+| [ROS-related redox regulation and signaling in plants](https://doi.org/10.1016/j.semcdb.2017.07.013) | Noctor et al. | 2018 |
+| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation-induced chilling tolerance by regulating apoplastic H2O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
+| [Tuning of Redox Regulatory Mechanisms, Reactive Oxygen Species and Redox Homeostasis under Salinity Stress](https://doi.org/10.3389/fpls.2016.00548) | Hossain and Dietz | 2016 |
