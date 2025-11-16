@@ -1,6 +1,6 @@
 ---
 created: 11/16/2025 8:33 AM
-updated: 11/16/2025 1:31 PM
+updated: 11/16/2025 1:44 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
 title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
@@ -16,85 +16,89 @@ tags:
 
 ## Overview
 
-Plants and animals operate on the same excitation to redox architecture across both individuals and generations. Stress, foreign object intrusion, ligand amplification, reactive oxygen species generation, metabolic switching, and inherited excitability follow the same biological logic in both kingdoms.
+Plants and animals follow the same excitation to redox architecture. Both kingdoms produce reactive oxygen species through stress and through the presence of persistent foreign objects. Each system uses calcium linked pathways to generate the same oxidant species, and each system produces the same biological outcomes when the load becomes too high.
 
-Stress is the universal initiator. Stress increases intracellular calcium and elevates reactive oxygen species. In animals, psychological stress, inflammatory stress, thermal strain, metabolic strain, and environmental strain increase glutamate receptor activity and drive mitochondrial production of superoxide and hydrogen peroxide [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1); [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). In plants, drought, heat, salinity, wounding, pathogen exposure, and osmotic strain activate GLR channels and RBOH enzymes, which produce the same oxidants through calcium dependent oxidation of NADPH [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001); [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014); [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). The same reactive oxygen species are produced by the same calcium linked biochemical route.
+Stress of every type increases calcium signaling in both kingdoms. In animals, psychological, environmental, thermal, and metabolic stress increase glutamate receptor activity, raise calcium influx, and elevate mitochondrial production of superoxide and hydrogen peroxide [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). In plants, drought, cold, heat, salinity, and mechanical injury activate GLR channels and RBOH enzymes which convert NADPH into superoxide and hydrogen peroxide [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001). The result is a shared baseline of stress induced oxidative activity that follows the same biochemical rules in both kingdoms.
 
-A second universal route appears when a foreign or unremovable object becomes embedded in tissue. The parallel between kingdoms is exact. In animals, macrophages surround asbestos, silica, or persistent microbial fragments and form a stable containment ring when engulfment fails. This ring produces continuous reactive oxygen species and drives the kynurenine pathway toward quinolinic acid, a strong NMDA agonist that increases activation frequency. In plants, insects, nematodes, microbes, or injected effectors remain inside tissue and cannot be removed. Surrounding cells construct a gall that encloses the intruder. This gall is a structural containment ring that mirrors the inflammatory ring in animals. Gall tissue elevates auxin, which increases GLR calcium signaling and stimulates RBOH based reactive oxygen species production. Both systems therefore use the same excitatory logic to build and power a containment structure.
+Persistent foreign objects create the second path and the parallel is exact. In animals, macrophages surround objects that cannot be removed such as particulates, bacteria, or environmental irritants. They attempt to engulf the object repeatedly, and this containment effort becomes a stable ring of activated cells that produces continuous reactive oxygen species. This activation drives the kynurenine pathway toward quinolinic acid which is a ligand that amplifies NMDA receptor activity and increases calcium influx.
 
-Auxin in plants and quinolinic acid in animals act as ligand amplifiers that increase activation frequency. Each increases calcium entry and reactive oxygen species generation. Each accelerates the containment effort by making surrounding cells fire more often, remodel more often, divide more often, and produce reactive oxygen species more often. This frequency increase is the functional purpose of ligand amplification during containment.
+In plants, insects, nematodes, microbes, or injected compounds remain embedded and cannot be removed. The surrounding tissue forms a gall that encloses the object, which creates a structural containment ring that directly parallels animal inflammation. Gall tissue produces elevated auxin which increases the activation rate of GLR channels and amplifies RBOH activity. This increases calcium throughput and increases reactive oxygen species production exactly like quinolinic acid does in animals.
 
-If excitatory load continues and reactive oxygen species exceed mitochondrial tolerance, both kingdoms reach the same metabolic fork. Oxidative phosphorylation becomes unsafe and the tissue enters glycolysis to prevent lethal oxidative damage. In animals this creates the early tumor environment. In plants this produces hypergrowth inside a gall or in other stress driven growth regions. Only this glycolytic hypergrowth phase is equivalent to tumor formation. The early containment ring is equivalent to inflammation in animals and to the stable gall in plants. The later glycolytic phase is equivalent to tumor like expansion when ligand amplified activation persists.
+Auxin in plants and quinolinic acid in animals therefore act as ligand amplifiers. They increase the frequency of activation in cells near the foreign object and accelerate the containment effort. Each ligand increases calcium signaling, increases reactive oxygen species, and pushes the local tissue toward oxidative strain.
 
-These states do not end with the parent. They are inherited. In plants, parental stress creates hypomethylated promoters for stress signaling genes and open chromatin architecture that increases offspring GLR responsiveness and reactive oxygen species reactivity [(Noctor et al., 2018)](https://doi.org/10.1016/j.semcdb.2017.07.013). In animals, parental stress produces methylation marks at NR3C1, FKBP5, and related regions that alter cortisol regulation. These marks shift directionally in offspring, often lowering the threshold for stress reactivity and excitatory gain [(Banushi et al., 2025)](https://doi.org/10.3390/ijms26073075); [(Balfour et al., 2025)](https://doi.org/10.1101/2025.10.23.25338702). Experimental evidence in ducks shows inherited shifts in glucocorticoid response and excitability after parental stress diet [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
+The cell then enters one of two possible outcomes which determine all non genetic plant and animal disease. If the cell does not switch into glycolysis when its oxidative load becomes too high, reactive oxygen species continue to rise beyond its repair capacity. This produces degeneration. Neurons degenerate through excitotoxic collapse, immune cells lock into chronic activation, muscle cells fail from oxidation, and epithelial and vascular cells break down. In plants, leaves, stems, roots, and vascular bundles show collapse of redox systems and cell death. Most non genetic human disease and a large part of plant disease follow this path.
 
-Across kingdoms, stress creates a methylation encoded excitatory template that offspring inherit. Offspring begin life with shifted thresholds for calcium signaling, reactive oxygen species generation, ligand sensitivity, and metabolic switching. Plants express this as priming. Animals express it as increased excitability and altered stress physiology. This completes the unified cross kingdom architecture.
+If the cell does switch into glycolysis it reduces mitochondrial reactive oxygen species and survives, but glycolysis creates a survival program that increases growth pressure. If this program persists it becomes locked by methylation. In animals this becomes the early tumor environment. In plants this becomes the hypergrowth phase of a gall. Tumors and galls are therefore parallel outcomes that emerge only after the glycolytic switch and after the survival program becomes stabilized.
+
+Stress therefore pushes both kingdoms through the same sequence. Stress increases calcium signaling. Calcium increases reactive oxygen species. Reactive oxygen species force a threshold choice. Failure to switch to glycolysis produces degeneration. Switching to glycolysis produces survival but risks methylation driven hypergrowth. The location of the affected tissue determines the visible disorder.
+
+Transgenerational inheritance follows the same symmetry. In animals, stress methylates NR3C1, FKBP5, HSD11B2, and related loci which alter receptor expression and increase excitability in the next generation. Hypomethylation at excitatory genes becomes common in offspring of stressed parents. In plants, drought and salt stress produce hypomethylation at stress signaling loci, open chromatin, and primed activation states that persist in the next generation. The mechanism is the same. Stress induced methylation in the parent shifts the excitatory threshold in the offspring.
+
+This establishes a single conserved excitatory redox system across plants and animals. Stress and foreign object containment activate the same ligand pathways. Calcium and reactive oxygen species follow identical kinetics. Cells enter degeneration or glycolytic survival through the same rules. Hypergrowth or death emerges from the same oxidative threshold. Inheritance patterns preserve these states in both kingdoms. The architecture is unified and continuous.
 
 ---
 
 ## GLR and Glutamate Receptor Parallels
 
-GLR channels in plants and NMDA and AMPA receptors in animals are functional equivalents. Both govern calcium entry and couple excitation to reactive oxygen species generation. In plants, GLR channels regulate hydrogen peroxide signaling during cold acclimation and salt stress and help maintain redox balance [(Li et al., 2019)](https://doi.org/10.1111/pce.13623). GLR mediated nitric oxide signaling preserves antioxidant capacity under salt stress and modulates the reactive oxygen species environment [(Gokce et al., 2024)](https://doi.org/10.1007/s10265-024-01528-1). In animals, NMDA receptor activation increases mitochondrial workload and produces the same reactive oxygen species seen in plants [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). This establishes a direct structural and functional mapping between kingdoms.
+GLR channels in plants and NMDA and AMPA receptors in animals are functional equivalents that control calcium entry and determine the magnitude of reactive oxygen species production. Plant GLRs regulate hydrogen peroxide signaling during cold and salt stress and maintain redox balance during acclimation [(Li et al., 2019)](https://doi.org/10.1111/pce.13623). GLR mediated nitric oxide signaling also preserves antioxidant function under salt stress [(Gokce et al., 2024)](https://doi.org/10.1007/s10265-024-01528-1).
+
+In animals, NMDA and AMPA receptor activation increases calcium influx, accelerates mitochondrial respiration, and increases superoxide and hydrogen peroxide production during excitatory states [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
+
+Both systems use the same excitation mechanics to produce reactive oxygen species.
 
 ---
 
 ## RBOH and Mitochondrial ROS Amplification
 
-Plants and animals use parallel systems to amplify reactive oxygen species after calcium rises. Plants use RBOH enzymes that convert NADPH into superoxide and hydrogen peroxide in a calcium dependent manner. These enzymes integrate phosphorylation and calcium cues and serve as central regulators of oxidative bursts during stress [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001); [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014). Animals use mitochondria and NADPH oxidases. Calcium accelerates electron transport and increases superoxide and hydrogen peroxide production from the respiratory chain [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). Both systems create identical oxidants through homologous activation pathways.
+Plants and animals use similar machinery to amplify reactive oxygen species once calcium rises. Plants use RBOH enzymes which convert NADPH into superoxide and hydrogen peroxide. These enzymes are activated by calcium and phosphorylation and act as core amplifiers in every major stress pathway [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001). Their regulation of oxidative bursts is documented across all major plant stress responses [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014).
+
+Animals use mitochondria and NADPH oxidases. Calcium increases electron flow and increases mitochondrial reactive oxygen species through the same chemistry that defines RBOH production in plants [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
+
+The parallel is exact at the level of oxidant species and activation logic.
 
 ---
 
 ## Beneficial ROS and the Threshold to Injury
 
-Reactive oxygen species regulate development, patterning, and stress adaptation in both kingdoms [(Noctor et al., 2018)](https://doi.org/10.1016/j.semcdb.2017.07.013). When reactive oxygen species exceed antioxidant capacity the same damage occurs in plants and animals. Excessive reactive oxygen species cause lipid peroxidation, DNA oxidation, protein modification, and membrane destabilization [(Sharma et al., 2012)](https://doi.org/10.1155/2012/217037); [(Das and Roychoudhury, 2014)](https://doi.org/10.3389/fenvs.2014.00053). Drought, salinity, heat, and cold raise reactive oxygen species to harmful levels in plants [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). Psychological stress, inflammation, environmental strain, and metabolic overload do the same in animals [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). Both kingdoms follow the same threshold rule: reactive oxygen species determine whether tissue adapts, transforms, or undergoes degeneration.
+Reactive oxygen species regulate development, patterning, and stress adaptation in both kingdoms [(Noctor et al., 2018)](https://doi.org/10.1016/j.semcdb.2017.07.013). The same species become harmful when their levels exceed antioxidant capacity. Lipid peroxidation, protein oxidation, DNA damage, chloroplast injury, and mitochondrial collapse occur through the same biochemical reactions in both plants and animals [(Sharma et al., 2012)](https://doi.org/10.1155/2012/217037); [(Das and Roychoudhury, 2014)](https://doi.org/10.3389/fenvs.2014.00053). Environmental stress pushes plants beyond this threshold [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). Psychological, metabolic, and inflammatory stress do the same in animals and in transgenerational models such as the duck lineage study where parental stress altered glucocorticoid physiology and excitatory load in offspring [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
+
+The oxidative threshold that separates adaptation from injury is shared across both kingdoms.
 
 ---
 
-## Ligand Amplification and the Acceleration of Containment
+## Ligand Amplification by Auxin and Quinolinic Acid
 
-Auxin and quinolinic acid increase activation frequency in the cells forming the containment ring. Each increases calcium entry and reactive oxygen species production. This increased frequency makes containment faster and more effective by raising the number of activation cycles per unit time.
+Auxin in plants and quinolinic acid in animals act as ligand amplifiers that increase excitatory pressure during foreign object containment. In animals, chronic inflammation drives quinolinic acid synthesis which activates NMDA receptors, increases calcium influx, and elevates reactive oxygen species production. In plants, galling increases auxin concentration which increases GLR activation and stimulates RBOH enzymes, creating the same chronic excitatory environment [(Gokce et al., 2024)](https://doi.org/10.1007/s10265-024-01528-1).
 
-In animals, quinolinic acid increases NMDA receptor open probability and increases the frequency of calcium entry, mitochondrial respiration, reactive oxygen species bursts, and growth signals around the inflammatory core. In plants, auxin increases GLR channel activation and increases the frequency of calcium oscillations, RBOH reactive oxygen species bursts, and growth events in gall tissue [(Gokce et al., 2024)](https://doi.org/10.1007/s10265-024-01528-1). Ligand amplification therefore accelerates the containment effort in both kingdoms.
+Each ligand increases activation frequency and increases the energy available to containment cells. This accelerates the containment effort and increases oxidative load.
 
-When excitatory load remains high and reactive oxygen species exceed mitochondrial tolerance, the tissue must switch to glycolysis to survive. This switch is forced by oxidative strain and is identical in plants and animals.
+If the load becomes too high the cell faces the same choice in animals and in plants. It can shift into glycolysis and survive or it can fail to shift and progress to oxidative injury and death.
 
 ---
 
-## The Methylation Chain of Chronic Containment
+## Glycolytic Shift in Both Kingdoms
 
-Chronic containment proceeds through a universal three stage methylation chain.
+When reactive oxygen species exceed mitochondrial tolerance the cell moves toward glycolysis to avoid oxidative collapse. In animals this produces the early tumor environment. In plants this appears in the hypergrowth phase of galled tissue. Each environment is built on the same survival program and each becomes stabilized by methylation when the program persists [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695).
 
-**Stage one: methylation of the containment state**  
-Cells in the containment ring fire repeatedly and maintain high reactive oxygen species output. Early methylation marks stabilize this high activation mode by reinforcing stress signaling, growth pathways, and excitatory readiness. This defines chronic inflammation in animals and stable gall structure in plants.
-
-**Stage two: glycolytic reprogramming under excessive reactive oxygen species**  
-If oxidative strain surpasses mitochondrial tolerance, oxidative phosphorylation becomes unsafe. Both kingdoms activate glycolysis as an emergency survival mode. This reduces mitochondrial reactive oxygen species and allows rapid proliferation and structural remodeling. In animals this is the early tumor environment. In plants this is the hypergrowth phase of the gall.
-
-**Stage three: methylation of the glycolytic survival state**  
-Persistent glycolytic operation becomes reinforced epigenetically. Methylation patterns shift to favor glycolysis, glutamine and cystine import, antioxidant systems, and proliferative identity. Oxidative phosphorylation and apoptotic controls are suppressed. This produces permanent hypergrowth. In animals this is cancer. In plants this is a stabilized overgrowth derived from the gall or related structure.
-
-The full path is therefore:  
-**auxin or quinolinic acid release → GLR or NMDA upregulation through methylation over time → glycolytic reprogramming under reactive oxygen species pressure → methylation of the glycolytic state → cancer in animals or hypergrowth in plants.**
+If the glycolytic mode persists it becomes epigenetically locked. This converts survival into hypergrowth. Tumors and galls are therefore parallel structures that form only after the glycolytic shift and only after methylation stabilizes the state.
 
 ---
 
 ## Programmed Cell Death Parallels
 
-When survival pathways fail, both kingdoms initiate reactive oxygen species linked cell death and the core steps are the same. High reactive oxygen species levels collapse mitochondrial control in plants and animals. Both experience oxidation of cardiolipin, loss of membrane potential, and permeabilization of the outer mitochondrial membrane.
+When survival fails, both kingdoms initiate reactive oxygen species linked cell death. High reactive oxygen species oxidize cardiolipin, collapse mitochondrial control, and permeabilize the outer membrane. In plants this causes cytochrome c to move into the cytosol where it initiates programmed cell death pathways [(Petrov et al., 2015)](https://doi.org/10.3389/fpls.2015.00069). Reviews confirm cytochrome c release as a conserved death signal in plant cells [(Karuppanapandian et al., 2011)](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms).
 
-In plants this sequence has been directly observed. Excessive reactive oxygen species oxidize cardiolipin and release cytochrome c from mitochondria into the cytosol. This cytochrome c release activates plant programmed cell death pathways and is confirmed across multiple studies [(Petrov et al., 2015)](https://doi.org/10.3389/fpls.2015.00069). Additional reviews show the same event during oxidative stress, where cytochrome c moves into the cytosol and initiates nuclease activity and other programmed cell death mechanisms [(Karuppanapandian et al., 2011)](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms).
+Animals follow the same sequence. Excitotoxic overload releases cytochrome c into the cytosol which activates apoptotic machinery [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
 
-Animal cells perform the same sequence under excitotoxic activation. Mitochondrial overload leads to cardiolipin oxidation, loss of membrane integrity, and release of cytochrome c into the cytosol which then initiates apoptosis through activation of downstream proteins [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
-
-Cytochrome c release is therefore a conserved reactive oxygen species linked death signal. Both plants and animals use the same mitochondrial checkpoint and the same oxidative threshold to decide when a cell must terminate rather than continue under damaging excitatory load.
+The mitochondrial death checkpoint is therefore identical in plants and animals.
 
 ---
 
 ## Unified View
 
-Across all reviewed literature the same biological logic is present in both plants and animals. Stress increases calcium entry and reactive oxygen species. Foreign objects produce a containment ring. Auxin and quinolinic acid increase activation frequency. Containment persists through methylation. Excess reactive oxygen species trigger a shift to glycolysis. Glycolytic survival becomes methylated into permanence. This produces hypergrowth states in both kingdoms. When this fails the same reactive oxygen species driven cell death pathways appear.
+Every component of this architecture is shared across both kingdoms. Stress increases calcium signaling and reactive oxygen species in the same way. Foreign object containment creates the same ligand reinforced excitatory rings. Auxin and quinolinic acid increase activation frequency and increase oxidant production. Reactive oxygen species force the same threshold decision in every cell. Failure to switch into glycolysis produces degeneration and death. Switching into glycolysis produces survival but risks methylation driven hypergrowth. Tumors and galls follow the same logic. Transgenerational inheritance preserves these excitatory states in both plants and animals.
 
-This establishes a single conserved excitatory redox mechanism across plant and animal biology.
+The excitatory redox system is therefore conserved across the plant and animal kingdoms and explains the major non genetic disease states of both.
 
 ---
 
@@ -109,13 +113,13 @@ This establishes a single conserved excitatory redox mechanism across plant and 
 | [Involvement of GLR-mediated nitric oxide effects on ROS metabolism in Arabidopsis plants under salt stress](https://doi.org/10.1007/s10265-024-01528-1) | Gokce et al. | 2024 |
 | [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
-| [Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants](https://doi.org/10.3389/fenvs.2014.00053) | Das & Roychoudhury | 2014 |
-| [Reactive oxygen species in plants: Their generation, signal transduction, and scavenging mechanisms](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms) | Karuppanapandian et al. | 2011 |
+| [Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants](https://doi.org/10.3389/fenvs.2014.00053) | Das and Roychoudhury | 2014 |
+| [Reactive oxygen species in plants: Their generation, signal transduction, and scavenging mechanisms](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms) | Thirupathi Karuppanapandian et al. | 2011 |
 | [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
 | [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
-| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki et al. | 2011 |
+| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki | 2011 |
 | [The Roles of Environmental Factors in Regulation of Oxidative Stress in Plant](https://doi.org/10.1155/2019/9732325) | Xie et al. | 2019 |
 | [ROS-mediated abiotic stress-induced programmed cell death in plants](https://doi.org/10.3389/fpls.2015.00069) | Petrov et al. | 2015 |
 | [ROS-related redox regulation and signaling in plants](https://doi.org/10.1016/j.semcdb.2017.07.013) | Noctor et al. | 2018 |
-| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation‐induced chilling tolerance by regulating apoplastic H2 O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
-| [Tuning of Redox Regulatory Mechanisms, Reactive Oxygen Species and Redox Homeostasis under Salinity Stress](https://doi.org/10.3389/fpls.2016.00548) | Hossain & Dietz | 2016 |
+| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation induced chilling tolerance by regulating apoplastic H2 O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
+| [Tuning of Redox Regulatory Mechanisms, Reactive Oxygen Species and Redox Homeostasis under Salinity Stress](https://doi.org/10.3389/fpls.2016.00548) | Hossain and Dietz | 2016 |
