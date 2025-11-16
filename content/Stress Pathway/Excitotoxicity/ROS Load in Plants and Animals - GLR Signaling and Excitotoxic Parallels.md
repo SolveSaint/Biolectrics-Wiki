@@ -1,6 +1,6 @@
 ---
 created: 11/16/2025 8:33 AM
-updated: 11/16/2025 1:44 PM
+updated: 11/16/2025 2:42 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
 title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
@@ -114,10 +114,10 @@ The excitatory redox system is therefore conserved across the plant and animal k
 | [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
 | [Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants](https://doi.org/10.3389/fenvs.2014.00053) | Das and Roychoudhury | 2014 |
-| [Reactive oxygen species in plants: Their generation, signal transduction, and scavenging mechanisms](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms) | Thirupathi Karuppanapandian et al. | 2011 |
+| [Reactive oxygen species in plants: Their generation, signal transduction, and scavenging mechanisms](https://www.researchgate.net/publication/225029206_Reactive_oxygen_species_in_plants_Their_generation_signal_transduction_and_scavenging_mechanisms) | Karuppanapandian et al. | 2011 |
 | [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
 | [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
-| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki | 2011 |
+| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki et al. | 2011 |
 | [The Roles of Environmental Factors in Regulation of Oxidative Stress in Plant](https://doi.org/10.1155/2019/9732325) | Xie et al. | 2019 |
 | [ROS-mediated abiotic stress-induced programmed cell death in plants](https://doi.org/10.3389/fpls.2015.00069) | Petrov et al. | 2015 |
 | [ROS-related redox regulation and signaling in plants](https://doi.org/10.1016/j.semcdb.2017.07.013) | Noctor et al. | 2018 |
