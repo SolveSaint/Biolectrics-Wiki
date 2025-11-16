@@ -1,11 +1,12 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/15/2025 12:00 PM
+updated: 11/16/2025 3:28 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69148f5d-6044-8326-84de-4fee51ec99b6
 chatrefAutismDefined: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
+chatrefPlantsandAnimals: https://chatgpt.com/c/6903f0e3-7f5c-8321-82b4-5185ca4097d5
 title: Biolectrics
 tags:
   - Biolectrics
