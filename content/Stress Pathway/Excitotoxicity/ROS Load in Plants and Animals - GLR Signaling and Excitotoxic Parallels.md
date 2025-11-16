@@ -1,7 +1,7 @@
 ---
 created: 11/16/2025 8:33 AM
 updated: 11/16/2025 8:37 AM
-site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals-GLR-Signaling-and-Excitotoxic-Parallels
+site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
 title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
 tags:
