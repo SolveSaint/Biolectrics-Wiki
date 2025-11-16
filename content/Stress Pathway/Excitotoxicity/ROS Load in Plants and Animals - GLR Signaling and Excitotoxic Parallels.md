@@ -1,9 +1,9 @@
 ---
 created: 11/16/2025 8:33 AM
-updated: 11/16/2025 8:37 AM
+updated: 11/16/2025 9:13 AM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
-title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
+title: ROS Load in Plants and Animals - GLR Signaling and Cross Kingdom Excitatory Parallels
 tags:
   - Biolectrics
   - Quartz
@@ -12,50 +12,75 @@ tags:
   - Animals
   - GLR
   - Excitotoxicity
+  - Metabolism
 ---
 
 ## Overview
 
-This note links plant and animal biology through a single organizing variable. ROS load. In both kingdoms, glutamate related receptors control calcium entry and NADPH driven ROS production. Moderate ROS acts as an adaptive signal that strengthens stress resilience. Excess ROS or chronic overload pushes cells into damage, degeneration, or transformation.  
-
-In plants, glutamate receptor like channels couple cold sensing to apoplastic hydrogen peroxide and glutathione redox balance. In animals, ionotropic glutamate receptors couple synaptic activity to mitochondrial ROS and excitotoxic risk. The shapes of these curves are the same. Only the tissue context and behavioral output differ.
+Plant and animal cells share a conserved architecture for handling stress. Calcium entry drives ROS production and ROS determines the boundary between adaptation, degeneration, or metabolic survival mode. In plants, glutamate related receptors gate calcium into apoplastic NADPH oxidase pathways. In animals, ionotropic glutamate receptors gate calcium into mitochondrial and cytosolic oxidase pathways. Both kingdoms use ROS as the central variable that sets their redox operating point and defines their response to future stress.
 
 ## Plant ROS Load and GLR3.3 or GLR3.5
 
-Tomato GLR3.3 and GLR3.5 are glutamate receptor like channels that gate cold acclimation through a controlled increase in apoplastic ROS. Cold conditioning at twelve degrees Celsius induces GLR3.3 and GLR3.5 expression and primes plants for later exposure to four degrees Celsius. This priming requires a GLR linked ROS cascade.  
+Cold acclimation in plants relies on controlled ROS elevation. Tomato GLR3.3 and GLR3.5 increase calcium entry during cold conditioning, which activates RBOH1. RBOH1 produces apoplastic hydrogen peroxide, raising ROS and shifting the GSH or GSSG ratio toward a more oxidized state. This establishes the redox tone that plants need for chilling tolerance.
 
-Silencing GLR3.3 or GLR3.5 or blocking GLR activity with DNQX lowers respiratory burst oxidase homolog 1 (RBOH1) expression, decreases NADPH oxidase activity, and reduces apoplastic hydrogen peroxide accumulation. The glutathione ratio shifts toward a more reduced state with a lower GSH or GSSG ratio. Plants in this state lose chilling tolerance and suffer more membrane damage and electrolyte leakage when cold challenged [(Li et al., 2019)](https://doi.org/10.1111/pce.13623).  
-
-The phenotype is not rescued by restoring GLR expression alone. It is rescued by restoring ROS and redox tone. Foliar application of hydrogen peroxide or glutathione restores the GSH or GSSG ratio and chilling tolerance even when GLR3.3 or GLR3.5 are silenced. Silencing RBOH1 or the glutathione biosynthesis genes GSH1 and GSH2 produces the same loss of tolerance and the same failure of DNQX to have additional effects, placing GLRs upstream of an RBOH1 or NADPH oxidase or hydrogen peroxide or glutathione cascade [(Li et al., 2019)](https://doi.org/10.1111/pce.13623).  
-
-Cold acclimation in plants is therefore a controlled elevation of ROS load. GLR gating increases apoplastic hydrogen peroxide to a level that strengthens antioxidant systems and sets a higher redox operating point. If ROS is held too low by blocking GLR signaling or NADPH oxidase, plants are less able to withstand later stress.
+Blocking GLRs with DNQX, silencing GLR3.3 or GLR3.5, or silencing RBOH1 all suppress hydrogen peroxide production and collapse chilling tolerance. Membrane stability fails and electrolyte leakage increases during cold exposure. Hydrogen peroxide or glutathione application rescues tolerance even when GLRs are silenced, showing that ROS itself is the protective variable controlling acclimation [(Li et al., 2019)](https://doi.org/10.1111/pce.13623).
 
 ## Animal ROS Load and Excitotoxicity
 
-In the nervous system, ionotropic glutamate receptors play the same structural role. NMDA and AMPA receptors open cation channels, depolarize the membrane, and drive calcium entry through both the receptor pore and voltage gated calcium channels. Calcium is then transferred to mitochondria, where it stimulates oxidative phosphorylation and ROS production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
+Animals use the same control variable with different receptors. NMDA and AMPA receptors introduce calcium into neurons, and voltage gated channels amplify this inflow. Mitochondria increase respiration to support this activity but generate ROS as a consequence of higher electron transport. When receptor density increases through stress or trauma, calcium throughput rises beyond antioxidant capacity. Mitochondrial ROS then drives lipid peroxidation, protein oxidation, and membrane damage [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
 
-Under normal conditions, this coupling allows neurons to match energy production to activity. Short bursts of glutamatergic signaling increase mitochondrial work, generate ROS as a byproduct, and use that ROS as a signal to adjust synaptic strength and gene expression. When receptor density and calcium influx remain in balance with antioxidant defense, ROS stays in an adaptive window that supports plasticity and memory.  
+Other tissues show parallel patterns. In the kidney, glucocorticoid signaling activates NR3C1 and NADPH oxidase, increasing ROS mediated injury [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). In the stressed synapse, glucocorticoids and catecholamines increase excitatory gain and elevate ROS through the same calcium coupling machinery [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138).
 
-Chronic stress and repeated cortisol exposure increase NMDA and AMPA receptor recycling to the synaptic membrane, raising baseline calcium throughput. As receptor density and firing rates climb, mitochondrial ROS output scales upward. Lipid peroxidation, DNA oxidation, and mitochondrial membrane damage follow when ROS production exceeds the capacity of glutathione and GPX4 to buffer it [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). This is the excitotoxicity pathway captured in classical neurodegeneration models.  
+## Glycolytic Survival Mode in Plants Mirrors the Animal Warburg Shift
 
-Outside the brain, the same pattern appears with different inputs. In the kidney, glucocorticoid signaling activates NR3C1 and NADPH oxidase, generating ROS that accelerates glomerular damage and fibrosis [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). In the stressed synapse, glucocorticoids and catecholamines reshape glutamate transmission and increase excitatory gain, again coupling activity to higher ROS load [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). In each case, ROS sits at the convergence of receptor driven calcium entry, metabolic demand, and tissue damage.
+Excess ROS forces a shared metabolic decision across kingdoms. Both plants and animals reduce mitochondrial electron flow and shift toward glycolytic ATP production when oxidative load becomes unsustainable. This preserves energy while preventing further ROS generation.
+
+### Plant Response
+
+Plants decrease mitochondrial respiration and increase cytosolic glycolysis and OPPP activity. OPPP generates NADPH, which restores glutathione based antioxidant capacity. This shift  
+• reduces electron flow through ROS generating steps of the electron transport chain  
+• increases glycolytic ATP production without adding oxidative pressure  
+• activates alternative oxidase pathways that bypass complex one and complex three  
+• maintains redox balance by sustaining high NADPH levels  
+
+This is a controlled metabolic retreat that protects tissues during cold, drought, salinity, and pathogen stress.
+
+### Animal Response
+
+Animals make the same transition. Excess mitochondrial ROS from NMDA or AMPA driven calcium entry pushes cells toward glycolysis to avoid further oxidative stress. NADPH production through the pentose phosphate pathway rises to support glutathione and GPX4 repair.  
+
+In cancer this becomes the persistent aerobic glycolysis known as the Warburg shift. In healthy tissue it is a reversible survival mode that protects against excitotoxic collapse.
+
+### Cross Kingdom Parallels
+
+Plants  
+• GLR mediated calcium entry  
+• RBOH derived hydrogen peroxide  
+• glycolysis and OPPP for ATP and NADPH  
+• alternative oxidase for mitochondrial bypass  
+
+Animals  
+• NMDA and AMPA calcium entry  
+• mitochondrial and NADPH oxidase derived ROS  
+• glycolysis and PPP for ATP and NADPH  
+• reduced flux through complex one and complex three  
+
+### Unified Interpretation of the Shift
+
+Both kingdoms use calcium, ROS, and NADPH as core control variables. When ROS rises beyond the adaptive zone, mitochondrial activity is reduced and glycolytic plus PPP pathways take over energy and antioxidant production. This is a conserved survival architecture. It unites GLR controlled plant cold acclimation and ionotropic receptor controlled animal excitotoxicity and cancer metabolism under the same redox logic.
 
 ## Unified View of ROS Load across Kingdoms
 
-Li et al. show that plants use GLR controlled ROS elevation to create cold tolerance. Cold acclimation is not the absence of ROS. It is a calibrated increase in apoplastic hydrogen peroxide and a tuned glutathione ratio that prepares the redox system for later stress [(Li et al., 2019)](https://doi.org/10.1111/pce.13623).  
+The plant GLR3.3 or GLR3.5 or RBOH1 or hydrogen peroxide system and the animal NMDA or AMPA or NADPH oxidase or mitochondrial system follow the same fundamental pattern. A receptor gated calcium signal activates oxidase or mitochondrial respiration, producing ROS that sets the redox operating point. Moderate ROS builds resilience. Excess ROS drives injury or triggers metabolic reprogramming.
 
-Biolectrics treats neurons the same way. Moderate glutamatergic activity and controlled ROS production are required for learning and memory. Persistent stress or trauma pushes receptor density and calcium influx to a point where mitochondrial ROS exceeds repair capacity. At that point, the same ROS machinery that supported adaptation becomes the driver of excitotoxicity and ferroptotic progression [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).  
-
-The plant GLR3.3 or GLR3.5 or RBOH1 or hydrogen peroxide or glutathione cascade and the animal NMDA or AMPA or NADPH oxidase or mitochondrial ROS cascade follow the same logic. A receptor gated calcium signal turns on NADPH oxidases and mitochondrial respiration, which generate hydrogen peroxide and related ROS. These oxidants update the redox state of the cell and act as a control variable that decides whether stress leads to resilience, injury, or structural change.  
-
-From this perspective, ROS load is a universal integrator for stress signals in both plants and animals. GLRs and ionotropic glutamate receptors are specialized inputs to the same redox decision system. Their function is not only to carry information but to set the oxidative operating point of the cell so that future stress lands in a prepared or unprepared state.
+ROS load is the shared integrator that organizes stress responses across kingdoms. This explains why cold acclimation in plants and excitotoxicity in animals reflect the same underlying structure. Stress linked calcium entry, ROS generation, antioxidant capacity, and metabolic mode form a unified cross kingdom stress logic that defines adaptation or collapse.
 
 ---
 
 | Title | Authors | Year |
-|---|---|:--:|
-| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation induced chilling tolerance by regulating apoplastic H2O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
-| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
-| [Excitotoxicity, oxytosis or ferroptosis, and neurodegeneration, emerging insights into mitochondrial mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
-| [Stress pathways in chronic kidney disease, linking cortisol, oxidative stress, and inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
-| [The stressed synapse, the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
+|---|---:|:--:|
+| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation induced chilling tolerance](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
+| [Molecular mechanisms of excitotoxicity](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
+| [Excitotoxicity and ROS in neurodegeneration](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
+| [Stress pathways in chronic kidney disease](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
+| [The stressed synapse](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
