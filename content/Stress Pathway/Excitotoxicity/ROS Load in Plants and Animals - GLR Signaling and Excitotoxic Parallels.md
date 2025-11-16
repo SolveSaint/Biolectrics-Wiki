@@ -1,6 +1,6 @@
 ---
 created: 11/16/2025 8:33 AM
-updated: 11/16/2025 2:58 PM
+updated: 11/16/2025 3:19 PM
 site: https://solvesaint.github.io/Biolectrics-Wiki/Stress-Pathway/Excitotoxicity/ROS-Load-in-Plants-and-Animals---GLR-Signaling-and-Excitotoxic-Parallels
 chatref: https://chatgpt.com/g/g-p-6779ecb0dbcc81918d8fc46a7805cc1e-glutamate-upregulation/c/69188480-e248-832a-b273-d9e220d97546
 title: ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels
@@ -21,7 +21,9 @@ tags:
   - Excitability
   - Glutamate-Dysregulation
 ---
-
+%%
+Test hide for Quartz imhiding
+%%
 ## Overview
 
 Plants and animals follow the same excitation to redox architecture. Both kingdoms produce reactive oxygen species through stress and through the presence of persistent foreign objects. Each system uses calcium linked pathways to generate the same oxidant species, and each system produces the same biological outcomes when the load becomes too high.
