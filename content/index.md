@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/16/2025 5:10 PM
+updated: 11/16/2025 5:34 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -196,4 +196,3 @@ Interventions that rebalance this circuit include
 | [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
 | [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
 | [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki et al. | 2011 |
-
