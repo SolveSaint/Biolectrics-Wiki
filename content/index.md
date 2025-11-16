@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/16/2025 4:54 PM
+updated: 11/16/2025 5:10 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -20,7 +20,7 @@ tags:
 
 **Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. These processes operate in every excitable or metabolically active cell type. They link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems through shared electrical and redox pathways. These pathways form the cellular oxidative cleanup machinery that determines whether a cell adapts, degenerates, or transforms under load.
 
-The same excitation to redox architecture exists outside the animal kingdom. Plants use glutamate like receptor channels and respiratory burst oxidase homolog enzymes to convert calcium signals into reactive oxygen species in the same way that neurons and somatic cells use NMDA and AMPA receptors with mitochondrial and NADPH oxidase systems. Under persistent stress or foreign object containment, both plants and animals reach the same oxidative thresholds, enter the same glycolytic survival programs, and follow the same logic for hypergrowth or cell death. This is mapped in detail in [[Stress Pathway/Excitotoxicity/ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels|ROS Load in Plants and Animals – GLR Signaling and Excitotoxic Parallels]].
+The same excitation to redox architecture exists outside the animal kingdom. Plants use glutamate like receptor channels and respiratory burst oxidase homolog enzymes to convert calcium signals into reactive oxygen species in the same way that neurons and somatic cells use NMDA and AMPA receptors with mitochondrial and NADPH oxidase systems [(Marino et al., 2012)](https://doi.org/10.1016/j.tplants.2011.10.001); [(Suzuki et al., 2011)](https://doi.org/10.1016/j.pbi.2011.07.014). Under persistent stress or foreign object containment, both plants and animals reach the same oxidative thresholds, enter the same glycolytic survival programs, and follow the same logic for hypergrowth or cell death. Plant ROS reviews show that drought, salinity, heat, and other environmental pressures increase ROS and engage antioxidant defenses in the same threshold dependent way that nervous and somatic tissues do in animals [(Sharma et al., 2012)](https://doi.org/10.1155/2012/217037); [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695). This is mapped in detail in [[Stress Pathway/Excitotoxicity/ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels|ROS Load in Plants and Animals – GLR Signaling and Excitotoxic Parallels]].
 
 ---
 
@@ -192,3 +192,8 @@ Interventions that rebalance this circuit include
 | [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
 | [Transcriptional and synaptic regulation of NMDA glutamate receptor-mediated hippocampal plasticity and memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
+| [A burst of plant NADPH oxidases](https://doi.org/10.1016/j.tplants.2011.10.001) | Marino et al. | 2012 |
+| [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
+| [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
+| [Respiratory burst oxidases: the engines of ROS signaling](https://doi.org/10.1016/j.pbi.2011.07.014) | Suzuki et al. | 2011 |
+
