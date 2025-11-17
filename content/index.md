@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 10:14 AM
+updated: 11/17/2025 10:26 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -60,19 +60,29 @@ Transgenerational NR4A1 hypomethylation therefore provides a direct route to inh
 
 ## The Core of Autism is Transgenerational Hyperexcitability
 
-Autism represents the behavioral expression of a deeper excitability state set before birth by the stress methylome and endocrine regulators. Three recurring elements define this pattern.
+Autism represents the behavioral expression of a deeper excitability state set before birth by the stress methylome and endocrine regulators. Three recurring elements define this architecture.
 
 First, autism consistently shows excitation or inhibition imbalance, with elevated glutamatergic tone and reduced GABAergic inhibition in cortical and limbic circuits [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
 
-Second, parental trauma reshapes methylation at glucocorticoid related genes such as FKBP5, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005).
+Second, parental trauma reshapes methylation at glucocorticoid related genes such as FKBP5, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). This reflects the same generational inversion seen in the stress methylome broadly: stressed parents accumulate hypermethylation at restraint loci, and offspring inherit a relative hypomethylation that still sets a more excitable baseline than the parent had at birth. This shift reduces inherited glucocorticoid restraint and raises the developmental starting point of NMDA, AMPA, and mGluR driven signaling.
 
-Third, environmental stressors induce stable germline epimutations that bias neurodevelopment and promote later genetic mutations, converting experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
+Third, environmental stressors induce stable germline epimutations that bias neurodevelopment and promote later genetic mutations, converting lived experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
 
-Work in birds shows that parental glucocorticoid load changes offspring fear responses and HPA reactivity without direct exposure, demonstrating that hyperexcitability is a transgenerational trait rather than a random event [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
+Work in birds shows that parental glucocorticoid load alters offspring fear responses and HPA reactivity without direct exposure, demonstrating that hyperexcitability itself is a transgenerational trait rather than a random developmental anomaly [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
 
-In Biolectrics, autism is understood as inherited hyperexcitability. Circuits begin life with elevated glutamate receptor density, reduced inhibitory tone, and tighter coupling between calcium entry, metabolism, and ROS. This enhances pattern detection and sensory precision but narrows redox margins, raising risk of overload [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
+**Plants follow the same generational architecture.** Stressed parent plants accumulate hypermethylation at growth-balancing regulatory loci and progressively open chromatin at GLR–calcium–ROS promoters. Their offspring inherit these excitatory promoters in a primed, hypomethylated state, showing increased calcium responsiveness, faster ROS bursts, and heightened metabolic activation when exposed to heat, drought, cold, or salinity [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). This cross-kingdom parallel confirms that inherited hyperexcitability is not species-bound; it is a fundamental biological response to cumulative parental excitation.
 
-Neurodevelopmental and neurodegenerative diagnoses occupy different points on the same excitatory continuum. Early in life, it appears as autism. Later, depending on usage load, endocrine history, and redox reserve, the same architecture presents as affective instability or degenerative vulnerability [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005); [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
+Within Biolectrics, autism is therefore understood as **the human neurodevelopmental expression of an inherited hyperexcitable baseline**. Circuits begin life with:
+
+- **lower GR availability** than the parent originally had at birth  
+- **higher baseline NMDA and AMPA receptor expression**  
+- **reduced inhibitory tone**  
+- **faster calcium-ROS coupling** and  
+- **lower thresholds for metabolic activation**  
+
+This configuration enhances pattern detection and sensory resolution but narrows redox margins, raising vulnerability to overload when antioxidant reserves are limited [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
+
+Neurodevelopmental and neurodegenerative conditions then occupy different points on the same inherited excitatory continuum. Autism reflects the early developmental manifestation of this heightened excitatory baseline; affective dysregulation or degenerative vulnerability later in life represent downstream expressions of the same generational architecture, shaped by usage load, endocrine history, and redox capacity.
 
 ---
 
