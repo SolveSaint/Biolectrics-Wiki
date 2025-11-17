@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 10:45 AM
+updated: 11/17/2025 11:52 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -141,15 +141,9 @@ When calcium driven respiration pushes mitochondrial chemistry beyond equilibriu
 
 ### Neurological Disease
 
-Continuous NMDA and AMPA receptor activation drives relentless calcium influx into dendrites and somata. Mitochondria attempt to buffer this calcium by increasing respiration, which elevates superoxide and hydrogen peroxide release from the electron transport chain. As oxidative load surpasses antioxidant capacity, synaptic membranes undergo lipid peroxidation, mitochondrial membranes depolarize, and redox sensitive signaling pathways collapse. The result is progressive excitotoxic injury that unifies neurodegeneration across Alzheimer, ALS, Parkinson, and frontotemporal dementia [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
+In the **neuron**, continuous NMDA and AMPA receptor activation drives relentless calcium influx into dendrites and somata. Mitochondria attempt to buffer this calcium by increasing respiration, which elevates superoxide and hydrogen peroxide release from the electron transport chain. As oxidative load surpasses antioxidant capacity, synaptic membranes undergo lipid peroxidation, mitochondrial membranes depolarize, and redox sensitive signaling pathways collapse. The result is progressive excitotoxic injury that unifies neurodegeneration across Alzheimer, ALS, Parkinson, and frontotemporal dementia [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).  
 
 This neural ferroptotic trajectory is an advanced stage of the same glutamate calcium ROS loop that first served learning and memory. Once iron, ROS, and lipid peroxidation align, the circuit that encoded experience becomes the circuit that executes structural loss.
-
-### Exhaustion Excitotoxicity
-
-Systemic exertion elevates extracellular glutamate and perturbs TCA intermediates. Mitochondria operating under combined muscular and neuronal demand generate persistent ROS even after activity stops. Plasma metabolomics demonstrates this systemic linkage, with glutamate acting as a redox substrate that synchronizes oxidative stress across brain, liver, and skeletal muscle [(Germain et al., 2022)](https://doi.org/10.1172/jci.insight.157621).  
-
-When antioxidant reserves are sufficient, the system returns to baseline. When reserves are low, calcium and ROS remain elevated across the organism long after exertion ceases. This defines exhaustion excitotoxicity as a whole body phenomenon rather than a purely neural event.
 
 ### Cardiovascular Disease
 
@@ -159,15 +153,15 @@ ROS are deeply implicated in atherosclerosis, ischemic injury, and heart failure
 
 ### Kidney Disease
 
-Chronic cortisol signaling activates NR3C1 and NADPH oxidases in renal cells, generating ROS and inflammatory mediators that erode mitochondrial function and accelerate fibrosis. Podocytes, tubular epithelial cells, and vascular cells converge on the same excitatory oxidative cascade seen in neural and cardiac systems [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). The kidney demonstrates that glucocorticoid driven oxidative load is not neurologically restricted. It is a systemic excitation redox pathway that reshapes organ architecture wherever stress and ROS persist.
+In the **kidney**, chronic cortisol signaling activates NR3C1 and NADPH oxidases in renal cells, generating ROS and inflammatory mediators that erode mitochondrial function and accelerate fibrosis. Podocytes, tubular epithelial cells, and vascular cells converge on the same excitatory oxidative cascade seen in neural and cardiac systems [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). The kidney demonstrates that glucocorticoid driven oxidative load is not neurologically restricted. It is a systemic excitation redox pathway that reshapes organ architecture wherever stress and ROS persist.
 
 ### Rheumatoid Arthritis
 
-Loss of p53 restraint removes inhibition from NOX enzymes, producing elevated ROS that sustain angiogenesis, synovial proliferation, and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Cortisol and catecholamines amplify this circuitry by increasing NR3C1 and beta adrenergic receptor signaling, which upregulate NOX activity and mitochondrial ROS production. The rheumatoid microenvironment is therefore an excitatory oxidative engine that mirrors the same feedback loop seen in hyperexcitable neural circuits.
+In **arthritis**, loss of p53 restraint removes inhibition from NOX enzymes, producing elevated ROS that sustain angiogenesis, synovial proliferation, and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Cortisol and catecholamines amplify this circuitry by increasing NR3C1 and beta adrenergic receptor signaling, which upregulate NOX activity and mitochondrial ROS production. The rheumatoid microenvironment is therefore an excitatory oxidative engine that mirrors the same feedback loop seen in hyperexcitable neural circuits.
 
 ### Cancer
 
-Chronic inflammation is structurally similar to the foreign object containment seen in both plants and animals. In animals, macrophages form a ring around an unremovable irritant such as asbestos, silica, or microbial fragments. They release cytokines that push kynurenine metabolism toward **quinolinic acid (QUIN)**, an NMDA receptor agonist. Even in epithelial and endothelial tissues, NMDA receptors allow QUIN to drive calcium influx and mitochondrial ROS.
+In **cancer**, chronic inflammation is structurally similar to the foreign object containment seen in both plants and animals. In animals, macrophages form a ring around an unremovable irritant such as asbestos, silica, or microbial fragments. They release cytokines that push kynurenine metabolism toward **quinolinic acid (QUIN)**, an NMDA receptor agonist. Even in epithelial and endothelial tissues, NMDA receptors allow QUIN to drive calcium influx and mitochondrial ROS.
 
 Stress magnifies this process. Cortisol and catecholamines increase NMDA and AMPA receptor density across many non neuronal cell types, which increases calcium sensitivity and ROS output. When inflammation produces QUIN in a receptor enriched state, oxidative spikes become large enough to trigger the glycolytic survival shift. Mitochondrial respiration is suppressed to prevent ROS induced death, and glucose is routed through glycolysis, glutaminolysis, and SLC7A11 based cystine uptake to maintain ATP and glutathione.  
 
@@ -176,6 +170,12 @@ If this pressure continues, DNA methyltransferases stabilize the glycolytic prog
 Plants follow the same excitatory logic with their own ligand system. When insects, nematodes, microbes, or injected effectors embed in plant tissue, surrounding cells form a **gall**, a structural containment ring parallel to the inflammatory ring in animals. This gall tissue increases auxin, which amplifies GLR channel activation and RBOH based ROS production just as QUIN amplifies NMDA activity in animals. Both ligands raise calcium, increase ROS, force local tissues toward glycolysis, and generate hypergrowth structures when the shift stabilizes. In plants this produces galls. In animals this produces tumors. The containment logic, excitatory amplification, ROS escalation, glycolytic shift, and potential methylation lock follow the same biochemical sequence in both kingdoms.
 
 This resolves cancer and plant gall hypergrowth as two expressions of the same excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
+
+### Exhaustion Excitotoxicity
+
+Systemic exertion elevates extracellular glutamate and perturbs TCA intermediates. Mitochondria operating under combined muscular and neuronal demand generate persistent ROS even after activity stops. Plasma metabolomics demonstrates this systemic linkage, with glutamate acting as a redox substrate that synchronizes oxidative stress across brain, liver, and skeletal muscle [(Germain et al., 2022)](https://doi.org/10.1172/jci.insight.157621).  
+
+When antioxidant reserves are sufficient, the system returns to baseline. When reserves are low, calcium and ROS remain elevated across the organism long after exertion ceases. This defines exhaustion excitotoxicity as a whole body phenomenon rather than a purely neural event.
 
 ### ROS as the Universal Cause of Aging and Disease across Animalia
 
