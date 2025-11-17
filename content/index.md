@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/16/2025 9:12 PM
+updated: 11/16/2025 10:24 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -105,30 +105,43 @@ In **somatic and tumor capable cells**, greater flexibility allows a glycolytic 
 
 ## ROS and Ferroptotic Progression
 
-When calcium driven respiration pushes mitochondrial chemistry beyond equilibrium, superoxide and hydrogen peroxide accumulate. Iron catalyzes conversion to hydroxyl radicals through Fenton chemistry, driving lipid peroxidation and membrane failure [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
+When calcium driven respiration pushes mitochondrial chemistry beyond equilibrium, superoxide and hydrogen peroxide begin to accumulate. In the presence of free iron, these oxidants undergo Fenton chemistry that generates hydroxyl radicals, which initiate chain lipid peroxidation and destabilize membranes [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). This is the structural beginning of ferroptotic pressure. The same redox overload follows an identical cascade across neural, muscular, hepatic, cardiovascular, renal, immune, and epithelial systems.
 
-This redox overload follows the same cascade across organ systems.
+### Neurological Disease
 
-#### Neurological Disease
-Continuous NMDA and AMPA activation produces calcium influx that overwhelms mitochondrial buffering and triggers ROS mediated synaptic collapse [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
+Continuous NMDA and AMPA receptor activation drives relentless calcium influx into dendrites and somata. Mitochondria attempt to buffer this calcium by increasing respiration, which elevates superoxide and hydrogen peroxide release from the electron transport chain. As oxidative load surpasses antioxidant capacity, synaptic membranes undergo lipid peroxidation, mitochondrial membranes depolarize, and redox sensitive signaling pathways collapse. The result is progressive excitotoxic injury that unifies neurodegeneration across Alzheimer, ALS, Parkinson, and frontotemporal dementia [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
 
-#### Exhaustion Excitotoxicity
-Exertion elevates plasma glutamate and distorts TCA intermediates with persistent ROS, demonstrating systemic oxidative linkage across neuronal, muscular, and hepatic metabolism [(Germain et al., 2022)](https://doi.org/10.1172/jci.insight.157621).
+### Exhaustion Excitotoxicity
 
-#### Cardiovascular Disease
-Calcium overload and ROS drive cardiomyocyte ferroptosis [(Peoples et al., 2019)](https://doi.org/10.1038/s12276-019-0355-7). Iron dysregulation amplifies injury [(Sawicki et al., 2023)](https://doi.org/10.1161/CIRCRESAHA.122.321667).
+Systemic exertion elevates extracellular glutamate and perturbs TCA intermediates. Mitochondria operating under combined muscular and neuronal demand generate persistent ROS even after activity stops. Plasma metabolomics demonstrates this systemic linkage, with glutamate acting as a redox substrate that synchronizes oxidative stress across brain, liver, and skeletal muscle [(Germain et al., 2022)](https://doi.org/10.1172/jci.insight.157621). When antioxidant reserves are low, calcium and ROS remain elevated across the system long after exertion ceases, marking exhaustion excitotoxicity as a whole-body phenomenon.
 
-#### Kidney Disease
-Chronic cortisol activates NR3C1 and NADPH oxidase, generating ROS and inflammatory mediators that accelerate glomerular damage [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259).
+### Cardiovascular Disease
 
-#### Rheumatoid Arthritis
-Loss of p53 restraint increases NOX activity and ROS, driving angiogenesis and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w).
+Calcium overload in cardiomyocytes drives hypermetabolic mitochondrial respiration. Superoxide and hydrogen peroxide accumulate, initiating lipid peroxidation and iron mediated ferroptotic collapse of cardiac cells [(Peoples et al., 2019)](https://doi.org/10.1038/s12276-019-0355-7). Chronic oxidative imbalance destabilizes electron transport chain complexes, while heme degradation and ferritin breakdown expand the labile iron pool [(Sawicki et al., 2023)](https://doi.org/10.1161/CIRCRESAHA.122.321667). The same oxidative machinery that links stress and excitability in neurons drives heart failure, arrhythmogenesis, and ischemic injury.
 
-#### Cancer
-Chronic inflammation drives kynurenine metabolism toward quinolinic acid, a potent NMDA agonist. Even non neuronal tissues express NMDA receptors. Excessive activation produces calcium influx and mitochondrial ROS. Stress amplifies this by increasing receptor density. ROS spikes push cells into glycolytic survival. Persistent inflammation and stress methylate glycolytic and glutaminolytic programs into the genome, stabilizing malignancy. The largest example is asbestos, where failed macrophage containment creates a chronic QUIN and ROS environment that forces glycolytic identity and DNA lock-in.
+### Kidney Disease
 
-#### ROS as the universal cause of aging and disease
-Across all systems, ROS is the final common pathway. Persistent overload triggers ferroptosis when GPX4 and glutathione collapse. Hydrogen peroxide reacts with iron to produce hydroxyl radicals that oxidize lipids and destabilize nuclei. This defines the terminal stage of the stress glutamate ROS cascade.
+Chronic cortisol signaling activates NR3C1 and NADPH oxidases in renal cells, generating ROS and inflammatory mediators that erode mitochondrial function and accelerate fibrosis. Podocytes, tubular epithelial cells, and vascular cells converge on the same excitatory oxidative cascade seen in neural and cardiac systems [(Motrenikova et al., 2025)](https://doi.org/10.3390/antiox14101259). The kidney demonstrates that glucocorticoid driven oxidative load is not neurologically restricted; it is a systemic excitation-redox pathway.
+
+### Rheumatoid Arthritis
+
+Loss of p53 restraint removes inhibition from NOX enzymes, producing elevated ROS that sustain angiogenesis, synovial proliferation, and chronic inflammation [(Robat-Jazi et al., 2025)](https://doi.org/10.1007/s10238-025-01867-w). Cortisol and catecholamines amplify this circuitry by increasing NR3C1 and β adrenergic receptor signaling, which upregulate NOX activity and mitochondrial ROS production. The rheumatoid microenvironment is therefore an excitatory oxidative engine that mirrors the same feedback loop seen in hyperexcitable neural circuits.
+
+### Cancer
+
+Chronic inflammation is structurally identical to the foreign-object containment seen in both plants and animals. In animals, macrophages form a ring around an unremovable irritant such as asbestos, silica, or microbial fragments. They release cytokines that push kynurenine metabolism toward **quinolinic acid (QUIN)**, an NMDA receptor agonist. Even in epithelial and endothelial tissues, NMDA receptors allow QUIN to drive calcium influx and mitochondrial ROS.
+
+Stress magnifies this dramatically. Cortisol and catecholamines increase NMDA and AMPA receptor density across many non neuronal cell types, which increases calcium sensitivity and ROS output. When inflammation produces QUIN in a receptor enriched state, oxidative spikes become large enough to trigger the glycolytic survival shift. Mitochondrial respiration is suppressed to prevent ROS induced death, and glucose is routed through glycolysis, glutaminolysis, and SLC7A11 based cystine uptake to maintain ATP and glutathione. If this continues, DNA methyltransferases stabilize the glycolytic program, locking oxidative phosphorylation out of reach and producing malignant persistence.
+
+Plants follow the same excitatory logic with their own ligand system. When insects, nematodes, microbes, or injected effectors embed in plant tissue, surrounding cells form a **gall**, a structural containment ring exactly parallel to the inflammatory ring in animals. This gall tissue increases **auxin**, which amplifies GLR channel activation and RBOH based ROS production just as QUIN amplifies NMDA activity in animals. Both ligands raise calcium, increase ROS, force local tissues toward glycolysis, and generate hypergrowth structures when the shift stabilizes. In plants this produces galls; in animals this produces tumors. The containment logic, excitatory amplification, ROS escalation, glycolytic shift, and potential methylation lock follow the same biochemical sequence in both kingdoms.
+
+This resolves cancer and plant gall hypergrowth as two expressions of the same excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
+
+### ROS as the Universal Cause of Aging and Disease across Animalia
+
+Across all tissues, ROS is the final common pathway. Persistent overload drives ferroptosis when GPX4 and glutathione collapse. Chronic HO-1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The expanded mitochondrial iron pool accelerates hydroxyl radical generation, driving chain lipid peroxidation, nuclear membrane failure, and irreversible ferroptotic death.
+
+This sequence defines the terminal stage of the stress glutamate ROS cascade: calcium overload, mitochondrial hyperactivation, ROS accumulation, iron driven peroxidation, and structural collapse. It unifies aging, degeneration, inflammation, and malignancy under one biochemical architecture.
 
 ---
 
@@ -147,30 +160,32 @@ Biolectrics links the brain and body through shared dependence on electrical act
 | [Activity-Dependent Nr4a2 Induction Modulates Synaptic Expression of AMPA Receptors and Plasticity via a Ca2+/CRTC1/CREB Pathway](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) | Català-Solsona et al. | 2023 |
 | [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
 | [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
-| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang and Sun | 2025 |
+| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang & Sun | 2025 |
 | [Environmentally induced epigenetic transgenerational inheritance of sperm epimutations promote genetic mutations](https://doi.org/10.1080/15592294.2015.1062207) | Skinner et al. | 2015 |
 | [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
 | [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
+| [Fever Induces Long-Term Synaptic Enhancement and Protects Learning in an Accelerated Aging Model](https://doi.org/10.14336/AD.2025.0591) | Du et al. | 2025 |
 | [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
 | [Glucocorticoid receptor gene (NR3C1) DNA methylation in association with trauma, psychopathology, transcript expression, or genotypic variation: A systematic review](https://doi.org/10.1016/j.neubiorev.2018.08.017) | Watkeys et al. | 2018 |
-| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci and Paré | 2007 |
-| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman and Chapa González | 2024 |
+| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci & Paré | 2007 |
+| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman & Chapa González | 2024 |
 | [Glutamatergic and GABAergic Synapses in the Human Spinal Dorsal Horn Revealed With Immunohistochemistry](https://doi.org/10.1002/cne.70091) | Davis et al. | 2025 |
-| [Hippocampal GR and CB1 mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
+| [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
 | [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
+| [Human DNA methylation and the cortisol response to an acute psychological stressor: a systematic review and meta-analysis](https://doi.org/10.1101/2025.10.23.25338702) | Balfour et al. | 2025 |
 | [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
 | [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
-| [Mechanisms for acute stress induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
-| [Metabotropic Glutamate Receptor 5 and Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
+| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
+| [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
 | [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
-| [Modulation of Nur77 DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
+| [Modulation of Nur77-DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
 | [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
-| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
-| [Oxidative stress mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
+| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
+| [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in Triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
 | [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
-| [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in ME/CFS](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
-| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura and Keaney | 2011 |
-| [Role of iron related oxidative stress and mitochondrial dysfunction in cardiovascular diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
-| [Stress pathways in chronic kidney disease: linking cortisol, oxidative stress, and inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
+| [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
+| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura & Keaney | 2011 |
+| [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
+| [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
-| [Transcriptional and synaptic regulation of NMDA receptor mediated hippocampal plasticity](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
+| [Transcriptional and synaptic regulation of NMDA glutamate receptor-mediated hippocampal plasticity and memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
