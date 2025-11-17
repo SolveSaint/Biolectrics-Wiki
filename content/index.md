@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 11:58 AM
+updated: 11/17/2025 12:12 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -179,11 +179,11 @@ When antioxidant reserves are sufficient, the system returns to baseline. When r
 
 ### ROS as the Universal Cause of Aging and Degeneration across the Plant and Animal Kingdoms
 
-Across all tissues in both plants and animals, ROS is the final common pathway when excitatory load exceeds antioxidant capacity. Persistent overload drives ferroptotic chemistry when GPX4 and glutathione collapse. Chronic HO1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The expanded mitochondrial iron pool accelerates hydroxyl radical generation, driving chain lipid peroxidation, nuclear membrane failure, and irreversible ROS based death.
+Across all tissues in both plants and animals, ROS is the final common pathway when excitatory load exceeds antioxidant capacity. In animal cells, sustained calcium influx and mitochondrial hyperactivation push the electron transport chain into a high pressure state that generates superoxide and hydrogen peroxide. Persistent overload drives ferroptotic chemistry when glutathione and GPX4 collapse. Chronic HO1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The enlarged iron pool accelerates hydroxyl radical formation, which drives chain lipid peroxidation, nuclear membrane failure, and irreversible oxidative death.
 
-Plants converge on the same endpoint through RBOH driven ROS accumulation, calcium dependent redox escalation, and iron catalyzed membrane oxidation. When ROS overwhelms antioxidant systems such as ascorbate, glutathione, and GPX like enzymes, plant cells undergo programmed collapse through the same oxidative chemistry that governs ferroptosis in animals.
+Plants converge on the same endpoint through their own organelle systems. GLR mediated calcium entry activates RBOH enzymes, which generate large bursts of superoxide and hydrogen peroxide. Chloroplasts and mitochondria both amplify ROS when electron transport becomes over reduced under drought, heat, salinity, or infection. When this oxidant burden overwhelms ascorbate, glutathione, and GPX like enzymes, plant cells enter a programmed collapse that is chemically identical to ferroptosis in animal cells. The iron dependent lipid peroxidation that defines ferroptotic death in animals appears in plants under severe abiotic or biotic stress, and the same repair failure triggers membrane breakdown and loss of cellular integrity.
 
-This sequence defines the terminal stage of the stress glutamate ROS cascade in both kingdoms. Calcium overload, mitochondrial or chloroplast hyperactivation, ROS accumulation, iron driven peroxidation, and structural collapse form a universal biological architecture for aging, degeneration, inflammation, and malignant or hypergrowth transformation.
+This sequence defines the terminal stage of the stress glutamate ROS cascade in both kingdoms. Calcium overload, mitochondrial or chloroplast driven hyperactivation, RBOH or NADPH oxidase escalation, ROS accumulation, iron catalyzed peroxidation, and structural collapse form a universal biological architecture for aging, degeneration, inflammatory pathology, and malignant or hypergrowth transformation. The specific proteins differ between plants and animals, but the chemical logic and redox thresholds that determine survival or collapse are the same.
 
 ---
 
