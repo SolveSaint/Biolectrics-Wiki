@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 10:38 AM
+updated: 11/17/2025 10:43 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -69,7 +69,7 @@ Autism represents the behavioral expression of a deeper excitability state set b
 
 First, autism consistently shows excitation or inhibition imbalance, with elevated glutamatergic tone and reduced GABAergic inhibition in cortical and limbic circuits [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
 
-Second, parental trauma reshapes methylation at glucocorticoid related genes such as FKBP5, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). This reflects the same generational inversion seen in the stress methylome broadly: stressed parents accumulate hypermethylation at restraint loci, and offspring inherit a relative hypomethylation that still sets a more excitable baseline than the parent had at birth. This shift reduces inherited glucocorticoid restraint and raises the developmental starting point of NMDA, AMPA, and mGluR driven signaling.
+Second, parental trauma reshapes methylation at glucocorticoid related genes such as NR3C1, FKBP5, and HSD11B2, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). This reflects the same generational inversion seen in the stress methylome broadly: stressed parents accumulate hypermethylation at restraint loci, and offspring inherit a relative hypomethylation that still sets a more excitable baseline than the parent had at birth. This shift reduces inherited glucocorticoid restraint and raises the developmental starting point of NMDA, AMPA, and mGluR driven signaling.
 
 Third, environmental stressors induce stable germline epimutations that bias neurodevelopment and promote later genetic mutations, converting lived experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
 
