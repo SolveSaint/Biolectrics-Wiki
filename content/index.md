@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 10:26 AM
+updated: 11/17/2025 10:38 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -18,10 +18,15 @@ tags:
 
 ---
 
-**Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes bioelectric and metabolic function across generations. It describes how psychological or physiological stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. These processes operate in every excitable or metabolically active cell type. They link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems through shared electrical and redox pathways. These pathways form the cellular oxidative cleanup machinery that determines whether a cell adapts, degenerates, or transforms under load.
+**Biolectrics** is a unified model explaining how stress driven glutamate signaling shapes bioelectric and metabolic function across generations. Stress increases glutamate receptor density and synaptic activity, driving calcium entry, mitochondrial overload, and the generation of [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. When this excitation persists, cells alter their methylation patterns at key regulatory loci. These methylation changes shift transcriptional priority toward excitatory pathways and are passed to offspring, establishing inherited hyperexcitability as a baseline state. This generational imprint determines receptor abundance, calcium sensitivity, metabolic load, and antioxidant demand at the beginning of life.
 
+These processes operate in every excitable or metabolically active cell type in both plants and animals. In animals they link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems. In plants they link GLR based calcium signaling networks, redox signaling tissues, vascular transport, meristematic growth zones, and immune containment structures. In both kingdoms these pathways form the oxidative cleanup machinery that determines whether a cell adapts, degenerates, or transforms under load.
 
-The same excitation to redox architecture exists in the plant kingdom. Plants use glutamate like receptor channels and respiratory burst oxidase homolog enzymes to convert calcium signals into ROS in the same way neurons and somatic cells use NMDA and AMPA receptors with mitochondrial and NADPH oxidase systems. Under persistent stress or foreign object containment, plants and animals reach the same oxidative thresholds, engage the same glycolytic survival logic, and follow the same pattern of hypergrowth or cell death. This full cross kingdom mapping is presented in [[Stress Pathway/Excitotoxicity/ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels|ROS Load in Plants and Animals – GLR Signaling and Excitotoxic Parallels]].
+When biological demand exceeds antioxidant capacity the same glutamate driven calcium ROS cascade becomes the mechanism behind cellular injury. The outcome is excitotoxicity in neurons, inflammation in immune tissues, ferroptosis in iron rich environments, metabolic collapse in stressed organs, and malignant transformation when glycolytic survival pathways stabilize. The same logic applies in plants where overload drives oxidative collapse, programmed cell death, or hypergrowth structures such as galls.
+
+The same excitation to redox architecture therefore exists across the plant and animal kingdoms. Plants use glutamate like receptor channels and respiratory burst oxidase homolog enzymes to convert calcium signals into ROS in the same way that animal cells use NMDA and AMPA receptors with mitochondrial and NADPH oxidase systems. Under persistent stress or foreign object containment both plants and animals undergo the same methylation based shift toward excitatory readiness. Parents accumulate hypermethylation at regulatory balance points and pass hypomethylated stress responsive promoters to offspring, establishing a genetically encoded excitatory bias in the next generation.
+
+Once stress exceeds redox control both kingdoms converge on the same survival options. Cells either enter a glycolytic survival program, creating hypergrowth structures such as tumors in animals or galls in plants, or they undergo ROS mediated collapse. This full cross kingdom mapping is presented in [[Stress Pathway/Excitotoxicity/ROS Load in Plants and Animals - GLR Signaling and Excitotoxic Parallels|ROS Load in Plants and Animals – GLR Signaling and Excitotoxic Parallels]].
 
 ---
 
