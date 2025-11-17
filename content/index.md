@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 11:52 AM
+updated: 11/17/2025 11:58 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -177,11 +177,13 @@ Systemic exertion elevates extracellular glutamate and perturbs TCA intermediate
 
 When antioxidant reserves are sufficient, the system returns to baseline. When reserves are low, calcium and ROS remain elevated across the organism long after exertion ceases. This defines exhaustion excitotoxicity as a whole body phenomenon rather than a purely neural event.
 
-### ROS as the Universal Cause of Aging and Disease across Animalia
+### ROS as the Universal Cause of Aging and Degeneration across the Plant and Animal Kingdoms
 
-Across all tissues, ROS is the final common pathway. Persistent overload drives ferroptosis when GPX4 and glutathione collapse. Chronic HO-1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The expanded mitochondrial iron pool accelerates hydroxyl radical generation, driving chain lipid peroxidation, nuclear membrane failure, and irreversible ferroptotic death.
+Across all tissues in both plants and animals, ROS is the final common pathway when excitatory load exceeds antioxidant capacity. Persistent overload drives ferroptotic chemistry when GPX4 and glutathione collapse. Chronic HO1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The expanded mitochondrial iron pool accelerates hydroxyl radical generation, driving chain lipid peroxidation, nuclear membrane failure, and irreversible ROS based death.
 
-This sequence defines the terminal stage of the stress glutamate ROS cascade: calcium overload, mitochondrial hyperactivation, ROS accumulation, iron driven peroxidation, and structural collapse. It unifies aging, degeneration, inflammation, and malignancy under one biochemical architecture.
+Plants converge on the same endpoint through RBOH driven ROS accumulation, calcium dependent redox escalation, and iron catalyzed membrane oxidation. When ROS overwhelms antioxidant systems such as ascorbate, glutathione, and GPX like enzymes, plant cells undergo programmed collapse through the same oxidative chemistry that governs ferroptosis in animals.
+
+This sequence defines the terminal stage of the stress glutamate ROS cascade in both kingdoms. Calcium overload, mitochondrial or chloroplast hyperactivation, ROS accumulation, iron driven peroxidation, and structural collapse form a universal biological architecture for aging, degeneration, inflammation, and malignant or hypergrowth transformation.
 
 ---
 
