@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 10:43 AM
+updated: 11/17/2025 10:45 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -73,7 +73,7 @@ Second, parental trauma reshapes methylation at glucocorticoid related genes suc
 
 Third, environmental stressors induce stable germline epimutations that bias neurodevelopment and promote later genetic mutations, converting lived experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
 
-Work in birds shows that parental glucocorticoid load alters offspring fear responses and HPA reactivity without direct exposure, demonstrating that hyperexcitability itself is a transgenerational trait rather than a random developmental anomaly [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
+Work in birds shows that heightened parental cortisol load increases offspring fear response and HPA reactivity without direct exposure to upregulating conditions, demonstrating that hyperexcitability itself is a transgenerational trait rather than a random developmental anomaly [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
 
 **Plants follow the same generational architecture.** Stressed parent plants accumulate hypermethylation at growth-balancing regulatory loci and progressively open chromatin at GLR–calcium–ROS promoters. Their offspring inherit these excitatory promoters in a primed, hypomethylated state, showing increased calcium responsiveness, faster ROS bursts, and heightened metabolic activation when exposed to heat, drought, cold, or salinity [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). This cross-kingdom parallel confirms that inherited hyperexcitability is not species-bound; it is a fundamental biological response to cumulative parental excitation.
 
