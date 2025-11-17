@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/16/2025 10:47 PM
+updated: 11/17/2025 9:27 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -33,7 +33,11 @@ The intergenerational structure of this process was demonstrated in trauma expos
 
 The key principle is that parental stress produces hypermethylation at regulatory restraint genes. This hypermethylation reduces the contribution of these brakes and redirects transcriptional activity toward excitatory pathways such as NMDA, AMPA, and mGluR5 receptor subunits. In the next generation these loci often appear in a hypomethylated, open configuration at the stress responsive elements. Offspring therefore begin life with increased receptor readiness, higher excitatory tone, and lower thresholds for calcium and metabolic activation. This inversion pattern defines the stress methylome across generations.
 
-Plants follow the same functional logic with their own genomic architecture. Chronic stress in the parent induces hypermethylation at regulatory brakes that normally limit stress activation, including developmental and growth related loci that would otherwise favor baseline growth. This shifts the parent epigenome toward a defense oriented state. At the same time, repeated stress exposure primes promoters that control calcium influx, GLR activity, and RBOH based ROS production. These stress response loci become more accessible so that in the next generation they sit in a hypomethylated, open configuration. Offspring then activate GLR mediated calcium signaling and ROS bursts more rapidly when exposed to drought, salinity, heat, or cold [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325).  
+Plants follow the same functional logic through their own genomic architecture. Chronic stress in the parent shifts methylation away from baseline growth programs and toward stress activation pathways. Growth associated and developmental loci experience relative hypermethylation as the organism reallocates transcriptional resources toward defense. At the same time, repeated stress exposure primes promoters that control calcium influx, GLR channel activity, and RBOH driven ROS production. 
+
+These stress responsive loci become more accessible so that in the next generation they sit in a hypomethylated, open configuration. Offspring then activate GLR mediated calcium signaling and ROS bursts more rapidly when exposed to drought, salinity, heat, or cold. 
+
+This produces the same outcome seen in animals: inherited hyperexcitability and lower activation thresholds, even though the molecular regulators differ. The plant system therefore converges functionally with the animal stress methylome by passing a primed excitatory state to offspring, establishing higher baseline readiness for calcium influx, ROS generation, and metabolic activation [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325).
 
 The pattern is the same in both kingdoms. Stress induces hypermethylation at genes that maintain steady state regulation in the stressed individual. Offspring inherit hypomethylation at the response promoters that control excitatory activation. This inversion sets the next generation into a higher readiness state with increased receptor expression, increased calcium throughput, and faster activation of the excitatory to redox pathway.
 
