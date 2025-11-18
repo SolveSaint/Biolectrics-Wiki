@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/17/2025 12:12 PM
+updated: 11/18/2025 9:38 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -167,9 +167,9 @@ Stress magnifies this process. Cortisol and catecholamines increase NMDA and AMP
 
 If this pressure continues, DNA methyltransferases stabilize the glycolytic program, locking oxidative phosphorylation out of reach and producing malignant persistence. Oxidative stress also drives DNA damage and selective degradation of nuclear components through noncanonical autophagy in highly stressed tumor cells, as shown in triple negative breast cancer models [(Chentunarayan Singh et al., 2025)](https://doi.org/10.1016/j.freeradbiomed.2025.10.264). Nuclear remodeling in this context is another expression of the same ROS centered survival imperative.
 
-Plants follow the same excitatory logic with their own ligand system. When insects, nematodes, microbes, or injected effectors embed in plant tissue, surrounding cells form a **gall**, a structural containment ring parallel to the inflammatory ring in animals. This gall tissue increases auxin, which amplifies GLR channel activation and RBOH based ROS production just as QUIN amplifies NMDA activity in animals. Both ligands raise calcium, increase ROS, force local tissues toward glycolysis, and generate hypergrowth structures when the shift stabilizes. In plants this produces galls. In animals this produces tumors. The containment logic, excitatory amplification, ROS escalation, glycolytic shift, and potential methylation lock follow the same biochemical sequence in both kingdoms.
+Plants follow the same excitatory logic with their own ligand system. When insects, nematodes, microbes, or injected effectors embed in plant tissue, surrounding cells form a **gall**, a structural containment ring parallel to the inflammatory ring in animals. This gall tissue increases auxin, which amplifies GLR channel activation and RBOH based ROS production just as QUIN amplifies NMDA activity in animals. Both ligands raise calcium, increase ROS, force local tissues toward glycolysis, and generate hypergrowth structures when the shift stabilizes. In plants this produces galls and other hypergrowth structures. In animals this produces tumors. The containment logic, excitatory amplification, ROS escalation, glycolytic shift, and potential methylation lock follow the same biochemical sequence in both kingdoms.
 
-This resolves cancer and plant gall hypergrowth as two expressions of the same excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
+This resolves cancer and plant hypergrowth structures as two expressions of the same excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
 
 ### Exhaustion Excitotoxicity
 
