@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 11/18/2025 9:38 AM
+updated: 01/08/2026 7:14 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -38,11 +38,11 @@ Intergenerational transmission has been demonstrated directly. Trauma exposed pa
 
 The key principle is that parental stress induces **hypermethylation at regulatory restraint genes**, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead it reduces glucocorticoid restraint and reallocates transcriptional priority toward excitatory pathways, increasing synthesis of NMDA, AMPA, and related glutamate receptor subunits through activity driven promoters. Over time this excitatory configuration becomes the parent’s operating baseline.
 
-In the next generation these same loci often appear **hypomethylated relative to the stressed parent**. Crucially, this inherited “hypo” state is not a restoration of the parent’s original baseline at birth. The parent began life with higher GR availability and stronger glucocorticoid restraint. After chronic stress and hypermethylation, the parent’s GR system is reduced.
+In the next generation these same loci often appear **hypomethylated relative to the stressed parent**. Crucially, this inherited “hypo” state is not a restoration of the parent’s original baseline at birth. The parent began life with lower GR availability. After chronic stress and hypermethylation, the parent’s GR system is reduced.
 
-The offspring inherit a configuration that is *less methylated than the stressed parent*, but **still more methylated than the parent was at birth**. This means the offspring begin life with **lower GR availability than the parent originally had**, shifting the cortisol–glutamate balance toward excitatory dominance from the start.
+The offspring inherit a configuration that is hypomethylated. Crucially, this means the offspring begin life with **higher GR availability than the parent originally had**, shifting the cortisol–glutamate balance toward excitatory dominance from the start.
 
-Functionally, this inherited state raises baseline NMDA, AMPA, and related receptor readiness, producing increased excitatory tone and lower thresholds for calcium influx and metabolic activation. This **relative hyper-to-hypo inversion** is how the stress methylome transmits excitatory load across generations: the parent becomes hypermethylated under stress, and the offspring inherit a “hypo” state that is still shifted toward excitatory priming compared to the original ancestral baseline.
+Functionally, this inherited state raises baseline NMDA, AMPA, and related receptor readiness, producing increased excitatory tone and lower thresholds for calcium influx and metabolic activation. This **relative hyper-to-hypo inversion** is how the stress methylome transmits excitatory load across generations: the parent becomes hypermethylated under stress, and the offspring inherit a “hypo” state that is shifted toward excitatory priming compared to the original ancestral baseline.
 
 Plants follow the same functional logic through their own genomic architecture. Chronic stress in the parent induces **hypermethylation at growth associated regulatory loci**, not as suppression but as a reallocation of transcriptional priority away from baseline growth and toward excitatory defense. This parallels the animal shift away from glucocorticoid restraint and toward NMDA and AMPA driven throughput.
 
