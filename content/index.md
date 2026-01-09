@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 01/08/2026 7:14 PM
+updated: 01/08/2026 7:15 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -63,7 +63,7 @@ Transgenerational NR4A1 hypomethylation therefore provides a direct route to inh
 
 ---
 
-## The Core of Autism is Transgenerational Hyperexcitability
+## The Core of Autism is Intergenerational Hyperexcitability
 
 Autism represents the behavioral expression of a deeper excitability state set before birth by the stress methylome and endocrine regulators. Three recurring elements define this architecture.
 
