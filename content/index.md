@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 3:05 PM
+updated: 05/15/2026 3:23 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -18,9 +18,11 @@ tags:
 
 ---
 
-**Biolectrics** is a unified model explaining how stress driven excitatory signaling shapes bioelectric and metabolic function across generations. In animals, stress increases glutamatergic activity, raises NMDA and AMPA receptor readiness, drives calcium entry, increases mitochondrial loading, and generates [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. When this excitation persists, cells alter methylation patterns at key regulatory loci. These methylation changes shift transcriptional priority toward excitatory responsiveness and can be transmitted to offspring, establishing inherited hyperexcitability as a baseline state. This generational imprint influences receptor readiness, calcium sensitivity, metabolic load, and antioxidant demand at the beginning of life.
+**Biolectrics** is a unified model explaining how stress driven excitatory signaling shapes bioelectric and metabolic function across generations. In animals, stress increases glutamatergic activity, raises NMDA and AMPA receptor readiness, drives calcium entry, increases mitochondrial loading, and generates [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. When this stress associated excitatory load persists, regulatory methylation patterns progressively shift at key feedback and signaling loci. This generational imprint influences receptor readiness, calcium sensitivity, metabolic load, and antioxidant demand at the beginning of life.
 
 These processes operate in every excitable or metabolically active cell type in both plants and animals. In animals they link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems. In plants they link GLR based calcium signaling networks, redox signaling tissues, vascular transport, meristematic growth zones, and immune containment structures. In both kingdoms these pathways determine whether a cell adapts, degenerates, or transforms under load.
+
+Within this framework, excitatory signaling refers broadly to calcium dependent activation states and stress responsive throughput regulation, including but not limited to synaptic glutamatergic transmission.
 
 When biological demand exceeds antioxidant capacity, the same excitation calcium ROS cascade becomes the mechanism behind cellular injury. The outcome is excitotoxicity in neurons, inflammation in immune tissues, ferroptosis in iron rich environments, metabolic collapse in stressed organs, and malignant transformation when glycolytic survival pathways stabilize. The same logic applies in plants, where overload drives oxidative collapse, programmed cell death, or hypergrowth structures such as galls.
 
@@ -71,6 +73,8 @@ First, autism consistently shows excitation or inhibition imbalance, with elevat
 Second, parental trauma reshapes methylation at glucocorticoid related genes such as NR3C1, FKBP5, and HSD11B2, altering cortisol feedback and stress sensitivity across generations [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Chronic stress weakens effective glucocorticoid feedback regulation through persistent alterations in glucocorticoid receptor signaling and FKBP5 responsiveness. Offspring inherit this altered regulatory architecture as heightened stress sensitivity, prolonged cortisol associated signaling, and a more excitable developmental baseline that favors NMDA, AMPA, and mGluR driven throughput.
 
 Third, environmental stressors induce stable germline epimutations that bias neurodevelopment and promote later genetic mutations, converting lived experience into heritable structure [(Skinner et al., 2015)](https://doi.org/10.1080/15592294.2015.1062207).
+
+Early physiological evidence for altered inherited excitatory regulation is visible in pupillary light reflex (PLR) dynamics. Infants later associated with autism demonstrate larger and faster PLR responses, indicating heightened physiological responsiveness within early autonomic sensorimotor circuitry [(Fish et al., 2026)](https://doi.org/10.1038/s41598-025-31651-5). Epigenome wide analysis identified methylation signatures linked to neurodevelopmental regulation, autonomic signaling, calcium associated pathways, and autism associated genes including NR4A2 and HNRNPU [(Fish et al., 2026)](https://doi.org/10.1038/s41598-025-31651-5). Because the pupillary light reflex depends on tightly coupled calcium dependent neuronal signaling and autonomic activation, these findings support the presence of altered early excitatory regulation before complex behavioral phenotypes fully emerge.
 
 Work in birds shows that heightened parental cortisol load increases offspring fear response and HPA reactivity without direct exposure to upregulating conditions, demonstrating that hyperexcitability itself is a transgenerational trait rather than a random developmental anomaly [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
 
@@ -177,7 +181,7 @@ If this pressure continues, DNA methyltransferases stabilize the glycolytic prog
 
 Plants follow the same excitatory logic with their own ligand system. When insects, nematodes, microbes, or injected effectors embed in plant tissue, surrounding cells form a **gall**, a structural containment ring parallel to the inflammatory ring in animals. This gall tissue increases auxin, which amplifies GLR channel activation and RBOH based ROS production just as QUIN amplifies NMDA activity in animals. Both ligands raise calcium, increase ROS, favor local glycolytic adaptation, and support hypergrowth structures when the shift stabilizes. In plants this produces galls and other hypergrowth structures. In animals this produces tumors. The containment logic, excitatory amplification, ROS escalation, glycolytic shift, and potential methylation lock follow the same biochemical sequence in both kingdoms.
 
-This resolves cancer and plant hypergrowth structures as two expressions of the same excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
+This suggests that cancer and plant hypergrowth structures may represent two expressions of a shared excitatory redox mechanism based on ligand amplified containment around persistent foreign objects.
 
 ### Exhaustion Excitotoxicity
 
@@ -215,6 +219,7 @@ These interventions target nodal points in the glutamate calcium ROS network, ai
 | [Targeting PDK4 to mitigate osimertinib-induced cardiotoxicity: Insights into mitochondria-endoplasmic reticulum crosstalk and necroptosis](https://doi.org/10.1016/j.freeradbiomed.2025.08.017) | Deng et al. | 2025 |
 | [Fever Induces Long-Term Synaptic Enhancement and Protects Learning in an Accelerated Aging Model](https://doi.org/10.14336/AD.2025.0591) | Du et al. | 2025 |
 | [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci et al. | 2007 |
+| [Epigenome-wide analysis identifies DNA methylation signatures associated with the infant pupillary light reflex, a candidate intermediate phenotype for autism](https://doi.org/10.1038/s41598-025-31651-5) | Fish et al. | 2026 |
 | [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
 | [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
 | [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
