@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 11:24 AM
+updated: 05/15/2026 11:49 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -70,31 +70,33 @@ Work in birds shows that heightened parental cortisol load increases offspring f
 
 **Plants follow the same generational architecture.** Stressed parent plants accumulate hypermethylation at growth-balancing regulatory loci and progressively open chromatin at GLR–calcium–ROS promoters. Their offspring inherit these excitatory promoters in a primed, hypomethylated state, showing increased calcium responsiveness, faster ROS bursts, and heightened metabolic activation when exposed to heat, drought, cold, or salinity [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). This cross-kingdom parallel confirms that inherited hyperexcitability is not species-bound; it is a fundamental biological response to cumulative parental excitation.
 
-Within Biolectrics, autism is therefore understood as **the human neurodevelopmental expression of an inherited hyperexcitable baseline**. Circuits begin life with:
+Within Biolectrics, autism is therefore understood as the neurodevelopmental expression of an inherited heightened excitatory baseline. Circuits begin life biased toward:
 
-- **lower GR availability** than the parent originally had at birth  
-- **higher baseline NMDA and AMPA receptor expression**  
-- **reduced inhibitory tone**  
-- **faster calcium-ROS coupling** and  
-- **lower thresholds for metabolic activation**  
+- reduced effective glucocorticoid feedback regulation
+- elevated NMDA and AMPA receptor readiness through enhanced excitatory trafficking dynamics
+- reduced inhibitory balance
+- faster calcium-ROS coupling
+- lower thresholds for metabolic activation
 
-This configuration enhances pattern detection and sensory resolution but narrows redox margins, raising vulnerability to overload when antioxidant reserves are limited [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
+This configuration may enhance pattern detection, sensory resolution, and environmental responsiveness while simultaneously narrowing redox stability margins, increasing vulnerability to oxidative overload when antioxidant buffering capacity is insufficient [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
 
-Neurodevelopmental and neurodegenerative conditions then occupy different points on the same inherited excitatory continuum. Autism reflects the early developmental manifestation of this heightened excitatory baseline; affective dysregulation or degenerative vulnerability later in life represent downstream expressions of the same generational architecture, shaped by usage load, endocrine history, and redox capacity.
+Neurodevelopmental and neurodegenerative conditions therefore occupy different points along the same inherited excitatory continuum. Autism reflects an early developmental manifestation of heightened excitatory baseline regulation, while affective dysregulation, excitotoxic vulnerability, or neurodegenerative progression later in life represent downstream expressions of the same inherited stress responsive architecture shaped by cumulative excitatory load, endocrine history, and redox buffering capacity.
 
 ---
 
 ## Cellular Excitation and Redox Coupling
 
-Cells with elevated glutamate receptor density enter a new functional state where electrical signaling, calcium flow, and redox activity become tightly coupled.
+Cells with elevated glutamate receptor density enter a new functional state where electrical signaling, calcium flow, mitochondrial metabolism, and redox activity become tightly coupled.
 
-1. **Excitation.** Stress raises activity in NMDA, AMPA, and mGluR5 receptors [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106). Cortisol activates SGK1 and Rab4, increasing receptor trafficking to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). In the amygdala, glucocorticoids increase the excitability of principal basolateral neurons, demonstrating that GR activation directly shifts fear circuitry into a higher gain state [(Duvarci and Paré, 2007)](https://doi.org/10.1523/JNEUROSCI.0680-07.2007).
+1. **Excitation.** Stress raises activity in NMDA, AMPA, and mGluR5 receptor systems [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106). Cortisol rapidly activates SGK1 signaling, which enhances Rab4 mediated recycling of glutamatergic receptors from intracellular endosomal pools back to the neuronal membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). Rather than requiring immediate new receptor synthesis, this pathway increases the surface availability and responsiveness of pre existing NMDA and AMPA receptors, allowing excitatory throughput to rise within minutes of stress exposure. Repeated glucocorticoid activation therefore biases synapses toward persistently elevated receptor readiness and stronger calcium influx during activation. In the amygdala, glucocorticoids increase the excitability of principal basolateral neurons, demonstrating that GR activation directly shifts fear circuitry into a higher gain state [(Duvarci and Paré, 2007)](https://doi.org/10.1523/JNEUROSCI.0680-07.2007).
 
-2. **Calcium entry.** Each excitatory burst brings calcium into the cell. Mitochondria increase respiration to maintain energetic demand. TRPV6 and voltage gated channels add to the influx.
+2. **Calcium entry and mitochondrial coupling.** Each excitatory burst brings calcium into the cell through NMDA receptors, AMPA associated depolarization, and voltage gated calcium channels. Calcium is transferred into mitochondria through mitochondria associated ER membranes and the mitochondrial calcium uniporter, where it accelerates oxidative phosphorylation to maintain energetic demand. Sustained calcium loading increases electron transport chain throughput and elevates mitochondrial ROS generation.
 
-3. **ROS generation.** Calcium loaded mitochondria increase superoxide and hydrogen peroxide production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). Stress prolongs mGluR5 activity by uncoupling it from Homer, extending calcium signaling beyond the original stimulus [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017).
+3. **ROS generation and glutathione depletion.** Calcium loaded mitochondria increase superoxide and hydrogen peroxide production [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w). Stress prolongs mGluR5 activity by uncoupling it from Homer, extending calcium signaling beyond the original stimulus [(Tronson et al., 2010)](https://doi.org/10.1016/j.biopsych.2010.09.004); [(Sun et al., 2017)](https://doi.org/10.1016/j.neuroscience.2017.06.017). As oxidative demand rises, glutathione reserves become depleted, weakening GPX4 dependent detoxification of lipid peroxides and sensitizing membranes to ferroptotic oxidation [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014).
 
-4. **Damage and remodeling.** Excess ROS oxidize membranes and DNA, activate autophagy, and induce redox sensitive transcription through HIF-1α and c-Myc [(Magdaleno Roman and Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
+4. **Lysosomal rupture and propagative ferroptosis.** Lipid peroxidation accumulates on lysosomal membranes prior to plasma membrane damage, leading to lysosome rupture and release of lysosomal iron and cathepsins [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014). Released iron amplifies local Fenton chemistry and membrane oxidation, while cathepsins accelerate necrotic membrane rupture and propagative cell death waves across neighboring cells. Glutathione depletion shifts ferroptosis from heterogeneous isolated death into synchronized collective necrosis.
+
+5. **Damage and remodeling.** Excess ROS oxidize membranes and DNA, activate autophagy, and induce redox sensitive transcription through HIF-1α and c-Myc [(Magdaleno Roman and Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
 
 ---
 
@@ -126,7 +128,13 @@ In **plants**, chronic stress that exceeds antioxidant buffering drives similar 
 
 ## ROS and Ferroptotic Progression
 
-When calcium driven respiration pushes mitochondrial chemistry beyond equilibrium, superoxide and hydrogen peroxide begin to accumulate. In the presence of free iron, these oxidants undergo Fenton chemistry that generates hydroxyl radicals, which initiate chain lipid peroxidation and destabilize membranes [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1). This is the structural beginning of ferroptotic pressure. The same redox overload follows an identical cascade across neural, muscular, hepatic, cardiovascular, renal, immune, and epithelial systems.
+When calcium driven respiration pushes mitochondrial oxidative phosphorylation beyond antioxidant buffering capacity, superoxide and hydrogen peroxide begin to accumulate. Increased electron transport chain throughput elevates electron leak, while sustained oxidative demand progressively depletes glutathione reserves and weakens GPX4 mediated detoxification of lipid peroxides.
+
+As lipid peroxide burden rises, lysosomal membranes themselves become targets of oxidation. Lipid peroxidation accumulates on lysosomal membranes prior to plasma membrane rupture, eventually causing lysosome destabilization and release of lysosomal labile iron and cathepsins [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014). The released iron locally amplifies Fenton chemistry, generating hydroxyl radicals that drive further phospholipid peroxidation and membrane destruction.
+
+Under glutathione depleted conditions, this process shifts ferroptotic injury from heterogeneous isolated death into synchronized propagative necrosis as oxidative membrane damage spreads across neighboring cells [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014). Oxidized membrane lipids accumulate across mitochondrial, lysosomal, endoplasmic reticulum, and plasma membranes, destabilizing cellular integrity and redox signaling systems [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
+
+This ferroptotic progression is not neuron specific. The same calcium, mitochondrial, lysosomal iron, and lipid peroxidation cascade can emerge across neural, muscular, hepatic, cardiovascular, renal, immune, and epithelial systems whenever sustained excitation or metabolic overload exceeds antioxidant repair capacity.
 
 ### Neurological Disease
 
@@ -170,9 +178,9 @@ When antioxidant reserves are sufficient, the system returns to baseline. When r
 
 Across all tissues in both plants and animals, ROS is the final common pathway when excitatory load exceeds antioxidant capacity. In animal cells, sustained calcium influx and mitochondrial hyperactivation push the electron transport chain into a high pressure state that generates superoxide and hydrogen peroxide. Persistent overload drives ferroptotic chemistry when glutathione and GPX4 collapse. Chronic HO1 activation through Bach1 signaling releases Fe²⁺ from heme, while loss of PGRMC1 disrupts heme export through mitochondria associated membranes. The enlarged iron pool accelerates hydroxyl radical formation, which drives chain lipid peroxidation, nuclear membrane failure, and irreversible oxidative death.
 
-Plants converge on the same endpoint through their own organelle systems. GLR mediated calcium entry activates RBOH enzymes, which generate large bursts of superoxide and hydrogen peroxide. Chloroplasts and mitochondria both amplify ROS when electron transport becomes over reduced under drought, heat, salinity, or infection. When this oxidant burden overwhelms ascorbate, glutathione, and GPX like enzymes, plant cells enter a programmed collapse that is chemically identical to ferroptosis in animal cells. The iron dependent lipid peroxidation that defines ferroptotic death in animals appears in plants under severe abiotic or biotic stress, and the same repair failure triggers membrane breakdown and loss of cellular integrity.
+Plants converge on the same endpoint through their own organelle systems. GLR mediated calcium entry activates RBOH enzymes, which generate large bursts of superoxide and hydrogen peroxide. Chloroplasts and mitochondria both amplify ROS when electron transport becomes over reduced under drought, heat, salinity, or infection. When this oxidant burden overwhelms ascorbate, glutathione, and GPX like enzymes, plant cells enter a ferroptosis-like collapse marked by iron dependent lipid peroxidation, membrane breakdown, and loss of cellular integrity under severe abiotic or biotic stress.
 
-This sequence defines the terminal stage of the stress glutamate ROS cascade in both kingdoms. Calcium overload, mitochondrial or chloroplast driven hyperactivation, RBOH or NADPH oxidase escalation, ROS accumulation, iron catalyzed peroxidation, and structural collapse form a universal biological architecture for aging, degeneration, inflammatory pathology, and malignant or hypergrowth transformation. The specific proteins differ between plants and animals, but the chemical logic and redox thresholds that determine survival or collapse are the same.
+This sequence defines the terminal stage of the stress glutamate ROS cascade in both kingdoms. Calcium overload, mitochondrial or chloroplast electron transport hyperactivation, RBOH or NADPH oxidase escalation, ROS accumulation, iron catalyzed lipid peroxidation, and structural membrane collapse form a universal biological architecture for aging, degeneration, inflammatory pathology, and malignant or hypergrowth transformation. The specific proteins differ between plants and animals, but the chemical logic and redox thresholds that determine survival or collapse are the same.
 
 ---
 
