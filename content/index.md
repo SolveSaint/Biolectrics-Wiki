@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 12:17 PM
+updated: 05/15/2026 1:17 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -36,23 +36,23 @@ In animals the stress methylome forms when cortisol repeatedly activates glucoco
 
 Intergenerational transmission has been demonstrated directly. Trauma exposed parents show specific FKBP5 methylation patterns that appear again in their children, who display altered stress sensitivity despite never experiencing the original trauma [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Stress therefore leaves a durable methylation imprint on glucocorticoid related genes, and that imprint is heritable.
 
-The key principle is that parental stress induces **hypermethylation at regulatory restraint genes**, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead it reduces glucocorticoid restraint and reallocates transcriptional priority toward excitatory pathways, increasing synthesis of NMDA, AMPA, and related glutamate receptor subunits through activity driven promoters. Over time this excitatory configuration becomes the parent’s operating baseline.
+The key principle is that parental stress induces **hypermethylation at regulatory restraint genes**, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead it weakens glucocorticoid feedback restraint and reallocates transcriptional priority toward excitatory pathways, increasing synthesis and membrane readiness of NMDA, AMPA, and related glutamatergic receptor systems through activity dependent signaling. Over time this excitatory configuration becomes the parent’s operating baseline.
 
-In the next generation these same loci can appear hypomethylated relative to the stressed parent. Crucially, this inherited “hypo” state is not a restoration of the original ancestral baseline. Chronic stress in the parent alters glucocorticoid regulatory architecture through persistent cortisol exposure, FKBP5 remodeling, and impaired glucocorticoid receptor feedback efficiency [(Lee et al., 2010)](https://doi.org/10.1210/en.2010-0225).
+In the next generation these same loci often appear hypomethylated relative to the chronically stressed parent [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005); [(Klengel et al., 2012)](https://doi.org/10.1038/nn.3275). Crucially, this inherited “hypo” state is not a restoration of the original ancestral baseline. Chronic stress altered glucocorticoid feedback dynamics in the parent through persistent changes involving NR3C1, FKBP5, and related regulatory systems, reducing effective glucocorticoid restraint and prolonging cortisol signaling [(Lee et al., 2010)](https://doi.org/10.1210/en.2010-0225).
 
-The offspring inherit a comparatively hypomethylated FKBP5 configuration that increases FKBP5 inducibility and expression during stress signaling [(Bierer et al., 2020)](https://doi.org/10.1176/appi.ajp.2019.19060618). FKBP5 functions as a negative regulator of glucocorticoid receptor signaling by reducing glucocorticoid receptor sensitivity and impairing receptor nuclear translocation [(Klengel et al., 2013)](https://doi.org/10.1038/nn.3275). As a result, the inherited state weakens effective HPA axis negative feedback despite continued cortisol exposure, allowing cortisol signaling to persist longer after stress activation [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005).
+The offspring inherit a comparatively hypomethylated FKBP5 configuration that increases FKBP5 inducibility and expression during stress signaling [(Bierer et al., 2020)](https://doi.org/10.1176/appi.ajp.2019.19060618). FKBP5 functions as a negative regulator of glucocorticoid receptor signaling by reducing glucocorticoid receptor sensitivity and impairing receptor nuclear translocation [(Klengel et al., 2012)](https://doi.org/10.1038/nn.3275). As a result, the inherited state weakens effective HPA axis negative feedback despite continued cortisol exposure, allowing cortisol signaling to persist longer after stress activation [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005).
 
-Functionally, prolonged glucocorticoid signaling favors elevated glutamatergic throughput through increased NMDA and AMPA receptor expression, altered glutamate handling, and heightened excitatory responsiveness [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). This lowers thresholds for calcium influx, mitochondrial metabolic stress, and oxidative stress generation over time. The intergenerational “hyper-to-hypo” inversion therefore does not represent normalization. Instead, it preserves altered stress responsivity and shifts neural systems toward persistent excitatory sensitivity across generations.
+Functionally, prolonged glucocorticoid signaling favors elevated glutamatergic throughput through increased NMDA and AMPA receptor expression, enhanced presynaptic glutamate release, altered vesicular glutamate loading, impaired glutamate clearance, and heightened excitatory responsiveness [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). This lowers thresholds for calcium influx, mitochondrial metabolic stress, and oxidative stress generation over time. The intergenerational “hyper-to-hypo” inversion therefore does not represent normalization. Instead, it preserves altered stress responsivity and shifts neural systems toward persistent excitatory sensitivity across generations.
 
 Plants follow the same functional logic through their own genomic architecture. Chronic stress in the parent induces **hypermethylation at growth associated regulatory loci**, not as suppression but as a reallocation of transcriptional priority away from baseline growth and toward excitatory defense. This parallels the animal shift away from glucocorticoid restraint and toward NMDA and AMPA driven throughput.
 
-At the same time, repeated stress primes the promoters that control **GLR channel activation, calcium influx, and RBOH mediated ROS production**. These excitatory promoters become more accessible with each stress cycle, increasing the parent’s baseline excitability in the same way that sustained stress produces Nur77 dominance and elevated glutamate receptor expression in animals.
+At the same time, repeated environmental stress strengthens signaling pathways that regulate GLR mediated calcium entry, electrical signaling, and RBOH mediated ROS production [(Ni et al., 2016)](https://doi.org/10.1186/s12284-016-0081-x); [(Simon et al., 2023)](https://doi.org/10.1146/annurev-arplant-070522-033255). Plant GLR channels function as excitatory calcium conduits that couple environmental stimulation to intracellular calcium transients and downstream oxidative signaling [(Kong et al., 2016)](https://doi.org/10.1016/j.celrep.2016.11.015). Calcium influx through GLR pathways activates RBOH and related NADPH oxidase systems, producing ROS bursts that propagate stress signaling and redox remodeling [(Li et al., 2019)](https://doi.org/10.1111/pce.13623); [(Steinhorst et al., 2014)](https://doi.org/10.1016/j.pbi.2014.08.003).
 
-In the next generation these primed stress responsive promoters appear in a **hypomethylated, open configuration**. As in animals, this inherited openness does not restore a pre stress baseline. It continues the parent’s shift toward excitatory readiness. Offspring activate GLR mediated calcium entry and the ROS burst more rapidly when exposed to drought, salinity, heat, or cold.
+Across generations, plants exposed to chronic drought, salinity, heat, cold, or pathogen stress frequently display stress priming phenotypes in which descendants respond more rapidly and intensely to later environmental challenge [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). Rather than restoring a pre stress baseline, this inherited priming biases offspring toward faster GLR associated calcium signaling, earlier ROS activation, and heightened redox responsiveness during subsequent stress exposure.
 
-The functional outcome is identical across kingdoms. Stress in the parent produces hypermethylation at regulatory balance points and increased openness at excitatory promoters. The offspring inherit the **excitatory side** of this configuration, beginning life with higher receptor density, faster calcium activation, and stronger redox engagement [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325).
+The functional outcome is therefore highly conserved across kingdoms. Stress exposure shifts transcriptional and signaling systems toward greater excitatory and oxidative readiness, increasing calcium responsiveness, ROS engagement, and metabolic activation under future challenge. In both plants and animals, descendants inherit altered stress responsiveness that favors more rapid activation of calcium dependent and redox dependent pathways during environmental or physiological load.
 
-Across plants and animals the stress methylome is therefore a **generational record of cumulative excitation**. It encodes the parent’s excitatory experience into the chromatin architecture of the next generation and determines excitability, metabolic sensitivity, and antioxidant demand at the beginning of life.
+Across plants and animals the stress methylome therefore functions as a generational record of cumulative excitation and stress exposure. It encodes prior environmental load into the regulatory architecture of the next generation and influences excitability, metabolic sensitivity, and antioxidant demand at the beginning of life.
 
 ---
 
@@ -198,36 +198,43 @@ These interventions target nodal points in the glutamate calcium ROS network, ai
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang et al. | 2025 |
-| [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
-| [Allele-specific FKBP5 DNA demethylation mediates gene–childhood trauma interactions](https://doi.org/10.1038/nn.3275) | Klengel et al. | 2012 |
-| [Cholesterol induced-mitochondrial calcium dysregulation facilitates atherosclerosis by promoting lipid accumulation in vascular smooth muscle cells](https://doi.org/10.1186/s43556-025-00384-2) | Zhang et al. | 2025 |
-| [Chronic Corticosterone Exposure Increases Expression and Decreases Deoxyribonucleic Acid Methylation of Fkbp5 in Mice](https://doi.org/10.1210/en.2010-0225) | Lee et al. | 2010 |
-| [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
-| [Environmentally induced epigenetic transgenerational inheritance of sperm epimutations promote genetic mutations](https://doi.org/10.1080/15592294.2015.1062207) | Skinner et al. | 2015 |
-| [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
-| [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
-| [Ferroptosis induces heterogeneous death profiles that are controlled by lysosome rupture](https://doi.org/10.1016/j.devcel.2026.01.014) | Das et al. | 2026 |
-| [Fever Induces Long-Term Synaptic Enhancement and Protects Learning in an Accelerated Aging Model](https://doi.org/10.14336/AD.2025.0591) | Du et al. | 2025 |
-| [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
-| [Glucocorticoid receptor gene (NR3C1) DNA methylation in association with trauma, psychopathology, transcript expression, or genotypic variation: A systematic review](https://doi.org/10.1016/j.neubiorev.2018.08.017) | Watkeys et al. | 2018 |
-| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci et al. | 2007 |
-| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman et al. | 2024 |
-| [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
-| [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
 | [Human DNA methylation and the cortisol response to an acute psychological stressor: a systematic review and meta-analysis](https://doi.org/10.1016/j.pnpbp.2026.111708) | Balfour et al. | 2026 |
-| [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
-| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2010 |
-| [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
-| [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
-| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
-| [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
-| [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
-| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura et al. | 2011 |
-| [Role of Iron‐Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
-| [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
+| [Ferroptosis induces heterogeneous death profiles that are controlled by lysosome rupture](https://doi.org/10.1016/j.devcel.2026.01.014) | Das et al. | 2026 |
 | [Targeting PDK4 to mitigate osimertinib-induced cardiotoxicity: Insights into mitochondria-endoplasmic reticulum crosstalk and necroptosis](https://doi.org/10.1016/j.freeradbiomed.2025.08.017) | Deng et al. | 2025 |
-| [The Interplay Between Ca2+ Homeostasis, Endoplasmic Reticulum Stress, and the Unfolded Protein Response in Human Diseases](https://doi.org/10.3390/cells15040352) | Ranzato et al. | 2026 |
+| [Fever Induces Long-Term Synaptic Enhancement and Protects Learning in an Accelerated Aging Model](https://doi.org/10.14336/AD.2025.0591) | Du et al. | 2025 |
+| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci et al. | 2007 |
+| [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
+| [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
 | [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
+| [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
+| [Allele-specific FKBP5 DNA demethylation mediates gene–childhood trauma interactions](https://doi.org/10.1038/nn.3275) | Klengel et al. | 2012 |
+| [L-Met Activates Arabidopsis GLR Ca2+ Channels Upstream of ROS Production and Regulates Stomatal Movement](https://doi.org/10.1016/j.celrep.2016.11.015) | Kong et al. | 2016 |
+| [Chronic Corticosterone Exposure Increases Expression and Decreases Deoxyribonucleic Acid Methylation of Fkbp5 in Mice](https://doi.org/10.1210/en.2010-0225) | Lee et al. | 2010 |
+| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation‐induced chilling tolerance by regulating apoplastic H2O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
+| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman et al. | 2024 |
+| [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
+| [Heterologous Expression and Functional Analysis of Rice GLUTAMATE RECEPTOR-LIKE Family Indicates its Role in Glutamate Triggered Calcium Flux in Rice Roots](https://doi.org/10.1186/s12284-016-0081-x) | Ni et al. | 2016 |
+| [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
+| [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
 | [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2011 |
+| [The Interplay Between Ca2+ Homeostasis, Endoplasmic Reticulum Stress, and the Unfolded Protein Response in Human Diseases](https://doi.org/10.3390/cells15040352) | Ranzato et al. | 2026 |
+| [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
+| [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
+| [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
+| [Merging Signaling with Structure: Functions and Mechanisms of Plant Glutamate Receptor Ion Channels](https://doi.org/10.1146/annurev-arplant-070522-033255) | Simon et al. | 2023 |
+| [Environmentally induced epigenetic transgenerational inheritance of sperm epimutations promote genetic mutations](https://doi.org/10.1080/15592294.2015.1062207) | Skinner et al. | 2015 |
+| [Signaling in cells and organisms — calcium holds the line](https://doi.org/10.1016/j.pbi.2014.08.003) | Steinhorst et al. | 2014 |
+| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura et al. | 2011 |
+| [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
+| [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
+| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang et al. | 2025 |
+| [Glucocorticoid receptor gene (NR3C1) DNA methylation in association with trauma, psychopathology, transcript expression, or genotypic variation: A systematic review](https://doi.org/10.1016/j.neubiorev.2018.08.017) | Watkeys et al. | 2018 |
+| [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
+| [The Roles of Environmental Factors in Regulation of Oxidative Stress in Plant](https://doi.org/10.1155/2019/9732325) | Xie et al. | 2019 |
+| [Role of Iron‐Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
+| [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
+| [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
+| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2010 |
+| [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
+| [Cholesterol induced-mitochondrial calcium dysregulation facilitates atherosclerosis by promoting lipid accumulation in vascular smooth muscle cells](https://doi.org/10.1186/s43556-025-00384-2) | Zhang et al. | 2025 |
