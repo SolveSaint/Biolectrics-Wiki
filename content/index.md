@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 12:02 PM
+updated: 05/15/2026 12:04 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -32,7 +32,7 @@ Once stress exceeds redox control both kingdoms converge on the same survival op
 
 ## The Stress Methylome and Inherited Regulation
 
-In animals the stress methylome forms when cortisol repeatedly activates glucocorticoid receptors. Each activation cycle drives the cortisol receptor complex into the nucleus, where it reshapes methylation at **NR3C1**, **FKBP5**, and **HSD11B2**. Early evidence summarized by [(Watkeys et al., 2018)](https://doi.org/10.1016/j.neubiorev.2018.08.017) showed consistent NR3C1 methylation changes across trauma cohorts, linking these marks to altered receptor expression and psychopathology. The more recent meta analysis by [(Balfour et al., 2025)](https://doi.org/10.1101/2025.10.23.25338702) demonstrates that these methylation states also predict cortisol responsiveness during acute stress.
+In animals the stress methylome forms when cortisol repeatedly activates glucocorticoid receptors. Each activation cycle drives the cortisol receptor complex into the nucleus, where it reshapes methylation at **NR3C1**, **FKBP5**, and **HSD11B2**. Early evidence summarized by [(Watkeys et al., 2018)](https://doi.org/10.1016/j.neubiorev.2018.08.017) showed consistent NR3C1 methylation changes across trauma cohorts, linking these marks to altered receptor expression and psychopathology. The more recent meta analysis by [(Balfour et al., 2025)](https://doi.org/10.1016/j.pnpbp.2026.111708) demonstrates that these methylation states also predict cortisol responsiveness during acute stress.
 
 Intergenerational transmission has been demonstrated directly. Trauma exposed parents show specific FKBP5 methylation patterns that appear again in their children, who display altered stress sensitivity despite never experiencing the original trauma [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Stress therefore leaves a durable methylation imprint on glucocorticoid related genes, and that imprint is heritable.
 
