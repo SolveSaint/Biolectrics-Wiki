@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 1:26 PM
+updated: 05/15/2026 1:35 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -68,11 +68,12 @@ Third, environmental stressors induce stable germline epimutations that bias neu
 
 Work in birds shows that heightened parental cortisol load increases offspring fear response and HPA reactivity without direct exposure to upregulating conditions, demonstrating that hyperexcitability itself is a transgenerational trait rather than a random developmental anomaly [(Oluwagbenga et al., 2025)](https://doi.org/10.1016/j.psj.2025.105838).
 
-**Plants exhibit a broadly parallel stress priming architecture across generations.** Stressed parent plants accumulate hypermethylation at growth-balancing regulatory loci and progressively open chromatin at GLR–calcium–ROS promoters. Their offspring inherit these excitatory promoters in a primed, hypomethylated state, showing increased calcium responsiveness, faster ROS bursts, and heightened metabolic activation when exposed to heat, drought, cold, or salinity [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). This cross-kingdom parallel confirms that inherited hyperexcitability is not species-bound; it is a fundamental biological response to cumulative parental excitation.
+**Plants exhibit a broadly parallel stress priming architecture across generations.** Stressed parent plants accumulate hypermethylation at growth balancing regulatory loci while strengthening GLR mediated calcium signaling and ROS responsive pathways. Across generations, offspring frequently inherit a primed stress responsive state characterized by faster calcium signaling, stronger ROS engagement, and heightened metabolic responsiveness when exposed to heat, drought, cold, salinity, or pathogen challenge [(Hasanuzzaman et al., 2020)](https://doi.org/10.3390/ijms21228695); [(Xie et al., 2019)](https://doi.org/10.1155/2019/9732325). Plant GLR channels function as excitatory calcium conduits that couple environmental stimulation to intracellular calcium transients and downstream oxidative signaling [(Kong et al., 2016)](https://doi.org/10.1016/j.celrep.2016.11.015); [(Simon et al., 2023)](https://doi.org/10.1146/annurev-arplant-070522-033255). This cross kingdom parallel suggests that inherited hyperresponsiveness to stress is not species bound but reflects a conserved biological strategy for adapting to cumulative parental environmental load.
 
 Within Biolectrics, autism is therefore understood as the neurodevelopmental expression of an inherited heightened excitatory baseline. Circuits begin life biased toward:
 
 - reduced effective glucocorticoid feedback regulation
+- heightened cortisol associated glutamate release
 - elevated NMDA and AMPA receptor readiness through enhanced excitatory trafficking dynamics
 - reduced inhibitory balance
 - faster calcium-ROS coupling
@@ -80,7 +81,7 @@ Within Biolectrics, autism is therefore understood as the neurodevelopmental exp
 
 This configuration may enhance pattern detection, sensory resolution, and environmental responsiveness while simultaneously narrowing redox stability margins, increasing vulnerability to oxidative overload when antioxidant buffering capacity is insufficient [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
 
-Neurodevelopmental and neurodegenerative conditions therefore occupy different points along the same inherited excitatory continuum. Autism reflects an early developmental manifestation of heightened excitatory baseline regulation, while affective dysregulation, excitotoxic vulnerability, or neurodegenerative progression later in life represent downstream expressions of the same inherited stress responsive architecture shaped by cumulative excitatory load, endocrine history, and redox buffering capacity.
+Neurodevelopmental, neurodegenerative, metabolic, cardiovascular, immune, and proliferative disorders therefore occupy different points along the same inherited excitatory continuum. Autism reflects an early developmental manifestation of heightened excitatory baseline regulation, while affective dysregulation, cardiometabolic disease, excitotoxic vulnerability, inflammatory pathology, malignant transformation, or neurodegenerative progression later in life represent downstream expressions of the same inherited stress responsive architecture shaped by cumulative excitatory load, endocrine history, mitochondrial resilience, and redox buffering capacity.
 
 ---
 
