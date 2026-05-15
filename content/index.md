@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 01/08/2026 7:15 PM
+updated: 05/15/2026 11:15 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -38,11 +38,11 @@ Intergenerational transmission has been demonstrated directly. Trauma exposed pa
 
 The key principle is that parental stress induces **hypermethylation at regulatory restraint genes**, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead it reduces glucocorticoid restraint and reallocates transcriptional priority toward excitatory pathways, increasing synthesis of NMDA, AMPA, and related glutamate receptor subunits through activity driven promoters. Over time this excitatory configuration becomes the parent’s operating baseline.
 
-In the next generation these same loci often appear **hypomethylated relative to the stressed parent**. Crucially, this inherited “hypo” state is not a restoration of the parent’s original baseline at birth. The parent began life with lower GR availability. After chronic stress and hypermethylation, the parent’s GR system is reduced.
+In the next generation these same loci can appear hypomethylated relative to the stressed parent. Crucially, this inherited “hypo” state is not a restoration of the original ancestral baseline. Chronic stress in the parent alters glucocorticoid regulatory architecture through persistent cortisol exposure, FKBP5 remodeling, and impaired glucocorticoid receptor feedback efficiency [(Lee et al., 2010)](https://doi.org/10.1210/en.2010-0225).
 
-The offspring inherit a configuration that is hypomethylated. Crucially, this means the offspring begin life with **higher GR availability than the parent originally had**, shifting the cortisol–glutamate balance toward excitatory dominance from the start.
+The offspring inherit a comparatively hypomethylated FKBP5 configuration that increases FKBP5 inducibility and expression during stress signaling [(Bierer et al., 2020)](https://doi.org/10.1176/appi.ajp.2019.19060618). FKBP5 functions as a negative regulator of glucocorticoid receptor signaling by reducing glucocorticoid receptor sensitivity and impairing receptor nuclear translocation [(Klengel et al., 2013)](https://doi.org/10.1038/nn.3275). As a result, the inherited state weakens effective HPA axis negative feedback despite continued cortisol exposure, allowing cortisol signaling to persist longer after stress activation [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005).
 
-Functionally, this inherited state raises baseline NMDA, AMPA, and related receptor readiness, producing increased excitatory tone and lower thresholds for calcium influx and metabolic activation. This **relative hyper-to-hypo inversion** is how the stress methylome transmits excitatory load across generations: the parent becomes hypermethylated under stress, and the offspring inherit a “hypo” state that is shifted toward excitatory priming compared to the original ancestral baseline.
+Functionally, prolonged glucocorticoid signaling favors elevated glutamatergic throughput through increased NMDA and AMPA receptor expression, altered glutamate handling, and heightened excitatory responsiveness [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). This lowers thresholds for calcium influx, mitochondrial metabolic stress, and oxidative stress generation over time. The intergenerational “hyper-to-hypo” inversion therefore does not represent normalization. Instead, it preserves altered stress responsivity and shifts neural systems toward persistent excitatory sensitivity across generations.
 
 Plants follow the same functional logic through their own genomic architecture. Chronic stress in the parent induces **hypermethylation at growth associated regulatory loci**, not as suppression but as a reallocation of transcriptional priority away from baseline growth and toward excitatory defense. This parallels the animal shift away from glucocorticoid restraint and toward NMDA and AMPA driven throughput.
 
