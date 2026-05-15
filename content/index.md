@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 12:04 PM
+updated: 05/15/2026 12:13 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -198,42 +198,36 @@ These interventions target nodal points in the glutamate calcium ROS network, ai
 
 | Title | Authors | Year |
 |---|---|:--:|
-| [Activity-Dependent Nr4a2 Induction Modulates Synaptic Expression of AMPA Receptors and Plasticity via a Ca2+/CRTC1/CREB Pathway](https://doi.org/10.1523/JNEUROSCI.1341-22.2023) | Català-Solsona et al. | 2023 |
+| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang et al. | 2025 |
 | [Acute stress enhances glutamatergic transmission in prefrontal cortex and facilitates working memory](https://doi.org/10.1073/pnas.0906791106) | Yuen et al. | 2009 |
+| [Allele-specific FKBP5 DNA demethylation mediates gene–childhood trauma interactions](https://doi.org/10.1038/nn.3275) | Klengel et al. | 2012 |
+| [Cholesterol induced-mitochondrial calcium dysregulation facilitates atherosclerosis by promoting lipid accumulation in vascular smooth muscle cells](https://doi.org/10.1186/s43556-025-00384-2) | Zhang et al. | 2025 |
+| [Chronic Corticosterone Exposure Increases Expression and Decreases Deoxyribonucleic Acid Methylation of Fkbp5 in Mice](https://doi.org/10.1210/en.2010-0225) | Lee et al. | 2010 |
 | [Chronic Stress Causes Amygdala Hyperexcitability in Rodents](https://doi.org/10.1016/j.biopsych.2010.02.008) | Rosenkranz et al. | 2010 |
-| [A comprehensive review of GABA in autism spectrum disorders: associations, mechanisms, and therapeutic implications](https://doi.org/10.3389/fpsyt.2025.1587432) | Wang & Sun | 2025 |
 | [Environmentally induced epigenetic transgenerational inheritance of sperm epimutations promote genetic mutations](https://doi.org/10.1080/15592294.2015.1062207) | Skinner et al. | 2015 |
 | [Excitotoxicity, Oxytosis/Ferroptosis, and Neurodegeneration: Emerging Insights into Mitochondrial Mechanisms](https://doi.org/10.14336/AD.2024.0125-1) | Khan et al. | 2024 |
 | [Exercise-driven modulation of glutamatergic signaling: mechanisms and clinical implications](https://doi.org/10.1016/j.neuroscience.2025.10.029) | Yu et al. | 2025 |
+| [Ferroptosis induces heterogeneous death profiles that are controlled by lysosome rupture](https://doi.org/10.1016/j.devcel.2026.01.014) | Das et al. | 2026 |
 | [Fever Induces Long-Term Synaptic Enhancement and Protects Learning in an Accelerated Aging Model](https://doi.org/10.14336/AD.2025.0591) | Du et al. | 2025 |
 | [Function of p53 in angiogenesis and oxidative stress in rheumatoid arthritis](https://doi.org/10.1007/s10238-025-01867-w) | Robat-Jazi et al. | 2025 |
 | [Glucocorticoid receptor gene (NR3C1) DNA methylation in association with trauma, psychopathology, transcript expression, or genotypic variation: A systematic review](https://doi.org/10.1016/j.neubiorev.2018.08.017) | Watkeys et al. | 2018 |
-| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci & Paré | 2007 |
-| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman & Chapa González | 2024 |
-| [Glutamatergic and GABAergic Synapses in the Human Spinal Dorsal Horn Revealed With Immunohistochemistry](https://doi.org/10.1002/cne.70091) | Davis et al. | 2025 |
+| [Glucocorticoids Enhance the Excitability of Principal Basolateral Amygdala Neurons](https://doi.org/10.1523/JNEUROSCI.0680-07.2007) | Duvarci et al. | 2007 |
+| [Glutamate and excitotoxicity in central nervous system disorders: ionotropic glutamate receptors as a target for neuroprotection](https://doi.org/10.1002/nep3.46) | Magdaleno Roman et al. | 2024 |
 | [Hippocampal GR- and CB1-mediated mGluR5 differentially produces susceptibility and resilience to acute and chronic mild stress in rats](https://doi.org/10.1016/j.neuroscience.2017.06.017) | Sun et al. | 2017 |
 | [Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation](https://doi.org/10.1016/j.biopsych.2015.08.005) | Yehuda et al. | 2016 |
-| [Human DNA methylation and the cortisol response to an acute psychological stressor: a systematic review and meta-analysis](https://doi.org/10.1101/2025.10.23.25338702) | Balfour et al. | 2025 |
+| [Human DNA methylation and the cortisol response to an acute psychological stressor: a systematic review and meta-analysis](https://doi.org/10.1016/j.pnpbp.2026.111708) | Balfour et al. | 2026 |
 | [Iron Metabolism in Cardiovascular Disease: Physiology, Mechanisms, and Therapeutic Targets](https://doi.org/10.1161/CIRCRESAHA.122.321667) | Sawicki et al. | 2023 |
-| [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
-| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
+| [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2010 |
 | [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
 | [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
-| [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
 | [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
-| [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in Triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
+| [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
 | [Parental intake of high-carotenoid orange corn diet alleviated glucocorticoid and fear response but not growth in F1 Pekin ducks](https://doi.org/10.1016/j.psj.2025.105838) | Oluwagbenga et al. | 2025 |
 | [Plasma metabolomics reveals disrupted response and recovery following maximal exercise in myalgic encephalomyelitis/chronic fatigue syndrome](https://doi.org/10.1172/jci.insight.157621) | Germain et al. | 2022 |
-| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura & Keaney | 2011 |
-| [Role of Iron-Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
+| [Reactive oxygen species in cardiovascular disease](https://doi.org/10.1016/j.freeradbiomed.2011.05.004) | Sugamura et al. | 2011 |
+| [Role of Iron‐Related Oxidative Stress and Mitochondrial Dysfunction in Cardiovascular Diseases](https://doi.org/10.1155/2022/5124553) | Yan et al. | 2022 |
 | [Stress Pathways in Chronic Kidney Disease: Linking Cortisol, Oxidative Stress, and Inflammation](https://doi.org/10.3390/antiox14101259) | Motrenikova et al. | 2025 |
-| [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2012 |
-| [Transcriptional and synaptic regulation of NMDA glutamate receptor-mediated hippocampal plasticity and memory](https://doi.org/10.1101/2025.01.19.633774) | Parra-Damas et al. | 2025 |
-| [Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions](https://doi.org/10.1155/2012/217037) | Sharma et al. | 2012 |
-| [Reactive oxygen species (ROS) and response of antioxidants as ROS-scavengers during environmental stress in plants](https://doi.org/10.3389/fenvs.2014.00053) | Das & Roychoudhury | 2014 |
-| [Regulation of ROS Metabolism in Plants under Environmental Stress: A Review of Recent Experimental Evidence](https://doi.org/10.3390/ijms21228695) | Hasanuzzaman et al. | 2020 |
-| [A burst of plant NADPH oxidases](https://doi.org/10.1016/j.tplants.2011.10.001) | Marino et al. | 2012 |
-| [ROS-related redox regulation and signaling in plants](https://doi.org/10.1016/j.semcdb.2017.07.013) | Noctor et al. | 2018 |
-| [The Roles of Environmental Factors in Regulation of Oxidative Stress in Plant](https://doi.org/10.1155/2019/9732325) | Xie et al. | 2019 |
-| [Tomato GLR3.3 and GLR3.5 mediate cold acclimation‐induced chilling tolerance by regulating apoplastic H2 O2 production and redox homeostasis](https://doi.org/10.1111/pce.13623) | Li et al. | 2019 |
-| [Involvement of GLR-mediated nitric oxide effects on ROS metabolism in Arabidopsis plants under salt stress](https://doi.org/10.1007/s10265-024-01528-1) | Gokce et al. | 2024 |
+| [Targeting PDK4 to mitigate osimertinib-induced cardiotoxicity: Insights into mitochondria-endoplasmic reticulum crosstalk and necroptosis](https://doi.org/10.1016/j.freeradbiomed.2025.08.017) | Deng et al. | 2025 |
+| [The Interplay Between Ca2+ Homeostasis, Endoplasmic Reticulum Stress, and the Unfolded Protein Response in Human Diseases](https://doi.org/10.3390/cells15040352) | Ranzato et al. | 2026 |
+| [The Link Between Ferroptosis and Cardiovascular Diseases: A Novel Target for Treatment](https://doi.org/10.3389/fcvm.2021.710963) | Hu et al. | 2021 |
+| [The stressed synapse: the impact of stress and glucocorticoids on glutamate transmission](https://doi.org/10.1038/nrn3138) | Popoli et al. | 2011 |
