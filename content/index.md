@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 3:23 PM
+updated: 05/15/2026 3:51 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -18,7 +18,7 @@ tags:
 
 ---
 
-**Biolectrics** is a unified model explaining how stress driven excitatory signaling shapes bioelectric and metabolic function across generations. In animals, stress increases glutamatergic activity, raises NMDA and AMPA receptor readiness, drives calcium entry, increases mitochondrial loading, and generates [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. When this stress associated excitatory load persists, regulatory methylation patterns progressively shift at key feedback and signaling loci. This generational imprint influences receptor readiness, calcium sensitivity, metabolic load, and antioxidant demand at the beginning of life.
+**Biolectrics** is a unified model explaining how stress driven excitatory signaling shapes bioelectric and metabolic function across generations. In animals, stress increases glutamatergic activity, raises NMDA and AMPA receptor readiness, drives calcium entry, increases mitochondrial loading, and generates [[Stress Pathway/Excitotoxicity/ROS Pathways|Reactive Oxygen Species (ROS)]]. When this stress associated excitatory load persists, regulatory methylation patterns progressively shift at key feedback and signaling loci. This generational imprint is proposed to influence receptor readiness, calcium sensitivity, metabolic load, and antioxidant demand at the beginning of life.
 
 These processes operate in every excitable or metabolically active cell type in both plants and animals. In animals they link the nervous, endocrine, immune, muscular, cardiac, hepatic, and epithelial systems. In plants they link GLR based calcium signaling networks, redox signaling tissues, vascular transport, meristematic growth zones, and immune containment structures. In both kingdoms these pathways determine whether a cell adapts, degenerates, or transforms under load.
 
@@ -42,13 +42,13 @@ The key principle is that parental stress induces hypermethylation at regulatory
 
 Acute glucocorticoid exposure can rapidly enhance excitatory throughput through non genomic signaling mechanisms that increase presynaptic calcium dynamics, vesicular glutamate release probability, and SGK1-Rab4 mediated recycling of NMDA and AMPA receptors back to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). This acute phase temporarily increases receptor readiness, glutamatergic throughput, and working memory performance [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106).
 
-With repeated or severe stress, however, this adaptive enhancement progressively shifts toward maladaptive excitatory dysregulation. Chronic glucocorticoid exposure alters transcriptional regulation, increases ubiquitin proteasome mediated degradation of glutamate receptors through Nedd4 and Fbx2 pathways, impairs glutamatergic signaling in vulnerable cortical regions, and weakens cognitive regulation [(Yuen et al., 2012)](https://doi.org/10.1016/j.neuron.2012.01.033). Stress therefore produces a biphasic excitatory architecture rather than a uniform increase in receptor expression. Some circuits enter persistently hyperexcitable states while others undergo receptor loss, impaired regulation, and oxidative vulnerability under sustained load.
+With repeated or severe stress, however, this adaptive enhancement progressively shifts toward maladaptive excitatory dysregulation. Chronic glucocorticoid exposure alters transcriptional regulation, increases ubiquitin proteasome mediated degradation of glutamate receptors through Nedd4 and Fbx2 pathways, impairs glutamatergic signaling in vulnerable cortical regions, and weakens cognitive regulation [(Yuen et al., 2012)](https://doi.org/10.1016/j.neuron.2012.01.033). Stress therefore produces a biphasic excitatory architecture rather than a uniform increase in receptor expression. Different neural regions therefore diverge under chronic stress, with some circuits entering persistent hyperexcitability while others undergo receptor degradation, impaired regulation, and loss of executive control under sustained oxidative load.
 
 Over repeated stress exposure this altered excitatory configuration becomes the parent’s operating baseline.
 
 In the next generation these same loci often appear comparatively hypomethylated relative to the chronically stressed parent [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005); [(Klengel et al., 2012)](https://doi.org/10.1038/nn.3275). Crucially, this inherited “hypo” state does not restore the original ancestral baseline. Chronic stress persistently altered NR3C1 and FKBP5 regulation in the parent, weakening effective glucocorticoid receptor mediated feedback and prolonging cortisol associated excitatory signaling [(Lee et al., 2010)](https://doi.org/10.1210/en.2010-0225).
 
-The offspring inherit a comparatively hypomethylated FKBP5 configuration that increases FKBP5 inducibility and expression during stress signaling [(Bierer et al., 2020)](https://doi.org/10.1176/appi.ajp.2019.19060618). FKBP5 functions as a negative regulator of glucocorticoid receptor signaling by reducing glucocorticoid receptor sensitivity and impairing receptor nuclear translocation [(Klengel et al., 2012)](https://doi.org/10.1038/nn.3275). Importantly, this does not eliminate rapid excitatory effects of cortisol itself. Instead it weakens feedback normalization, allowing cortisol signaling to persist longer after stress activation [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). As a result, excitatory activation remains intact while stress signaling becomes prolonged and less efficiently restrained.
+The offspring inherit a comparatively hypomethylated FKBP5 configuration that increases FKBP5 inducibility and expression during stress signaling [(Bierer et al., 2020)](https://doi.org/10.1176/appi.ajp.2019.19060618). FKBP5 functions as a negative regulator of glucocorticoid receptor signaling by reducing glucocorticoid receptor sensitivity and impairing receptor nuclear translocation [(Klengel et al., 2012)](https://doi.org/10.1038/nn.3275). Importantly, this does not eliminate rapid excitatory effects of cortisol itself. Instead it weakens feedback normalization, allowing cortisol signaling to persist longer after stress activation [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). As a result, rapid excitatory effects of cortisol remain intact while glucocorticoid feedback normalization becomes progressively less efficient, allowing stress associated glutamatergic signaling to persist longer after activation.
 
 Functionally, prolonged glucocorticoid signaling is associated with elevated glutamatergic throughput through mechanisms involving increased NMDA and AMPA receptor expression, enhanced presynaptic glutamate release, altered vesicular glutamate handling, impaired glutamate clearance, and heightened excitatory responsiveness [(Popoli et al., 2012)](https://doi.org/10.1038/nrn3138). This lowers thresholds for calcium influx, mitochondrial metabolic stress, and oxidative stress generation under sustained excitatory load. The intergenerational “hyper-to-hypo” inversion therefore does not represent normalization. Instead it preserves altered stress responsivity and shifts neural systems toward persistent excitatory sensitivity across generations.
 
@@ -88,6 +88,8 @@ Within Biolectrics, autism is therefore understood as the neurodevelopmental exp
 - reduced inhibitory balance
 - faster calcium-ROS coupling
 - lower thresholds for metabolic activation
+
+The eventual phenotype depends on cumulative stress exposure, compensatory inhibitory adaptation, mitochondrial resilience, developmental environment, and antioxidant buffering capacity across maturation.
 
 This configuration may enhance pattern detection, sensory resolution, and environmental responsiveness while simultaneously narrowing redox stability margins, increasing vulnerability to oxidative overload when antioxidant buffering capacity is insufficient [(Wang and Sun, 2025)](https://doi.org/10.3389/fpsyt.2025.1587432).
 
