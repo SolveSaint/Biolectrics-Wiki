@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 2:27 PM
+updated: 05/15/2026 2:29 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -56,7 +56,7 @@ Across plants and animals the stress methylome therefore functions as a generati
 
 ---
 
-## The Core of Autism is Intergenerational Hyperexcitability
+## The Core of Autism is Intergenerational Hyperexcitation
 
 Autism represents the behavioral expression of a deeper excitability state set before birth by the stress methylome and endocrine regulators. Three recurring elements define this architecture.
 
