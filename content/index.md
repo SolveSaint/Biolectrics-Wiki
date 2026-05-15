@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 11:17 AM
+updated: 05/15/2026 11:24 AM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -54,13 +54,6 @@ The functional outcome is identical across kingdoms. Stress in the parent produc
 
 Across plants and animals the stress methylome is therefore a **generational record of cumulative excitation**. It encodes the parent’s excitatory experience into the chromatin architecture of the next generation and determines excitability, metabolic sensitivity, and antioxidant demand at the beginning of life.
 
-
-### NR4A1 Hypomethylation and Nur77 Dominance
-
-In animals, if **NR4A1** is inherited in a hypomethylated open configuration, offspring begin life with a promoter primed for rapid Nur77 induction. Basal Nur77 levels are higher, and Nur77 dominance emerges earlier when glucocorticoid and CREB signals engage the promoter. Smaller excitatory or hormonal inputs shift control of glutamate receptor transcription from glucocorticoid response elements to CRE sites bound by Nur77 and CREB. This accelerates synthesis of NMDA and AMPA receptor subunits and likely mGluR5 related complexes. Synaptic strength and calcium throughput rise for any given stimulus [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774); [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023); [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035).  
-
-Transgenerational NR4A1 hypomethylation therefore provides a direct route to inherited Nur77 dominance. Glutamate receptor density, excitatory gain, and ROS production ramp more quickly and intensely across development.
-
 ---
 
 ## The Core of Autism is Intergenerational Hyperexcitability
@@ -103,10 +96,6 @@ Cells with elevated glutamate receptor density enter a new functional state wher
 
 4. **Damage and remodeling.** Excess ROS oxidize membranes and DNA, activate autophagy, and induce redox sensitive transcription through HIF-1α and c-Myc [(Magdaleno Roman and Chapa González, 2024)](https://doi.org/10.1002/nep3.46); [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
 
-During this phase, CREB and Nur77 increase transcription of synaptic strength genes. This includes NMDA subunit **Grin1** [(Parra-Damas et al., 2025)](https://doi.org/10.1101/2025.01.19.633774) and AMPA trafficking pathways through Nr4a2 dependent signaling [(Català-Solsona et al., 2023)](https://doi.org/10.1523/JNEUROSCI.1341-22.2023).
-
-GR normally restrains Nur77 activity and time on DNA [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). When feedback weakens, CREB and Nur77 sustain receptor synthesis independently. Calcium rises further, metabolic load increases, and ROS accumulates. This feedback loop stabilizes as a new operating mode without intervention [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
-
 ---
 
 ## Stress Enhancement  
@@ -127,7 +116,7 @@ In both kingdoms, this enhancement window marks the balance between heightened f
 
 The excitatory state that sustains enhancement becomes unstable when oxidative load exceeds recovery capacity. The metabolic response determines whether cells adapt, degenerate, or transform.
 
-In **neurons**, oxidative metabolism remains dominant. They cannot easily switch to glycolysis. Chronic stress weakens glucocorticoid receptor feedback, enabling CREB and Nur77 to remodel cAMP response elements [(Heling et al., 2025)](https://doi.org/10.1101/2025.10.28.685035). Methylation changes accumulate at NR3C1 and BDNF, encoding the excitatory history into chromatin. CREB phosphorylation and Nur77 binding maintain receptor synthesis and calcium influx, locking the neuron into a high ROS state [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
+In **neurons**, oxidative metabolism remains dominant. They cannot easily transition toward glycolytic compensation. Chronic stress weakens glucocorticoid receptor feedback while methylation changes accumulate at NR3C1 and BDNF, embedding prolonged excitatory signaling into transcriptional regulation. Sustained CREB activity promotes continued NMDA and AMPA receptor expression, persistent calcium influx, and elevated mitochondrial metabolic demand, biasing neurons toward chronic ROS generation and excitotoxic vulnerability [(Wu et al., 2025)](https://doi.org/10.1038/s41401-025-01576-w).
 
 In **somatic and tumor capable cells**, greater flexibility allows a glycolytic survival transition. Glucose flow is redirected through glycolysis, glutaminolysis, and SLC7A11 mediated cystine uptake, preserving ATP and glutathione. Sustained oxidative pressure stabilizes this adaptation into a persistent glycolytic identity.
 
@@ -222,7 +211,6 @@ These interventions target nodal points in the glutamate calcium ROS network, ai
 | [Mechanisms for acute stress-induced enhancement of glutamatergic transmission and working memory](https://doi.org/10.1038/mp.2010.50) | Yuen et al. | 2011 |
 | [Metabotropic Glutamate Receptor 5/Homer Interactions Underlie Stress Effects on Fear](https://doi.org/10.1016/j.biopsych.2010.09.004) | Tronson et al. | 2010 |
 | [Mitochondrial dysfunction and oxidative stress in heart disease](https://doi.org/10.1038/s12276-019-0355-7) | Peoples et al. | 2019 |
-| [Modulation of Nur77-DNA Interactions by the Glucocorticoid Receptor](https://doi.org/10.1101/2025.10.28.685035) | Heling et al. | 2025 |
 | [Molecular and Epigenetic Mechanisms for the Complex Effects of Stress on Synaptic Physiology and Cognitive Functions](https://doi.org/10.1093/ijnp/pyx052) | Yuen et al. | 2017 |
 | [Molecular mechanisms of excitotoxicity and their relevance to the pathogenesis of neurodegenerative diseases—an update](https://doi.org/10.1038/s41401-025-01576-w) | Wu et al. | 2025 |
 | [Oxidative stress-mediated DNA damage promotes selective degradation of nuclear components via noncanonical autophagy in Triple-negative breast cancer cells](https://doi.org/10.1016/j.freeradbiomed.2025.10.264) | Chentunarayan Singh et al. | 2025 |
