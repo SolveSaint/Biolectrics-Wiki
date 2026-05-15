@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 3:00 PM
+updated: 05/15/2026 3:05 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -34,12 +34,13 @@ Once stress exceeds redox control both kingdoms converge on the same survival op
 
 In animals the stress methylome forms when cortisol repeatedly activates glucocorticoid receptors. Each activation cycle drives the cortisol receptor complex into the nucleus, where repeated glucocorticoid signaling progressively reshapes methylation patterns at **NR3C1**, **FKBP5**, and **HSD11B2**. Early evidence summarized by [(Watkeys et al., 2018)](https://doi.org/10.1016/j.neubiorev.2018.08.017) showed consistent NR3C1 methylation changes across trauma cohorts, linking these marks to altered receptor expression and psychopathology. The more recent meta analysis by [(Balfour et al., 2025)](https://doi.org/10.1016/j.pnpbp.2026.111708) demonstrates that these methylation states also predict cortisol responsiveness during acute stress.
 
-Intergenerational transmission has been demonstrated directly. Trauma exposed parents show specific FKBP5 methylation patterns that appear again in their children, who display altered stress sensitivity despite never experiencing the original trauma [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). Stress therefore produces a biphasic excitatory architecture rather than a uniform increase in receptor expression [(Yuen et al., 2017)](https://doi.org/10.1093/ijnp/pyx052).
-The key principle is that parental stress induces hypermethylation at regulatory restraint genes, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead repeated glucocorticoid signaling weakens effective feedback regulation and shifts neural systems toward altered excitatory regulation.
+Intergenerational transmission has been demonstrated directly. Trauma exposed parents show specific FKBP5 methylation patterns that appear again in their children, who display altered stress sensitivity despite never experiencing the original trauma [(Yehuda et al., 2016)](https://doi.org/10.1016/j.biopsych.2015.08.005). 
+
+The key principle is that parental stress induces hypermethylation at regulatory restraint genes, particularly NR3C1, FKBP5, and HSD11B2. This does not silence these loci in the traditional sense. Instead repeated glucocorticoid signaling weakens effective feedback regulation and shifts neural systems toward heightened excitatory responsiveness and weaker feedback restraint.
 
 Acute glucocorticoid exposure can rapidly enhance excitatory throughput through non genomic signaling mechanisms that increase presynaptic calcium dynamics, vesicular glutamate release probability, and SGK1-Rab4 mediated recycling of NMDA and AMPA receptors back to the membrane [(Yuen et al., 2011)](https://doi.org/10.1038/mp.2010.50). This acute phase temporarily increases receptor readiness, glutamatergic throughput, and working memory performance [(Yuen et al., 2009)](https://doi.org/10.1073/pnas.0906791106).
 
-With repeated or severe stress, however, this adaptive enhancement progressively shifts toward maladaptive excitatory dysregulation. Chronic glucocorticoid exposure alters transcriptional regulation, increases ubiquitin proteasome mediated degradation of glutamate receptors through Nedd4 and Fbx2 pathways, impairs glutamatergic signaling in vulnerable cortical regions, and weakens cognitive regulation [(Yuen et al., 2012)](https://doi.org/10.1016/j.neuron.2012.01.033). Stress therefore produces a biphasic excitatory architecture rather than a uniform increase in receptor expression. Some circuits enter hyperexcitable high throughput states while others undergo receptor loss, impaired regulation, and oxidative vulnerability under sustained load.
+With repeated or severe stress, however, this adaptive enhancement progressively shifts toward maladaptive excitatory dysregulation. Chronic glucocorticoid exposure alters transcriptional regulation, increases ubiquitin proteasome mediated degradation of glutamate receptors through Nedd4 and Fbx2 pathways, impairs glutamatergic signaling in vulnerable cortical regions, and weakens cognitive regulation [(Yuen et al., 2012)](https://doi.org/10.1016/j.neuron.2012.01.033). Stress therefore produces a biphasic excitatory architecture rather than a uniform increase in receptor expression. Some circuits enter persistently hyperexcitable states while others undergo receptor loss, impaired regulation, and oxidative vulnerability under sustained load.
 
 Over repeated stress exposure this altered excitatory configuration becomes the parent’s operating baseline.
 
