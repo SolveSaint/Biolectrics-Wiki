@@ -1,6 +1,6 @@
 ---
 created: 10/31/2025 12:19 AM
-updated: 05/15/2026 5:18 PM
+updated: 05/15/2026 5:24 PM
 description: Biolectrics — stress–glutamate–ROS model and therapeutic pathways.
 socialImage: og-image.png
 site: https://solvesaint.github.io/Biolectrics-Wiki/
@@ -132,7 +132,7 @@ In both kingdoms, this enhancement window marks the balance between heightened f
 ---
 ## Sleep Instability and Incomplete Excitatory Recovery
 
-Sleep functions as a core restorative phase within the Biolectrics framework, allowing excitatory systems to return toward redox and metabolic equilibrium after periods of heightened activity. During healthy recovery, glutamatergic throughput, calcium signaling, mitochondrial respiration, and reactive oxygen species (ROS) production decline sufficiently for antioxidant reserves, membrane integrity, and mitochondrial quality control systems to restore baseline stability. Sleep therefore operates not merely as behavioral quiescence, but as a coordinated bioelectric and metabolic recovery architecture.
+Sleep functions as a core restorative phase within the Biolectrics framework, allowing excitatory systems to return toward redox and metabolic equilibrium after periods of heightened activity. During healthy recovery, glutamatergic throughput, calcium signaling, mitochondrial respiration, and reactive oxygen species (ROS) production decline sufficiently for antioxidant reserves, membrane integrity, and mitochondrial quality control systems to restore baseline stability. Sleep therefore functions as a coordinated bioelectric and metabolic recovery state that supports restoration of redox balance, mitochondrial stability, and inhibitory regulation following periods of heightened excitatory activity.
 
 ### REM Sleep as an Excitatory Regulation System
 
@@ -146,19 +146,19 @@ This transition shifts REM physiology toward instability. Instead of complete re
 
 Evidence from polysomnographic studies demonstrates that many autistic individuals exhibit REM sleep without normal muscle atonia, alongside excessive transient and sustained muscle activity during REM sleep [(Shukla et al., 2019)](https://doi.org/10.1017/cjn.2019.302). Similar abnormalities are also observed in ADHD and other hyperexcitable neurodevelopmental phenotypes. These findings support the concept that inherited alterations in stress responsive regulation can extend into sleep state physiology itself.
 
-Within Biolectrics, autism represents a developmental manifestation of heightened excitatory regulation involving altered glucocorticoid responsiveness, elevated glutamatergic throughput, reduced inhibitory balance, and faster calcium ROS coupling. Sleep instability emerges naturally from this architecture because REM atonia requires precise inhibitory suppression of already active excitatory systems. When excitatory throughput remains elevated, motor suppression during REM becomes increasingly incomplete.
+Within Biolectrics, autism represents a developmental manifestation of heightened excitatory regulation involving altered glucocorticoid responsiveness, elevated glutamatergic throughput, reduced inhibitory balance, and faster calcium ROS coupling. Sleep instability may emerge from this architecture because REM atonia depends upon precise inhibitory regulation of already active excitatory systems. When excitatory throughput remains elevated, motor suppression during REM becomes increasingly incomplete.
 
 Importantly, this does not imply permanent pathological excitation. The system remains conditional and biphasic. Developmental outcomes depend on reserve capacity, mitochondrial resilience, inhibitory adaptation, antioxidant buffering, recovery quality, and cumulative environmental load over time.
 
 ### Sleep Loss, Recovery Failure, and Oxidative Instability
 
-The Biolectrics framework proposes that pathology emerges not from isolated excitatory events, but from cumulative recovery failure across repeated adaptive cycles. Sleep deprivation directly accelerates this transition by impairing the restoration of metabolic and structural stability.
+The Biolectrics framework proposes that pathology emerges not from isolated excitatory events, but from cumulative recovery failure across repeated adaptive cycles. Sleep deprivation may progressively impair restoration of metabolic and structural stability, increasing vulnerability to cumulative oxidative and excitatory stress across repeated recovery cycles.
 
 Sleep loss induces oligodendrocyte endoplasmic reticulum stress, cholesterol dysregulation, impaired myelin integrity, slowed conduction velocity, disrupted interhemispheric synchronization, and reduced cognitive performance [(Simayi et al., 2026)](https://doi.org/10.1073/pnas.2523438123). These findings demonstrate that sleep disruption progressively destabilizes large scale network timing and signal fidelity, further reducing the brain’s ability to regulate excitatory throughput efficiently.
 
 At the metabolic level, prolonged wakefulness sustains calcium dependent mitochondrial respiration and ROS generation. As antioxidant reserves become progressively depleted, lipid peroxidation accumulates and recovery efficiency declines. Mitochondrial quality control systems such as mitophagy become increasingly strained, allowing damaged mitochondria to persist and amplify oxidative load [(Khan et al., 2024)](https://doi.org/10.14336/AD.2024.0125-1).
 
-When oxidative pressure exceeds glutathione and GPX4 buffering capacity, lysosomal membranes become vulnerable to lipid peroxidation and rupture [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014). The resulting release of labile iron amplifies localized Fenton chemistry and ferroptotic propagation, further destabilizing recovery systems. Sleep disruption therefore progressively shifts tissues away from adaptive excitation and toward oxidative instability, impaired restoration, and structural degeneration.
+When oxidative pressure exceeds glutathione and GPX4 buffering capacity, lysosomal membranes become vulnerable to lipid peroxidation and rupture [(Das et al., 2026)](https://doi.org/10.1016/j.devcel.2026.01.014). The resulting release of labile iron amplifies localized Fenton chemistry and further increases ferroptosis associated oxidative instability, progressively destabilizing recovery systems. Sleep disruption therefore progressively shifts tissues away from adaptive excitation and toward oxidative instability, impaired restoration, and structural degeneration.
 
 ### Autonomic Hyperactivation and Systemic Recovery Impairment
 
